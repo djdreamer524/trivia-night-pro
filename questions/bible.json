@@ -1,0 +1,71 @@
+{
+  "packName": "Bible Trivia",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Old Testament Figures",
+      "questions": [
+        { "value": 100, "question": "This man built an ark to save his family and two of every animal from a great flood.", "answer": "Who is Noah?" },
+        { "value": 200, "question": "This shepherd boy defeated the giant Goliath with a sling and a stone.", "answer": "Who is David?" },
+        { "value": 300, "question": "This man led the Israelites out of slavery in Egypt and received the Ten Commandments on Mount Sinai.", "answer": "Who is Moses?" },
+        { "value": 400, "question": "This first man, formed from dust, lived with Eve in the Garden of Eden.", "answer": "Who is Adam?" },
+        { "value": 500, "question": "This patriarch was asked by God to sacrifice his son Isaac, but was stopped by an angel at the last moment.", "answer": "Who is Abraham?" }
+      ]
+    },
+    {
+      "name": "New Testament Figures",
+      "questions": [
+        { "value": 100, "question": "This disciple denied knowing Jesus three times before the rooster crowed.", "answer": "Who is Peter?" },
+        { "value": 200, "question": "This disciple betrayed Jesus for thirty pieces of silver.", "answer": "Who is Judas Iscariot?" },
+        { "value": 300, "question": "This man, a former persecutor of Christians, was blinded on the road to Damascus and became a major apostle.", "answer": "Who is Paul (Saul)?" },
+        { "value": 400, "question": "This cousin of Jesus baptized him in the Jordan River.", "answer": "Who is John the Baptist?" },
+        { "value": 500, "question": "This disciple famously doubted Jesus' resurrection until he touched his wounds.", "answer": "Who is Thomas (Doubting Thomas)?" }
+      ]
+    },
+    {
+      "name": "Books of the Bible",
+      "questions": [
+        { "value": 100, "question": "This first book of the Bible tells the story of creation.", "answer": "What is Genesis?" },
+        { "value": 200, "question": "This book of poetry and songs was largely attributed to King David.", "answer": "What is Psalms?" },
+        { "value": 300, "question": "This last book of the Bible describes John's apocalyptic visions.", "answer": "What is Revelation?" },
+        { "value": 400, "question": "This book tells the story of a man who endured immense suffering while remaining faithful to God.", "answer": "What is Job?" },
+        { "value": 500, "question": "The Bible's New Testament opens with four books recounting Jesus' life, known collectively as this.", "answer": "What are the Gospels?" }
+      ]
+    },
+    {
+      "name": "Miracles & Events",
+      "questions": [
+        { "value": 100, "question": "Jesus performed this miracle at a wedding in Cana, turning water into this beverage.", "answer": "What is wine?" },
+        { "value": 200, "question": "This sea parted to allow the Israelites to escape Pharaoh's army.", "answer": "What is the Red Sea?" },
+        { "value": 300, "question": "This tower, built by humans trying to reach heaven, was destroyed when God confused their languages.", "answer": "What is the Tower of Babel?" },
+        { "value": 400, "question": "Jesus fed a crowd of 5,000 people using five loaves of bread and this many fish.", "answer": "What is two (fish)?" },
+        { "value": 500, "question": "This event, celebrated at Easter, refers to Jesus rising from the dead three days after his crucifixion.", "answer": "What is the Resurrection?" }
+      ]
+    },
+    {
+      "name": "Places in the Bible",
+      "questions": [
+        { "value": 100, "question": "Jesus was born in this small town in Judea.", "answer": "What is Bethlehem?" },
+        { "value": 200, "question": "This garden was the site of Adam and Eve's creation and fall from grace.", "answer": "What is the Garden of Eden?" },
+        { "value": 300, "question": "This city is considered holy in Judaism, Christianity, and Islam, and was the site of Jesus' crucifixion.", "answer": "What is Jerusalem?" },
+        { "value": 400, "question": "This mountain is where Moses received the Ten Commandments.", "answer": "What is Mount Sinai?" },
+        { "value": 500, "question": "This river is where John the Baptist baptized Jesus.", "answer": "What is the Jordan River?" }
+      ]
+    },
+    {
+      "name": "Numbers & Symbols",
+      "questions": [
+        { "value": 100, "question": "The Israelites wandered in the wilderness for this many years before reaching the Promised Land.", "answer": "What is 40 years?" },
+        { "value": 200, "question": "Jesus fasted in the wilderness for this many days before being tempted by Satan.", "answer": "What is 40 days?" },
+        { "value": 300, "question": "This number of disciples were chosen by Jesus to be his closest followers.", "answer": "What is twelve?" },
+        { "value": 400, "question": "This symbol represents Jesus' crucifixion and is central to Christian faith and imagery.", "answer": "What is the cross?" },
+        { "value": 500, "question": "It rained for this many days and nights during the great flood in the story of Noah.", "answer": "What is 40 days and 40 nights?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "The Ten Commandments",
+    "question": "This commandment, the fourth of the Ten Commandments, instructs believers to keep this day holy.",
+    "answer": "What is the Sabbath (the seventh day)?"
+  }
+}

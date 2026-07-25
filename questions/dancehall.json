@@ -1,0 +1,71 @@
+{
+  "packName": "Dancehall",
+  "theme": "hiphop",
+  "categories": [
+    {
+      "name": "Dancehall Icons",
+      "questions": [
+        { "value": 100, "question": "This artist known as 'the World Boss' released the hit 'Clarks' and is one of dancehall's biggest stars.", "answer": "Who is Vybz Kartel?" },
+        { "value": 200, "question": "This deejay, known as the 'Gargamel,' had a long-running rivalry with Vybz Kartel and released 'Welcome to Jamrock.'", "answer": "Who is Damian Marley? (accept Beenie Man for the Kartel rivalry)" },
+        { "value": 300, "question": "This female dancehall artist known as the 'Female DJ' had hits like 'Foreign Mind.'", "answer": "Who is Spice?" },
+        { "value": 400, "question": "This artist, called the 'Doctor,' is known for his smooth crossover style and the hit 'Dude.'", "answer": "Who is Beenie Man?" },
+        { "value": 500, "question": "This deejay is often credited as the 'King of Dancehall' and rose to fame in the 1990s with hits like 'Murder She Wrote.'", "answer": "Who is Bounty Killer?" }
+      ]
+    },
+    {
+      "name": "Riddims",
+      "questions": [
+        { "value": 100, "question": "This term describes the instrumental backing track that multiple dancehall artists record different songs over.", "answer": "What is a riddim?" },
+        { "value": 200, "question": "This iconic 1990s riddim, produced by Steely & Clevie, has been used on hundreds of dancehall tracks.", "answer": "What is the 'Diwali' riddim (or 'Punanny' riddim, accept notable classic riddims)?" },
+        { "value": 300, "question": "This production duo, consisting of Cleveland 'Clevie' Browne and Wycliffe 'Steely' Johnson, revolutionized digital dancehall in the 1980s.", "answer": "Who are Steely & Clevie?" },
+        { "value": 400, "question": "This 1985 riddim, created by King Jammy, is considered the first fully digital dancehall riddim.", "answer": "What is the 'Sleng Teng' riddim?" },
+        { "value": 500, "question": "This producer and sound system operator, born Lloyd James, is a pioneer of dub and heavily influenced dancehall's studio sound.", "answer": "Who is King Jammy?" }
+      ]
+    },
+    {
+      "name": "Dance Moves",
+      "questions": [
+        { "value": 100, "question": "This popular dancehall move involves a signature wave-like motion of the body, often paired with a song of the same name.", "answer": "What is 'Whine' (or a named dance like 'Dutty Wine')?" },
+        { "value": 200, "question": "This dance craze, created by Bogle, became one of Jamaica's most iconic dancehall movements.", "answer": "What is 'Bogle' (or Willie Bounce)?" },
+        { "value": 300, "question": "This term describes a dance circle where dancers take turns showing off moves, common at dancehall parties.", "answer": "What is a dance circle (or 'dancehall session')?" },
+        { "value": 400, "question": "This crew, led by dancer Ding Dong, is known for creating and popularizing many viral dancehall dance moves.", "answer": "Who is Ravers Clavers (Ding Dong's crew)?" },
+        { "value": 500, "question": "This dance, meaning to move suggestively close to the ground, is a dancehall staple often performed to slow riddims.", "answer": "What is 'daggering'?" }
+      ]
+    },
+    {
+      "name": "Roots to Riddim",
+      "questions": [
+        { "value": 100, "question": "Dancehall emerged in Jamaica in the late 1970s as a stripped-down, uptempo evolution of this earlier genre.", "answer": "What is reggae?" },
+        { "value": 200, "question": "This vocal style, where an artist chants rhythmically over a riddim rather than singing melodically, defines much of dancehall.", "answer": "What is toasting (or deejaying)?" },
+        { "value": 300, "question": "This mobile party setup, featuring massive speakers and a selector, is central to Jamaican dancehall culture.", "answer": "What is a sound system?" },
+        { "value": 400, "question": "This artist, considered a pioneer of the 'deejay' style in the 1970s, is often called the 'Godfather of Dancehall.'", "answer": "Who is U-Roy?" },
+        { "value": 500, "question": "This Kingston neighborhood is historically considered dancehall's birthplace, home to many of its earliest sound clashes.", "answer": "What is Trench Town (or Kingston generally)?" }
+      ]
+    },
+    {
+      "name": "Crossover Hits",
+      "questions": [
+        { "value": 100, "question": "This Sean Paul hit, featured on the 'Fast & Furious' soundtrack era, became a global crossover dancehall anthem in the early 2000s.", "answer": "What is 'Get Busy' (or 'Temperature')?" },
+        { "value": 200, "question": "This artist's 2016 hit 'One Dance,' featuring Wizkid and Kyla, brought dancehall-influenced rhythms to the global pop charts.", "answer": "Who is Drake?" },
+        { "value": 300, "question": "This Jamaican-born artist scored a massive crossover hit with 'No Letting Go' in 2005.", "answer": "Who is Wayne Wonder?" },
+        { "value": 400, "question": "This female artist's song 'Trumpets,' with Jason Derulo, blended dancehall elements into mainstream pop.", "answer": "Who is Sean Paul? (featured artist on 'Trumpets')" },
+        { "value": 500, "question": "This artist and his song 'Rockabye Baby' style dancehall-pop fusion helped popularize the genre with US audiences in the 2010s.", "answer": "Who is Sean Paul (broadly, accept genre pioneers of dancehall-pop crossover)?" }
+      ]
+    },
+    {
+      "name": "Jamaican Music Business",
+      "questions": [
+        { "value": 100, "question": "This annual Jamaican festival, held in Montego Bay, is one of the world's largest reggae and dancehall music events.", "answer": "What is Reggae Sumfest?" },
+        { "value": 200, "question": "This competitive event, where sound systems battle by playing exclusive dubplates, is a core dancehall tradition.", "answer": "What is a sound clash?" },
+        { "value": 300, "question": "This term refers to a custom recording made exclusively for a sound system, often a cover of a popular song with new lyrics.", "answer": "What is a dubplate?" },
+        { "value": 400, "question": "This Jamaican record label and studio, founded by Bobby Digital, was influential in 1990s and 2000s dancehall production.", "answer": "What is Digital B?" },
+        { "value": 500, "question": "This term describes a Jamaican music producer who oversees the sound and business side of a recording, similar to an A&R.", "answer": "What is a record producer (Jamaican-style 'producer/label boss')?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Dancehall Legacy",
+    "question": "This 1994 Chaka Demus & Pliers hit, blending dancehall with reggae-pop, became one of Jamaica's biggest international crossover singles.",
+    "answer": "What is 'Tease Me'?"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "packName": "Movies",
+  "theme": "glass",
+  "categories": [
+    {
+      "name": "Best Picture Winners",
+      "questions": [
+        { "value": 100, "question": "This 1994 film about a wrongly imprisoned man's decades-long escape plan is a fan favorite, though it lost Best Picture that year.", "answer": "What is 'The Shawshank Redemption'?" },
+        { "value": 200, "question": "This 1997 James Cameron film about a doomed ocean liner won 11 Academy Awards including Best Picture.", "answer": "What is 'Titanic'?" },
+        { "value": 300, "question": "This 2019 Bong Joon-ho film became the first non-English-language film to win Best Picture.", "answer": "What is 'Parasite'?" },
+        { "value": 400, "question": "This 1972 Francis Ford Coppola film about the Corleone crime family won Best Picture.", "answer": "What is 'The Godfather'?" },
+        { "value": 500, "question": "This 2016 musical starring Emma Stone and Ryan Gosling was mistakenly announced as Best Picture winner before the correct film, 'Moonlight,' was revealed.", "answer": "What is 'La La Land'?" }
+      ]
+    },
+    {
+      "name": "Action Franchises",
+      "questions": [
+        { "value": 100, "question": "This spy franchise features an MI6 agent with the code number 007.", "answer": "What is James Bond?" },
+        { "value": 200, "question": "This franchise, starring Vin Diesel and Paul Walker, began as a street-racing film in 2001.", "answer": "What is 'Fast & Furious'?" },
+        { "value": 300, "question": "This franchise follows Ethan Hunt and his IMF team on increasingly dangerous missions.", "answer": "What is 'Mission: Impossible'?" },
+        { "value": 400, "question": "This Marvel franchise centers on a genius billionaire in a powered suit of armor.", "answer": "What is 'Iron Man'?" },
+        { "value": 500, "question": "This franchise, based on a 1980s toy line, features shape-shifting alien robots battling on Earth.", "answer": "What is 'Transformers'?" }
+      ]
+    },
+    {
+      "name": "Animated Classics",
+      "questions": [
+        { "value": 100, "question": "This 1994 Disney film follows a lion cub named Simba who must reclaim his throne.", "answer": "What is 'The Lion King'?" },
+        { "value": 200, "question": "This Pixar film follows an old widower who ties balloons to his house to fly to South America.", "answer": "What is 'Up'?" },
+        { "value": 300, "question": "This 2013 Disney film about two royal sisters features the hit song 'Let It Go.'", "answer": "What is 'Frozen'?" },
+        { "value": 400, "question": "This Studio Ghibli film follows a girl named Chihiro who becomes trapped in a spirit world.", "answer": "What is 'Spirited Away'?" },
+        { "value": 500, "question": "This 1995 Pixar film was the first entirely computer-animated feature film.", "answer": "What is 'Toy Story'?" }
+      ]
+    },
+    {
+      "name": "Movie Villains",
+      "questions": [
+        { "value": 100, "question": "This 'Star Wars' villain famously reveals himself as Luke Skywalker's father.", "answer": "Who is Darth Vader?" },
+        { "value": 200, "question": "This 'Dark Knight' villain, played by Heath Ledger, has no clear origin story and simply wants to watch the world burn.", "answer": "Who is the Joker?" },
+        { "value": 300, "question": "This 'Silence of the Lambs' character is a brilliant, cannibalistic psychiatrist.", "answer": "Who is Hannibal Lecter?" },
+        { "value": 400, "question": "This purple, gauntlet-wearing 'Avengers' villain seeks to wipe out half of all life in the universe.", "answer": "Who is Thanos?" },
+        { "value": 500, "question": "This 'Wizard of Oz' villain famously melts after being splashed with water.", "answer": "Who is the Wicked Witch of the West?" }
+      ]
+    },
+    {
+      "name": "Iconic Movie Lines",
+      "questions": [
+        { "value": 100, "question": "This 'Terminator' character promises 'I'll be back' before returning with a vehicle.", "answer": "Who is the Terminator?" },
+        { "value": 200, "question": "This 'Forrest Gump' line compares life to a box of chocolates because you never know what you're going to get.", "answer": "What is 'Life is like a box of chocolates'?" },
+        { "value": 300, "question": "This 'Jerry Maguire' character famously says 'You had me at hello.'", "answer": "Who is Dorothy Boyd?" },
+        { "value": 400, "question": "This 'Jaws' line, ad-libbed by Roy Scheider, warns that a bigger boat is needed.", "answer": "What is 'You're gonna need a bigger boat'?" },
+        { "value": 500, "question": "This 'Casablanca' line closes the film as Rick and Louis walk into the fog.", "answer": "What is 'this could be the beginning of a beautiful friendship'?" }
+      ]
+    },
+    {
+      "name": "Behind the Camera",
+      "questions": [
+        { "value": 100, "question": "This director is known for suspense films like 'Psycho' and 'Vertigo' and is often called the 'Master of Suspense.'", "answer": "Who is Alfred Hitchcock?" },
+        { "value": 200, "question": "This director helmed 'Jurassic Park,' 'Jaws,' and 'E.T.' among many blockbuster hits.", "answer": "Who is Steven Spielberg?" },
+        { "value": 300, "question": "This director is known for nonlinear storytelling in films like 'Pulp Fiction' and 'Kill Bill.'", "answer": "Who is Quentin Tarantino?" },
+        { "value": 400, "question": "This director created the 'Dark Knight' trilogy and 'Inception,' known for cerebral, large-scale filmmaking.", "answer": "Who is Christopher Nolan?" },
+        { "value": 500, "question": "This composer scored 'Star Wars,' 'Jaws,' and 'Indiana Jones,' becoming one of film's most celebrated composers.", "answer": "Who is John Williams?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Box Office History",
+    "question": "This 2009 James Cameron film held the record for highest-grossing film worldwide for over a decade before its own sequel and 'Avengers: Endgame' challenged it.",
+    "answer": "What is 'Avatar'?"
+  }
+}

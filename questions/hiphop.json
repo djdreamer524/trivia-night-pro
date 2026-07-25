@@ -1,0 +1,71 @@
+{
+  "packName": "Hip-Hop",
+  "theme": "hiphop",
+  "categories": [
+    {
+      "name": "Golden Era",
+      "questions": [
+        { "value": 100, "question": "This Queens duo released 'Illmatic' in 1994, widely called one of the greatest rap albums ever.", "answer": "Who is Nas? (solo, but often paired with this era's Queens scene)" },
+        { "value": 200, "question": "This group's 1988 album 'It Takes a Nation of Millions to Hold Us Back' fused political lyrics with dense sampling.", "answer": "Who is Public Enemy?" },
+        { "value": 300, "question": "This Compton rapper's 1988 debut with N.W.A was titled 'Straight Outta Compton.'", "answer": "Who is Eazy-E (or N.W.A as a group)?" },
+        { "value": 400, "question": "This trio from Long Island released 'Paul's Boutique' in 1989, a sample-heavy cult classic.", "answer": "Who are the Beastie Boys?" },
+        { "value": 500, "question": "This solo artist's 1988 album 'Long Live the Kane' helped define lyrical battle-rap swagger.", "answer": "Who is Big Daddy Kane?" }
+      ]
+    },
+    {
+      "name": "East Coast Legends",
+      "questions": [
+        { "value": 100, "question": "This Brooklyn rapper's debut album was titled 'Ready to Die.'", "answer": "Who is The Notorious B.I.G.?" },
+        { "value": 200, "question": "This Staten Island collective is known as the Wu-Tang Clan; name their 1993 debut album.", "answer": "What is 'Enter the Wu-Tang (36 Chambers)'?" },
+        { "value": 300, "question": "This Queensbridge rapper is known for the classic line 'The world is yours.'", "answer": "Who is Nas?" },
+        { "value": 400, "question": "This Bronx-born artist is widely credited as one of the founding DJs of hip-hop, known for breakbeat DJing at parties in the early 1970s.", "answer": "Who is Kool Herc?" },
+        { "value": 500, "question": "This Harlem rapper founded Roc-A-Fella Records and released '4:44' in 2017.", "answer": "Who is Jay-Z?" }
+      ]
+    },
+    {
+      "name": "West Coast Sound",
+      "questions": [
+        { "value": 100, "question": "This Compton rapper released 'good kid, m.A.A.d city' in 2012.", "answer": "Who is Kendrick Lamar?" },
+        { "value": 200, "question": "This producer-rapper pioneered the G-funk sound with his 1992 album 'The Chronic.'", "answer": "Who is Dr. Dre?" },
+        { "value": 300, "question": "This Long Beach rapper's debut album was 'Doggystyle,' released in 1993.", "answer": "Who is Snoop Dogg?" },
+        { "value": 400, "question": "This label, founded by Suge Knight and Dr. Dre, released much of the defining G-funk catalog.", "answer": "What is Death Row Records?" },
+        { "value": 500, "question": "This late Compton rapper's double album 'All Eyez on Me' was released in 1996.", "answer": "Who is Tupac Shakur (2Pac)?" }
+      ]
+    },
+    {
+      "name": "Producers & Beats",
+      "questions": [
+        { "value": 100, "question": "This Chicago producer-turned-rapper sampled Chaka Khan on 'Through the Wire' before releasing 'The College Dropout.'", "answer": "Who is Kanye West?" },
+        { "value": 200, "question": "This producer co-founded the Bomb Squad and shaped Public Enemy's dense, chaotic sound.", "answer": "Who is Hank Shocklee?" },
+        { "value": 300, "question": "This RZA-led collective produced most of Wu-Tang Clan's gritty, kung-fu-sampling beats.", "answer": "Who is RZA?" },
+        { "value": 400, "question": "This North Carolina producer known for the Neptunes and later solo hits like 'Happy' also produces under this duo's name.", "answer": "Who is Pharrell Williams (The Neptunes)?" },
+        { "value": 500, "question": "This producer known as a 'Beat Monster' crafted classic 90s boom-bap for Nas, Mobb Deep, and more, often using jazz samples.", "answer": "Who is DJ Premier?" }
+      ]
+    },
+    {
+      "name": "Modern Hip-Hop",
+      "questions": [
+        { "value": 100, "question": "This Atlanta rapper's breakout mixtape series is called 'Gangsta Grillz'-affiliated 'Trap Music' with hits like 'No Hands.'", "answer": "Who is Waka Flocka Flame? (accept notable trap pioneers)" },
+        { "value": 200, "question": "This Toronto artist blends R&B and rap and released 'Take Care' in 2011.", "answer": "Who is Drake?" },
+        { "value": 300, "question": "This Houston-born rapper's 'Astroworld' album debuted at number one in 2018.", "answer": "Who is Travis Scott?" },
+        { "value": 400, "question": "This female rapper from the Bronx released 'Invasion of Privacy' in 2018, winning a Grammy for Best Rap Album.", "answer": "Who is Cardi B?" },
+        { "value": 500, "question": "This Compton rapper won the Pulitzer Prize for Music in 2018 for his album 'DAMN.'", "answer": "Who is Kendrick Lamar?" }
+      ]
+    },
+    {
+      "name": "Hip-Hop Culture",
+      "questions": [
+        { "value": 100, "question": "This term refers to a rapper's improvised, off-the-cuff rhymes.", "answer": "What is freestyling?" },
+        { "value": 200, "question": "This element of hip-hop culture involves spray-painted lettering and murals.", "answer": "What is graffiti art?" },
+        { "value": 300, "question": "This dance style, born from breakbeats at 1970s Bronx parties, involves floor spins and freezes.", "answer": "What is breakdancing (breaking)?" },
+        { "value": 400, "question": "This party in the Bronx, hosted by DJ Kool Herc in August 1973, is widely cited as hip-hop's birthplace event.", "answer": "What is the 'back to school jam' at 1520 Sedgwick Avenue?" },
+        { "value": 500, "question": "This four-pillar framework of hip-hop culture includes DJing, MCing, graffiti, and this fourth element.", "answer": "What is breakdancing (b-boying/b-girling)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Hip-Hop History",
+    "question": "This record label, founded in 1984 by Rick Rubin and Russell Simmons, was among the first major hip-hop labels and launched Run-DMC and LL Cool J.",
+    "answer": "What is Def Jam Recordings?"
+  }
+}

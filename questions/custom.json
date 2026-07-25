@@ -1,0 +1,53 @@
+{
+  "packName": "Custom Trivia Pack",
+  "theme": "glass",
+  "categories": [
+    { "name": "Category 1", "questions": [
+      { "value": 100, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 200, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 300, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 400, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 500, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." }
+    ]},
+    { "name": "Category 2", "questions": [
+      { "value": 100, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 200, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 300, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 400, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 500, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." }
+    ]},
+    { "name": "Category 3", "questions": [
+      { "value": 100, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 200, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 300, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 400, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 500, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." }
+    ]},
+    { "name": "Category 4", "questions": [
+      { "value": 100, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 200, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 300, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 400, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 500, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." }
+    ]},
+    { "name": "Category 5", "questions": [
+      { "value": 100, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 200, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 300, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 400, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 500, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." }
+    ]},
+    { "name": "Category 6", "questions": [
+      { "value": 100, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 200, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 300, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 400, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." },
+      { "value": 500, "question": "Edit this question in the Admin Panel.", "answer": "Edit this answer." }
+    ]}
+  ],
+  "finalJeopardy": {
+    "category": "Final Round",
+    "question": "Edit this final jeopardy question.",
+    "answer": "Edit this final jeopardy answer."
+  }
+}

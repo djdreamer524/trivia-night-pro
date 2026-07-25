@@ -1,0 +1,71 @@
+{
+  "packName": "Sports",
+  "theme": "classic",
+  "categories": [
+    {
+      "name": "Basketball",
+      "questions": [
+        { "value": 100, "question": "This player is widely considered the greatest basketball player of all time, winning 6 NBA championships with the Chicago Bulls.", "answer": "Who is Michael Jordan?" },
+        { "value": 200, "question": "This center, known for his rivalry with Wilt Chamberlain, won 11 NBA championships with the Boston Celtics.", "answer": "Who is Bill Russell?" },
+        { "value": 300, "question": "This Los Angeles Lakers legend scored 81 points in a single game in 2006, the second-highest total in NBA history.", "answer": "Who is Kobe Bryant?" },
+        { "value": 400, "question": "This player holds the NBA record for most career points, surpassing Kareem Abdul-Jabbar in 2023.", "answer": "Who is LeBron James?" },
+        { "value": 500, "question": "This 7-foot-1 center, drafted in 1984, retired as the NBA's all-time leading scorer until 1984... this center holds the record for most career field goals and was known as 'The Dream.'", "answer": "Who is Hakeem Olajuwon? (accept Kareem Abdul-Jabbar for prior scoring record)" }
+      ]
+    },
+    {
+      "name": "Football (NFL)",
+      "questions": [
+        { "value": 100, "question": "This quarterback has won the most Super Bowl championships, with seven titles across two teams.", "answer": "Who is Tom Brady?" },
+        { "value": 200, "question": "This annual championship game of the NFL is played in early February.", "answer": "What is the Super Bowl?" },
+        { "value": 300, "question": "This running back holds the NFL record for most career rushing yards.", "answer": "Who is Emmitt Smith?" },
+        { "value": 400, "question": "This team, based in Green Bay, is the only NFL franchise owned by its community of fans rather than a private owner.", "answer": "Who are the Green Bay Packers?" },
+        { "value": 500, "question": "This 1972 Miami Dolphins season remains the only perfect season in NFL history, capped by a Super Bowl win.", "answer": "What is the 1972 Miami Dolphins' perfect season?" }
+      ]
+    },
+    {
+      "name": "Olympics",
+      "questions": [
+        { "value": 100, "question": "This country hosted the first modern Olympic Games in 1896.", "answer": "What is Greece?" },
+        { "value": 200, "question": "This American swimmer holds the record for most Olympic medals won by any athlete, with 28.", "answer": "Who is Michael Phelps?" },
+        { "value": 300, "question": "This Jamaican sprinter won gold in the 100m at three consecutive Olympics (2008, 2012, 2016).", "answer": "Who is Usain Bolt?" },
+        { "value": 400, "question": "The Olympic Games are held every this many years.", "answer": "What is four years?" },
+        { "value": 500, "question": "This American gymnast has won more World Championship and Olympic medals than any gymnast in history.", "answer": "Who is Simone Biles?" }
+      ]
+    },
+    {
+      "name": "Soccer / Football (World)",
+      "questions": [
+        { "value": 100, "question": "This international tournament, held every four years, is the most-watched sporting event in the world.", "answer": "What is the FIFA World Cup?" },
+        { "value": 200, "question": "This Argentine player won the 2022 World Cup with Argentina and has won multiple Ballon d'Or awards.", "answer": "Who is Lionel Messi?" },
+        { "value": 300, "question": "This Portuguese player is known for his rivalry with Messi and has played for clubs including Manchester United and Real Madrid.", "answer": "Who is Cristiano Ronaldo?" },
+        { "value": 400, "question": "This Brazilian player, considered one of the greatest ever, won three World Cups and is known simply as 'Pelé.'", "answer": "Who is Pelé?" },
+        { "value": 500, "question": "This English club has won the most Premier League titles since the league's 1992 rebrand.", "answer": "What is Manchester United?" }
+      ]
+    },
+    {
+      "name": "Boxing & Combat Sports",
+      "questions": [
+        { "value": 100, "question": "This heavyweight boxer, known as 'The Greatest,' famously said he could 'float like a butterfly, sting like a bee.'", "answer": "Who is Muhammad Ali?" },
+        { "value": 200, "question": "This undefeated boxer retired with a perfect 50-0 record, defeating opponents like Manny Pacquiao and Conor McGregor.", "answer": "Who is Floyd Mayweather Jr.?" },
+        { "value": 300, "question": "This mixed martial arts organization is the largest MMA promotion in the world.", "answer": "What is the UFC?" },
+        { "value": 400, "question": "This heavyweight boxer bit part of Evander Holyfield's ear during a 1997 title fight.", "answer": "Who is Mike Tyson?" },
+        { "value": 500, "question": "This Irish fighter became the first UFC athlete to hold two weight-class titles simultaneously in 2016.", "answer": "Who is Conor McGregor?" }
+      ]
+    },
+    {
+      "name": "Sports Records & Firsts",
+      "questions": [
+        { "value": 100, "question": "This baseball player broke Babe Ruth's home run record in 1974, finishing his career with 755 home runs.", "answer": "Who is Hank Aaron?" },
+        { "value": 200, "question": "This tennis player holds the record for most Grand Slam singles titles among men, with 24.", "answer": "Who is Novak Djokovic?" },
+        { "value": 300, "question": "This female tennis player won 23 Grand Slam singles titles, the most in the Open Era.", "answer": "Who is Serena Williams?" },
+        { "value": 400, "question": "This golfer has won the most major championships in modern history alongside Jack Nicklaus, each with 18... this golfer tied Nicklaus's major record.", "answer": "Who is Tiger Woods?" },
+        { "value": 500, "question": "This sprinter set the still-standing 100m world record of 9.58 seconds in 2009.", "answer": "Who is Usain Bolt?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Championship Moments",
+    "question": "In 2016, this NBA team overcame a 3-1 series deficit to win the championship, the first team in Finals history to do so.",
+    "answer": "Who are the Cleveland Cavaliers?"
+  }
+}

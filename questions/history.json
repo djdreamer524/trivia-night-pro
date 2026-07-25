@@ -1,0 +1,71 @@
+{
+  "packName": "History",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Ancient Civilizations",
+      "questions": [
+        { "value": 100, "question": "This ancient civilization built the pyramids at Giza as tombs for their pharaohs.", "answer": "What is Ancient Egypt?" },
+        { "value": 200, "question": "This ancient Greek city-state is considered the birthplace of democracy.", "answer": "What is Athens?" },
+        { "value": 300, "question": "This wall, built across northern China starting in the 7th century BC, stretches over 13,000 miles.", "answer": "What is the Great Wall of China?" },
+        { "value": 400, "question": "This ancient civilization in Mesopotamia developed one of the earliest writing systems, cuneiform.", "answer": "What is Sumer (Ancient Mesopotamia)?" },
+        { "value": 500, "question": "This Roman general and statesman was assassinated on the Ides of March, 44 BC.", "answer": "Who is Julius Caesar?" }
+      ]
+    },
+    {
+      "name": "World Wars",
+      "questions": [
+        { "value": 100, "question": "World War I began in 1914 after the assassination of this Archduke in Sarajevo.", "answer": "Who is Archduke Franz Ferdinand?" },
+        { "value": 200, "question": "This event, on December 7, 1941, brought the United States into World War II.", "answer": "What is the attack on Pearl Harbor?" },
+        { "value": 300, "question": "This June 6, 1944 Allied invasion of Normandy is known by this codename.", "answer": "What is D-Day (Operation Overlord)?" },
+        { "value": 400, "question": "This treaty formally ended World War I in 1919, imposing harsh terms on Germany.", "answer": "What is the Treaty of Versailles?" },
+        { "value": 500, "question": "This German dictator led the Nazi Party and initiated World War II in Europe.", "answer": "Who is Adolf Hitler?" }
+      ]
+    },
+    {
+      "name": "American History",
+      "questions": [
+        { "value": 100, "question": "This document, signed in 1776, declared the American colonies' independence from Britain.", "answer": "What is the Declaration of Independence?" },
+        { "value": 200, "question": "This American Civil War ended in 1865 with the surrender of this Confederate general at Appomattox.", "answer": "Who is Robert E. Lee?" },
+        { "value": 300, "question": "This U.S. president delivered the Gettysburg Address in 1863.", "answer": "Who is Abraham Lincoln?" },
+        { "value": 400, "question": "This 1929 event marked the start of the Great Depression when stock prices collapsed.", "answer": "What is the Wall Street Crash (Stock Market Crash of 1929)?" },
+        { "value": 500, "question": "This civil rights leader delivered the 'I Have a Dream' speech in 1963 at the Lincoln Memorial.", "answer": "Who is Martin Luther King Jr.?" }
+      ]
+    },
+    {
+      "name": "Explorers & Discovery",
+      "questions": [
+        { "value": 100, "question": "This Italian explorer's 1492 voyage, funded by Spain, reached the Americas.", "answer": "Who is Christopher Columbus?" },
+        { "value": 200, "question": "This Portuguese explorer led the first expedition to circumnavigate the globe, though he died before its completion.", "answer": "Who is Ferdinand Magellan?" },
+        { "value": 300, "question": "This English explorer commanded the first English circumnavigation of the globe and later helped defeat the Spanish Armada.", "answer": "Who is Sir Francis Drake?" },
+        { "value": 400, "question": "This American duo led an expedition from 1804 to 1806 exploring the Louisiana Purchase territory.", "answer": "Who are Lewis and Clark?" },
+        { "value": 500, "question": "This Norwegian explorer was the first person to reach the South Pole, in December 1911.", "answer": "Who is Roald Amundsen?" }
+      ]
+    },
+    {
+      "name": "Revolutions",
+      "questions": [
+        { "value": 100, "question": "This 1789 uprising led to the storming of the Bastille and the eventual fall of the French monarchy.", "answer": "What is the French Revolution?" },
+        { "value": 200, "question": "This Russian revolution in 1917 led to the fall of the Tsar and eventually brought the Bolsheviks to power.", "answer": "What is the Russian Revolution?" },
+        { "value": 300, "question": "This leader of the Cuban Revolution overthrew Fulgencio Batista in 1959.", "answer": "Who is Fidel Castro?" },
+        { "value": 400, "question": "This Haitian revolution, beginning in 1791, led to the first successful slave revolt resulting in an independent nation.", "answer": "What is the Haitian Revolution?" },
+        { "value": 500, "question": "This Indian independence leader championed nonviolent civil disobedience against British rule.", "answer": "Who is Mahatma Gandhi?" }
+      ]
+    },
+    {
+      "name": "Inventions & Discoveries",
+      "questions": [
+        { "value": 100, "question": "This inventor is credited with inventing the light bulb and held over 1,000 patents.", "answer": "Who is Thomas Edison?" },
+        { "value": 200, "question": "This scientist's theory of relativity revolutionized modern physics.", "answer": "Who is Albert Einstein?" },
+        { "value": 300, "question": "This duo of brothers achieved the first powered airplane flight in 1903 at Kitty Hawk.", "answer": "Who are the Wright Brothers?" },
+        { "value": 400, "question": "This scientist discovered penicillin in 1928, revolutionizing the treatment of bacterial infections.", "answer": "Who is Alexander Fleming?" },
+        { "value": 500, "question": "This physicist's laws of motion and universal gravitation laid the foundation for classical mechanics.", "answer": "Who is Sir Isaac Newton?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Turning Points",
+    "question": "This 1989 event saw the physical and symbolic barrier dividing East and West Berlin torn down, hastening the end of the Cold War.",
+    "answer": "What is the fall of the Berlin Wall?"
+  }
+}
