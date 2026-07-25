@@ -1,0 +1,71 @@
+{
+  "packName": "Jay-Z",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Reasonable Doubt Era",
+      "questions": [
+        { "value": 100, "question": "Jay-Z's debut album, released in 1996, is titled this.", "answer": "What is 'Reasonable Doubt'?" },
+        { "value": 200, "question": "This record label, co-founded by Jay-Z, Damon Dash, and Kareem Burke, released his debut album.", "answer": "What is Roc-A-Fella Records?" },
+        { "value": 300, "question": "This Brooklyn housing project is where Jay-Z grew up.", "answer": "What is the Marcy Houses?" },
+        { "value": 400, "question": "Jay-Z's real name, before his stage name, is this.", "answer": "Who is Shawn Corey Carter?" },
+        { "value": 500, "question": "This mentor and rapper, who died in 1990, is often cited as inspiring Jay-Z's early career and rhyme style.", "answer": "Who is Jaz-O? (accept Big Daddy Kane, whom Jay-Z toured with early on)" }
+      ]
+    },
+    {
+      "name": "The Blueprint",
+      "questions": [
+        { "value": 100, "question": "Jay-Z's 2001 album 'The Blueprint' was famously released on this significant historical date.", "answer": "What is September 11, 2001?" },
+        { "value": 200, "question": "This producer, who would go on to massive solo fame, produced several key tracks on 'The Blueprint,' including 'Izzo (H.O.V.A.).'", "answer": "Who is Kanye West?" },
+        { "value": 300, "question": "'The Blueprint' introduced this soul-sampling production style that became a signature of early-2000s Roc-A-Fella sound.", "answer": "What is chipmunk soul (sped-up soul samples)?" },
+        { "value": 400, "question": "This track from 'The Blueprint' was Jay-Z's diss aimed at Nas and Mobb Deep.", "answer": "What is 'Takeover'?" },
+        { "value": 500, "question": "Jay-Z released two sequel albums to 'The Blueprint,' subtitled this and 'The Gift & the Curse.'", "answer": "What is 'The Blueprint 2'?" }
+      ]
+    },
+    {
+      "name": "Business Mogul",
+      "questions": [
+        { "value": 100, "question": "This clothing brand, co-founded by Jay-Z, became one of the most successful hip-hop-affiliated fashion labels.", "answer": "What is Rocawear?" },
+        { "value": 200, "question": "Jay-Z served as president and CEO of this major record label from 2004 to 2007.", "answer": "What is Def Jam Recordings?" },
+        { "value": 300, "question": "This streaming service, which Jay-Z acquired in 2015, focuses on high-fidelity audio.", "answer": "What is Tidal?" },
+        { "value": 400, "question": "Jay-Z co-founded this sports and entertainment agency, which represents athletes and entertainers.", "answer": "What is Roc Nation?" },
+        { "value": 500, "question": "In 2019, Jay-Z became hip-hop's first person to reach this net worth milestone, according to Forbes.", "answer": "What is billionaire status?" }
+      ]
+    },
+    {
+      "name": "Jay-Z & Beyoncé",
+      "questions": [
+        { "value": 100, "question": "Jay-Z and Beyoncé married in this year.", "answer": "What is 2008?" },
+        { "value": 200, "question": "This 2018 collaborative album by Jay-Z and Beyoncé was released under the group name 'The Carters.'", "answer": "What is 'Everything Is Love'?" },
+        { "value": 300, "question": "The couple's first child, a daughter, is named this.", "answer": "Who is Blue Ivy Carter?" },
+        { "value": 400, "question": "This 2017 Jay-Z album, produced largely by No I.D., addressed his marital infidelity following Beyoncé's 'Lemonade.'", "answer": "What is '4:44'?" },
+        { "value": 500, "question": "The couple's twins, born in 2017, are named this.", "answer": "Who are Rumi and Sir Carter?" }
+      ]
+    },
+    {
+      "name": "Iconic Collaborations",
+      "questions": [
+        { "value": 100, "question": "This Alicia Keys collaboration with Jay-Z became an anthem for New York City.", "answer": "What is 'Empire State of Mind'?" },
+        { "value": 200, "question": "Jay-Z and this fellow rapper released the joint album 'Watch the Throne' in 2011.", "answer": "Who is Kanye West?" },
+        { "value": 300, "question": "This UGK member appeared alongside Jay-Z on the hit 'Big Pimpin'.'", "answer": "Who is Bun B (of UGK, alongside Pimp C)?" },
+        { "value": 400, "question": "Jay-Z's collaboration with this British artist, 'Umbrella,' was actually her song — but Jay-Z appears on the remix.", "answer": "Who is Rihanna?" },
+        { "value": 500, "question": "This late R&B singer collaborated with Jay-Z on '03 Bonnie & Clyde,' with Jay-Z assuming the 'Clyde' role.", "answer": "Who is Beyoncé? (their first major collaboration, foreshadowing their relationship)" }
+      ]
+    },
+    {
+      "name": "Awards & Accolades",
+      "questions": [
+        { "value": 100, "question": "As of the mid-2020s, Jay-Z holds the record for most Grammy wins by this type of artist.", "answer": "What is a rapper?" },
+        { "value": 200, "question": "Jay-Z was inducted into this hall of fame in 2021, honoring his songwriting career.", "answer": "What is the Songwriters Hall of Fame?" },
+        { "value": 300, "question": "This 2017 Jay-Z album received a record-tying number of Grammy nominations for a rap album at the time, though it won zero.", "answer": "What is '4:44'?" },
+        { "value": 400, "question": "Jay-Z was among the first class of hip-hop artists inducted into this hall of fame in 2021, alongside Tina Turner and Foo Fighters.", "answer": "What is the Rock and Roll Hall of Fame?" },
+        { "value": 500, "question": "Jay-Z's 13th studio album, released in 2017, won him this many Grammys despite its many nominations (a famously controversial result).", "answer": "What is zero?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Roc Nation",
+    "question": "In 2013, Jay-Z made headlines by leaving this longtime sports/entertainment agency to launch Roc Nation Sports, becoming an agent for athletes like Kevin Durant.",
+    "answer": "What is CAA (Creative Artists Agency)?"
+  }
+}

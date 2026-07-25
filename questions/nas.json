@@ -1,0 +1,71 @@
+{
+  "packName": "Nas",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "Illmatic Era",
+      "questions": [
+        { "value": 100, "question": "Nas's debut album 'Illmatic' was released in this year.", "answer": "What is 1994?" },
+        { "value": 200, "question": "This iconic Nas track opens with the line 'I never sleep, cause sleep is the cousin of death.'", "answer": "What is 'N.Y. State of Mind'?" },
+        { "value": 300, "question": "This borough housing project is where Nas grew up and frequently references in his lyrics.", "answer": "What is Queensbridge Houses?" },
+        { "value": 400, "question": "This producer, also a member of A Tribe Called Quest, produced several tracks on 'Illmatic' including 'One Love.'", "answer": "Who is Q-Tip?" },
+        { "value": 500, "question": "'Illmatic' famously received this perfect rating (out of 5 mics) from The Source magazine.", "answer": "What is 5 mics?" }
+      ]
+    },
+    {
+      "name": "Nas Lyrics & Wordplay",
+      "questions": [
+        { "value": 100, "question": "This Nas song contains the famous line 'The world is yours.'", "answer": "What is 'The World Is Yours'?" },
+        { "value": 200, "question": "Nas's song 'If I Ruled the World' features this female R&B/hip-hop artist on the hook.", "answer": "Who is Lauryn Hill?" },
+        { "value": 300, "question": "This 1996 Nas album, his second, was seen as more commercial and mafioso-styled than 'Illmatic.'", "answer": "What is 'It Was Written'?" },
+        { "value": 400, "question": "Nas's alter ego on 'It Was Written,' used for a more gangster-oriented persona, is called this.", "answer": "Who is Nas Escobar?" },
+        { "value": 500, "question": "This 2002 Nas track pays tribute to hip-hop's history and samples Michael Jackson's 'Human Nature.'", "answer": "What is 'You Owe Me'? (accept 'Made You Look' as an alternate iconic 2002 single)" }
+      ]
+    },
+    {
+      "name": "The Jay-Z Feud",
+      "questions": [
+        { "value": 100, "question": "Nas and Jay-Z's early 2000s rivalry is considered one of hip-hop's most famous examples of this type of song.", "answer": "What is a diss track?" },
+        { "value": 200, "question": "This scathing 2001 Nas diss track directly attacked Jay-Z over a beat sampling The Stylistics.", "answer": "What is 'Ether'?" },
+        { "value": 300, "question": "Jay-Z's diss track aimed at Nas, released in 2001, was titled this.", "answer": "What is 'Takeover'?" },
+        { "value": 400, "question": "This year the two rappers publicly reconciled, with Jay-Z bringing Nas out at a concert.", "answer": "What is 2005?" },
+        { "value": 500, "question": "Jay-Z's label, which Nas eventually signed to years after their feud, is called this.", "answer": "What is Def Jam? (Jay-Z was president of Def Jam when Nas signed)" }
+      ]
+    },
+    {
+      "name": "Nas Album Titles",
+      "questions": [
+        { "value": 100, "question": "Nas's 1999 double album shares its title with this ancient Egyptian god.", "answer": "What is 'I Am...' (accept 'Nastradamus' for the same era)?" },
+        { "value": 200, "question": "This 2001 Nas album takes its title from a play on the word 'stillmatic,' referencing his debut.", "answer": "What is 'Stillmatic'?" },
+        { "value": 300, "question": "Nas's 2006 album, declaring a genre 'dead,' was titled this.", "answer": "What is 'Hip Hop Is Dead'?" },
+        { "value": 400, "question": "Nas's 2012 album pays tribute to his mother, who passed away, and is titled after her name.", "answer": "What is 'Life Is Good'?" },
+        { "value": 500, "question": "Nas's Grammy-winning collaborative album series with producer Hit-Boy is called this.", "answer": "What is 'King's Disease'?" }
+      ]
+    },
+    {
+      "name": "Queensbridge Connections",
+      "questions": [
+        { "value": 100, "question": "This hip-hop group, also from Queensbridge, includes Prodigy and Havoc.", "answer": "Who is Mobb Deep?" },
+        { "value": 200, "question": "Nas's father, a respected jazz musician who played trumpet, is named this.", "answer": "Who is Olu Dara?" },
+        { "value": 300, "question": "This Nas collective/label, also the name of a track, represents his Queensbridge crew.", "answer": "What is The Firm?" },
+        { "value": 400, "question": "Nas's brother, also a rapper, goes by this stage name.", "answer": "Who is Jungle (Jabari Fret)?" },
+        { "value": 500, "question": "This legendary Queensbridge rapper, considered a hip-hop pioneer, is often cited as inspiring young Nas.", "answer": "Who is MC Shan? (accept Marley Marl as the QB pioneer producer)" }
+      ]
+    },
+    {
+      "name": "Nas Awards & Legacy",
+      "questions": [
+        { "value": 100, "question": "Nas won his first competitive Grammy Award for Best Rap Album for this 2020 album.", "answer": "What is 'King's Disease'?" },
+        { "value": 200, "question": "This Ivy League university awarded Nas a fellowship program in his name focused on hip-hop studies.", "answer": "What is Harvard University?" },
+        { "value": 300, "question": "Nas has been nominated for over a dozen Grammys but famously went many years without winning one before this decade's wins.", "answer": "What is the 2020s?" },
+        { "value": 400, "question": "This venture capital firm, co-founded by Nas, has made early investments in companies like Coinbase and Lyft.", "answer": "What is QueensBridge Venture Partners?" },
+        { "value": 500, "question": "Nas's real name, used before he adopted his stage name, is this.", "answer": "Who is Nasir Jones?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Nas's Discography",
+    "question": "This Nas album, released the same year as 'Illmatic's tenth anniversary, was his sixth studio album and featured the single 'Thief's Theme.'",
+    "answer": "What is 'Street's Disciple'?"
+  }
+}

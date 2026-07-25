@@ -1,0 +1,71 @@
+{
+  "packName": "90's R&B",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Girl Groups",
+      "questions": [
+        { "value": 100, "question": "This girl group, featuring Beyoncé, rose to fame in the late 90s with hits like 'No, No, No.'", "answer": "Who is Destiny's Child?" },
+        { "value": 200, "question": "This trio, known for 'Waterfalls' and 'No Scrubs,' blended R&B with hip-hop and social commentary.", "answer": "Who is TLC?" },
+        { "value": 300, "question": "This girl group's hit 'Weak' topped the Billboard Hot 100 in 1993.", "answer": "Who is SWV (Sisters With Voices)?" },
+        { "value": 400, "question": "This quartet, known for tight harmonies, had hits like 'Free' and 'He Wasn't Man Enough.'", "answer": "Who is En Vogue?" },
+        { "value": 500, "question": "This group's smash hit '(You Make Me Feel Like) A Natural Woman' cover, along with 'If You Love Me,' defined 90s vocal harmony R&B.", "answer": "Who is Brownstone? (accept En Vogue for the general harmony style)" }
+      ]
+    },
+    {
+      "name": "R&B Kings",
+      "questions": [
+        { "value": 100, "question": "This 'King of R&B,' known for his falsetto and hits like 'Adore Mi Amor,' rose to fame with Color Me Badd... this artist's smooth vocal style defined much of 90s male R&B.", "answer": "Who is R. Kelly (accept as a dominant male R&B figure of the era)?" },
+        { "value": 200, "question": "This artist's 1994 hit 'I'll Make Love to You' spent 14 weeks at number one, a record at the time.", "answer": "Who is Boyz II Men?" },
+        { "value": 300, "question": "This solo artist, formerly of New Edition, had massive 90s hits including 'My, My, My' and 'Can We Talk.'", "answer": "Who is Tevin Campbell? (accept Bobby Brown, also formerly of New Edition)" },
+        { "value": 400, "question": "This artist's smooth 1996 hit 'Nobody Knows' showcased his velvety tenor voice and became a defining ballad of the era.", "answer": "Who is Tony Rich (The Tony Rich Project)?" },
+        { "value": 500, "question": "This Philadelphia-born artist's hit 'Before I Let You Go' helped define New Jack Swing-adjacent 90s R&B.", "answer": "Who is Blackstreet?" }
+      ]
+    },
+    {
+      "name": "New Jack Swing",
+      "questions": [
+        { "value": 100, "question": "This genre, blending R&B, hip-hop beats, and funk, dominated the early 90s before giving way to smoother sounds.", "answer": "What is New Jack Swing?" },
+        { "value": 200, "question": "This producer, often called the 'Teddy Riley' of New Jack Swing, is credited with pioneering the genre.", "answer": "Who is Teddy Riley?" },
+        { "value": 300, "question": "This group, led by Teddy Riley, scored hits like 'No Diggity' in the New Jack Swing-influenced style.", "answer": "Who is Blackstreet?" },
+        { "value": 400, "question": "This artist's 1990 debut album 'Bobby' helped bring New Jack Swing to mainstream pop audiences.", "answer": "Who is Bobby Brown?" },
+        { "value": 500, "question": "This girl group, produced heavily by Teddy Riley in their early work, later evolved beyond New Jack Swing into 90s classic R&B.", "answer": "Who is SWV? (accept other Riley-produced acts)" }
+      ]
+    },
+    {
+      "name": "Solo Divas",
+      "questions": [
+        { "value": 100, "question": "This artist's 1992 debut single 'Vision of Love' showcased her signature whistle-register vocals.", "answer": "Who is Mariah Carey?" },
+        { "value": 200, "question": "This artist's 1998 album 'The Miseducation of Lauryn Hill' blended R&B, soul, and hip-hop to critical acclaim.", "answer": "Who is Lauryn Hill?" },
+        { "value": 300, "question": "This late artist's 1992 rendition of 'I Will Always Love You,' from 'The Bodyguard' soundtrack, became one of the best-selling singles ever.", "answer": "Who is Whitney Houston?" },
+        { "value": 400, "question": "This artist, known as the 'Queen of Hip-Hop Soul,' released her landmark debut 'What's the 411?' in 1992.", "answer": "Who is Mary J. Blige?" },
+        { "value": 500, "question": "This artist's 1995 hit 'Fantasy' famously sampled Tom Tom Club's 'Genius of Love.'", "answer": "Who is Mariah Carey?" }
+      ]
+    },
+    {
+      "name": "Iconic 90s R&B Ballads",
+      "questions": [
+        { "value": 100, "question": "This Boyz II Men ballad, played at countless proms, became one of the best-selling singles of the decade.", "answer": "What is 'End of the Road'? (accept 'I'll Make Love to You')" },
+        { "value": 200, "question": "This Whitney Houston and Mariah Carey duet, from the 'Prince of Egypt' soundtrack, paired two of the era's biggest divas.", "answer": "What is 'When You Believe'?" },
+        { "value": 300, "question": "This TLC ballad addresses themes of financial hardship and heartbreak, becoming a signature hit of the group.", "answer": "What is 'Waterfalls'?" },
+        { "value": 400, "question": "This slow jam by Toni Braxton, from her 1996 album 'Secrets,' won a Grammy and topped charts worldwide.", "answer": "What is 'Un-Break My Heart'?" },
+        { "value": 500, "question": "This duet between R. Kelly and Ronald Isley, sampling a smooth groove, became a defining slow jam of 1996.", "answer": "What is 'Down Low (Nobody Has to Know)'?" }
+      ]
+    },
+    {
+      "name": "R&B Meets Hip-Hop",
+      "questions": [
+        { "value": 100, "question": "This artist, blending gritty hip-hop beats with soulful vocals, became known as the 'Queen of Hip-Hop Soul.'", "answer": "Who is Mary J. Blige?" },
+        { "value": 200, "question": "This 1996 collaboration between Method Man and Mary J. Blige won a Grammy for Best Rap Performance by a Duo or Group.", "answer": "What is 'I'll Be There for You/You're All I Need to Get By'?" },
+        { "value": 300, "question": "This late singer's collaborations with Puff Daddy and Bad Boy Records helped define the label's shiny-suit R&B/hip-hop sound.", "answer": "Who is Faith Evans?" },
+        { "value": 400, "question": "This 1998 Lauryn Hill hit 'Doo Wop (That Thing)' blended old-school harmony with a modern hip-hop beat and message.", "answer": "What is 'Doo Wop (That Thing)'?" },
+        { "value": 500, "question": "This production and songwriting duo, Jimmy Jam and Terry Lewis, shaped the sound of numerous 90s R&B hits across multiple artists.", "answer": "Who are Jimmy Jam and Terry Lewis?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "90s R&B Legends",
+    "question": "This artist's 1997 album 'Share My World' debuted at number one and included the massive crossover hit 'The First Night.'",
+    "answer": "Who is Monica?" 
+  }
+}

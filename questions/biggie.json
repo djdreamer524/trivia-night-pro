@@ -1,0 +1,71 @@
+{
+  "packName": "Biggie Smalls",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Early Life",
+      "questions": [
+        { "value": 100, "question": "The Notorious B.I.G. was born with this given name.", "answer": "Who is Christopher Wallace?" },
+        { "value": 200, "question": "Biggie was born and raised in this Brooklyn neighborhood.", "answer": "What is Bedford-Stuyvesant (Bed-Stuy)?" },
+        { "value": 300, "question": "Biggie was born in this year.", "answer": "What is 1972?" },
+        { "value": 400, "question": "Before his rap career took off, Biggie reportedly sold this illegal substance on the streets of Brooklyn.", "answer": "What is crack cocaine?" },
+        { "value": 500, "question": "This influential hip-hop magazine and A&R figure, Matty C, first spotlighted Biggie in an unsigned column.", "answer": "What is The Source ('Unsigned Hype' column)?" }
+      ]
+    },
+    {
+      "name": "Ready to Die",
+      "questions": [
+        { "value": 100, "question": "Biggie's debut album 'Ready to Die' was released in this year.", "answer": "What is 1994?" },
+        { "value": 200, "question": "This Bad Boy Records founder signed Biggie and executive produced 'Ready to Die.'", "answer": "Who is Sean 'Puffy/Puff Daddy' Combs?" },
+        { "value": 300, "question": "This hit single from 'Ready to Die' features a music video parodying a 1970s TV variety show style.", "answer": "What is 'Juicy'?" },
+        { "value": 400, "question": "'Ready to Die' opens and closes with tracks framing the album as a narrative about this life event.", "answer": "What is birth and death (his own life story, opening with his birth and ending with 'Suicidal Thoughts')?" },
+        { "value": 500, "question": "This female rapper, closely affiliated with Bad Boy and Biggie, was featured on multiple tracks and was romantically linked to him.", "answer": "Who is Lil' Kim?" }
+      ]
+    },
+    {
+      "name": "Life After Death",
+      "questions": [
+        { "value": 100, "question": "Biggie's second album, 'Life After Death,' was released just this many days after his death.", "answer": "What is 16 days?" },
+        { "value": 200, "question": "This double album format made 'Life After Death' one of the most ambitious hip-hop releases of its time.", "answer": "What is a double album?" },
+        { "value": 300, "question": "This hit single from 'Life After Death' features Puff Daddy and Mase and became a chart-topping summer anthem.", "answer": "What is 'Mo Money Mo Problems'?" },
+        { "value": 400, "question": "This posthumously released single, featuring a re-recorded verse, samples Diana Ross's 'I'm Coming Out.'", "answer": "What is 'Mo Money Mo Problems'? (same track, samples Diana Ross)" },
+        { "value": 500, "question": "'Life After Death' debuted at this position on the Billboard 200 chart.", "answer": "What is number one?" }
+      ]
+    },
+    {
+      "name": "East Coast vs. West Coast",
+      "questions": [
+        { "value": 100, "question": "Biggie was a central figure in this coastal rivalry that defined 1990s hip-hop media coverage.", "answer": "What is the East Coast–West Coast hip-hop rivalry?" },
+        { "value": 200, "question": "This West Coast rapper, once a friend of Biggie's, became his most publicized rival before both their deaths.", "answer": "Who is Tupac Shakur (2Pac)?" },
+        { "value": 300, "question": "Biggie was fatally shot in this city, following an after-party for the Soul Train Music Awards.", "answer": "What is Los Angeles?" },
+        { "value": 400, "question": "Biggie was killed in this year.", "answer": "What is 1997?" },
+        { "value": 500, "question": "As of the 2020s, Biggie's murder case remains largely this status, despite ongoing investigations.", "answer": "What is unsolved?" }
+      ]
+    },
+    {
+      "name": "Biggie's Wordplay & Style",
+      "questions": [
+        { "value": 100, "question": "Biggie was widely praised for his skill with this literary device, painting vivid pictures with his verses.", "answer": "What is storytelling (vivid imagery)?" },
+        { "value": 200, "question": "This nickname, referencing his large physical stature, was one of Biggie's most common monikers.", "answer": "What is Big Poppa (or Biggie Smalls)?" },
+        { "value": 300, "question": "Biggie's flow is often described as unusually smooth and unhurried despite this typically fast technical quality.", "answer": "What is complex rhyme schemes/lyrical density?" },
+        { "value": 400, "question": "This track, 'Big Poppa,' interpolates a bassline from this 1980s Isley Brothers/Zapp-style funk song.", "answer": "What is 'Between the Sheets' by The Isley Brothers?" },
+        { "value": 500, "question": "Biggie is frequently ranked among the greatest rappers by outlets like this magazine, often placing at or near number one.", "answer": "What is Rolling Stone (or The Source)?" }
+      ]
+    },
+    {
+      "name": "Legacy",
+      "questions": [
+        { "value": 100, "question": "Biggie was posthumously inducted into this hall of fame in 2020.", "answer": "What is the Rock and Roll Hall of Fame?" },
+        { "value": 200, "question": "This 2009 biopic, starring Jamal Woolard, dramatized Biggie's life and career.", "answer": "What is 'Notorious'?" },
+        { "value": 300, "question": "Biggie's mother, an outspoken advocate for his legacy, is named this.", "answer": "Who is Voletta Wallace?" },
+        { "value": 400, "question": "Biggie's daughter, also involved in entertainment, is named this.", "answer": "Who is T'yanna Wallace?" },
+        { "value": 500, "question": "Biggie's son, born after his death, later became a rapper under this stage name.", "answer": "Who is CJ Wallace?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Brooklyn's Finest",
+    "question": "This 1997 collaborative album title, released with Jay-Z on a joint track, later became the name of a Jay-Z and Biggie hit produced by DJ Premier.",
+    "answer": "What is 'Brooklyn's Finest'?"
+  }
+}

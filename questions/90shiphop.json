@@ -1,0 +1,71 @@
+{
+  "packName": "90's Hip-Hop",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "East Coast 90s",
+      "questions": [
+        { "value": 100, "question": "This Staten Island group's 1993 debut 'Enter the Wu-Tang (36 Chambers)' redefined East Coast hip-hop.", "answer": "Who is Wu-Tang Clan?" },
+        { "value": 200, "question": "This Brooklyn rapper's debut 'Ready to Die' dropped in 1994 and made him a superstar.", "answer": "Who is The Notorious B.I.G.?" },
+        { "value": 300, "question": "This Queensbridge rapper released the classic 'Illmatic' in 1994.", "answer": "Who is Nas?" },
+        { "value": 400, "question": "This duo, consisting of Havoc and Prodigy, released 'The Infamous' in 1995.", "answer": "Who is Mobb Deep?" },
+        { "value": 500, "question": "This Brooklyn label, co-founded by Sean Combs, dominated East Coast hip-hop in the mid-to-late 90s.", "answer": "What is Bad Boy Records?" }
+      ]
+    },
+    {
+      "name": "West Coast 90s",
+      "questions": [
+        { "value": 100, "question": "This Dr. Dre album, released in 1992, pioneered the G-funk sound and launched Snoop Dogg's career.", "answer": "What is 'The Chronic'?" },
+        { "value": 200, "question": "This Long Beach rapper's debut, 'Doggystyle,' was one of the best-selling debut albums in hip-hop history.", "answer": "Who is Snoop Dogg?" },
+        { "value": 300, "question": "This label, co-founded by Suge Knight and Dr. Dre, was the dominant West Coast label of the era.", "answer": "What is Death Row Records?" },
+        { "value": 400, "question": "This double album, released in 1996, was Tupac Shakur's final studio release before his death.", "answer": "What is 'All Eyez on Me'?" },
+        { "value": 500, "question": "This term describes the funk-influenced, synth-heavy production style pioneered on the West Coast in the early-to-mid 90s.", "answer": "What is G-funk?" }
+      ]
+    },
+    {
+      "name": "90s Hip-Hop Groups",
+      "questions": [
+        { "value": 100, "question": "This Long Island-based group, featuring Q-Tip and Phife Dawg, released 'The Low End Theory' in 1991.", "answer": "Who is A Tribe Called Quest?" },
+        { "value": 200, "question": "This Brooklyn duo, Havoc and Prodigy, is more accurately known by this group name (not Wu-Tang).", "answer": "Who is Mobb Deep?" },
+        { "value": 300, "question": "This trio's 1995 hit 'Tha Crossroads' became one of the best-selling rap singles of the decade.", "answer": "Who is Bone Thugs-n-Harmony?" },
+        { "value": 400, "question": "This Compton-based group, N.W.A, disbanded in the early 90s but influenced most of the decade's West Coast sound.", "answer": "Who is N.W.A?" },
+        { "value": 500, "question": "This female hip-hop group, featuring Salt, Pepa, and Spinderella, remained hugely popular into the 90s after their 80s start.", "answer": "Who is Salt-N-Pepa?" }
+      ]
+    },
+    {
+      "name": "Iconic 90s Rap Singles",
+      "questions": [
+        { "value": 100, "question": "This 1996 Coolio hit, featuring themes of street violence, sampled Stevie Wonder's 'Pastime Paradise.'", "answer": "What is 'Gangsta's Paradise'?" },
+        { "value": 200, "question": "This 1998 single by Jay-Z sampled the Broadway musical 'Annie' for its hook.", "answer": "What is 'Hard Knock Life (Ghetto Anthem)'?" },
+        { "value": 300, "question": "This 1997 posthumous Notorious B.I.G. single, featuring Puff Daddy and Mase, sampled Diana Ross.", "answer": "What is 'Mo Money Mo Problems'?" },
+        { "value": 400, "question": "This 1993 Dr. Dre and Snoop Dogg single became a defining anthem of West Coast G-funk.", "answer": "What is 'Nuthin' but a 'G' Thang'?" },
+        { "value": 500, "question": "This 1999 single by Eminem, produced by Dr. Dre, introduced the world to his 'Slim Shady' persona on a major scale.", "answer": "What is 'My Name Is'?" }
+      ]
+    },
+    {
+      "name": "Hip-Hop Fashion & Culture",
+      "questions": [
+        { "value": 100, "question": "This oversized, baggy style of clothing became a defining hip-hop fashion trend in the 1990s.", "answer": "What are baggy jeans/oversized clothing?" },
+        { "value": 200, "question": "This brand of boots, associated with rugged, work-inspired style, became a hip-hop fashion staple in the 90s.", "answer": "What are Timberland boots (Timbs)?" },
+        { "value": 300, "question": "This sneaker brand, especially the Jordan and Air Force 1 lines, became deeply tied to 90s hip-hop culture.", "answer": "What is Nike?" },
+        { "value": 400, "question": "This heavy gold or platinum jewelry style, worn by rappers to display wealth, became iconic in the decade.", "answer": "What is bling (chains/jewelry)?" },
+        { "value": 500, "question": "This magazine, alongside The Source, became one of the two most influential hip-hop publications of the 90s.", "answer": "What is Vibe magazine?" }
+      ]
+    },
+    {
+      "name": "90s Hip-Hop Moments",
+      "questions": [
+        { "value": 100, "question": "This rivalry, pitting artists and labels from opposite U.S. coasts against each other, defined much of 90s hip-hop media coverage.", "answer": "What is the East Coast–West Coast rivalry?" },
+        { "value": 200, "question": "In this year, both Tupac Shakur and The Notorious B.I.G. were murdered in unsolved shootings.", "answer": "What is 1996 (Tupac) and 1997 (Biggie)?" },
+        { "value": 300, "question": "This award show, first airing in 1989 but rising to major cultural prominence in the 90s, became a key stage for hip-hop performances.", "answer": "What is the MTV Video Music Awards?" },
+        { "value": 400, "question": "This 1998 Lauryn Hill solo album became one of the best-reviewed and most awarded hip-hop/R&B albums of the decade.", "answer": "What is 'The Miseducation of Lauryn Hill'?" },
+        { "value": 500, "question": "This term describes the mainstream commercial explosion of hip-hop that occurred throughout the decade, moving it from underground to pop culture dominance.", "answer": "What is hip-hop's mainstream/commercial breakthrough?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "90s Hip-Hop Legacy",
+    "question": "This 1993 Wu-Tang Clan track, built around samples from kung-fu films, is widely credited with popularizing the group and RZA's raw, gritty production style nationwide.",
+    "answer": "What is 'Protect Ya Neck'?"
+  }
+}

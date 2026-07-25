@@ -1,0 +1,71 @@
+{
+  "packName": "Flatbush, Brooklyn",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "Neighborhood Basics",
+      "questions": [
+        { "value": 100, "question": "Flatbush is a neighborhood located in this New York City borough.", "answer": "What is Brooklyn?" },
+        { "value": 200, "question": "This major avenue, also the neighborhood's namesake, runs through the heart of Flatbush.", "answer": "What is Flatbush Avenue?" },
+        { "value": 300, "question": "Flatbush was originally settled by this European colonial power before English rule.", "answer": "What is the Dutch (New Netherland)?" },
+        { "value": 400, "question": "The name 'Flatbush' is believed to derive from a Dutch phrase meaning this kind of terrain.", "answer": "What is 'wooded plain' (Vlacke Bos)?" },
+        { "value": 500, "question": "Flatbush was one of six original Dutch towns that later became this borough after consolidation in 1898.", "answer": "What is Brooklyn (Kings County)?" }
+      ]
+    },
+    {
+      "name": "Caribbean Culture",
+      "questions": [
+        { "value": 100, "question": "Flatbush is known for having one of the largest populations of immigrants from this Caribbean island nation.", "answer": "What is Haiti (accept Jamaica and Trinidad as also prominent)?" },
+        { "value": 200, "question": "This massive annual parade, celebrating Caribbean culture, has its roots in Brooklyn and draws huge crowds each Labor Day.", "answer": "What is the West Indian Day Parade (Carnival)?" },
+        { "value": 300, "question": "Flatbush is home to many restaurants serving this Jamaican dish made of spiced meat wrapped in dough.", "answer": "What are beef patties?" },
+        { "value": 400, "question": "This street, a major commercial strip in Flatbush, is lined with Caribbean bakeries, record shops, and restaurants.", "answer": "What is Church Avenue (or Nostrand Avenue)?" },
+        { "value": 500, "question": "Flatbush's Caribbean community has significantly shaped New York's dancehall and this related music genre's local scene.", "answer": "What is reggae?" }
+      ]
+    },
+    {
+      "name": "Famous Flatbush Natives",
+      "questions": [
+        { "value": 100, "question": "This basketball Hall of Famer, one of the NBA's all-time greats, grew up in Brooklyn near Flatbush.", "answer": "Who is Michael Jordan? (trick — accept notable Brooklyn-raised athletes; a well-known Flatbush figure is boxer Mike Tyson from nearby Brownsville)" },
+        { "value": 200, "question": "This late Supreme Court Justice, a trailblazer for women's rights, grew up in Brooklyn.", "answer": "Who is Ruth Bader Ginsburg? (grew up in Midwood, near Flatbush)" },
+        { "value": 300, "question": "This comedian and actor, born in Brooklyn, is known for shows like 'Curb Your Enthusiasm.'", "answer": "Who is Larry David?" },
+        { "value": 400, "question": "This rapper and Wu-Tang affiliate has strong Brooklyn roots and often references the borough's streets.", "answer": "Who is Jay-Z? (from Marcy, Bed-Stuy area near Flatbush — accept Brooklyn-raised rappers broadly)" },
+        { "value": 500, "question": "This baseball legend, who broke MLB's color barrier, played for the Brooklyn Dodgers, whose fans famously hailed from Flatbush.", "answer": "Who is Jackie Robinson?" }
+      ]
+    },
+    {
+      "name": "Landmarks & Institutions",
+      "questions": [
+        { "value": 100, "question": "This large public park, one of Brooklyn's largest, borders Flatbush to the north.", "answer": "What is Prospect Park?" },
+        { "value": 200, "question": "This college, part of the City University of New York system, is located in Flatbush.", "answer": "What is Brooklyn College?" },
+        { "value": 300, "question": "This historic Dutch farmhouse museum, one of NYC's oldest structures, sits in Flatbush.", "answer": "What is the Flatbush Reformed Dutch Church (or the Lott House / Wyckoff House nearby)?" },
+        { "value": 400, "question": "This former Brooklyn Dodgers ballpark, demolished in 1960, once stood in the Flatbush area.", "answer": "What is Ebbets Field?" },
+        { "value": 500, "question": "This subway line, running along Flatbush Avenue, connects the neighborhood to Manhattan.", "answer": "What is the 2/5 line (IRT Nostrand Avenue Line)?" }
+      ]
+    },
+    {
+      "name": "Food & Local Flavor",
+      "questions": [
+        { "value": 100, "question": "This spiced, slow-cooked Jamaican dish, often made with goat or chicken, is a Flatbush food staple.", "answer": "What is curry (curry goat/curry chicken)?" },
+        { "value": 200, "question": "Flatbush's West Indian bakeries are especially known for this spicy, flaky pastry filled with seasoned beef.", "answer": "What is a beef patty?" },
+        { "value": 300, "question": "This Jewish community, historically significant in Flatbush and nearby Midwood, has deep roots in the area's food and culture.", "answer": "What is the Orthodox Jewish community?" },
+        { "value": 400, "question": "This soul food and Southern-style comfort food tradition is also well represented throughout Flatbush's dining scene.", "answer": "What is Southern/soul food?" },
+        { "value": 500, "question": "This fried, breaded plantain-based Caribbean dish is a common street food and side dish found across Flatbush eateries.", "answer": "What are tostones (or fried plantains)?" }
+      ]
+    },
+    {
+      "name": "Flatbush in Music & Media",
+      "questions": [
+        { "value": 100, "question": "This 2015 coming-of-age film, 'Dope,' and other indie films have used Brooklyn neighborhoods like Flatbush as backdrops.", "answer": "What is 'Dope'? (accept general Brooklyn coming-of-age films)" },
+        { "value": 200, "question": "Flatbush's Caribbean sound system culture has directly influenced this genre, blending reggae and hip-hop.", "answer": "What is dancehall (or reggae-influenced hip-hop)?" },
+        { "value": 300, "question": "This term describes a Brooklyn accent and vernacular historically associated with working-class Flatbush and nearby neighborhoods.", "answer": "What is 'Brooklynese'?" },
+        { "value": 400, "question": "This hit TV sitcom of the 1990s, 'The Cosby Show' spinoff, was set in a fictional Brooklyn-adjacent world reflecting the borough's culture.", "answer": "What is 'A Different World'? (loosely connected; accept any Brooklyn-set sitcom reference)" },
+        { "value": 500, "question": "This iconic Spike Lee film prominently features Brooklyn streets and was shot largely in the borough, though centered in Bed-Stuy rather than Flatbush proper.", "answer": "What is 'Do the Right Thing'?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Brooklyn History",
+    "question": "This 1894 annexation officially made Flatbush, along with other independent towns, part of the City of Brooklyn just four years before Brooklyn itself joined Greater New York City.",
+    "answer": "What is the annexation of the Town of Flatbush?"
+  }
+}
