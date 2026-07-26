@@ -1,0 +1,71 @@
+{
+  "packName": "Love & Hip Hop",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "The Franchise",
+      "questions": [
+        { "value": 100, "question": "'Love & Hip Hop' first premiered on this cable network in 2011.", "answer": "What is VH1?" },
+        { "value": 200, "question": "The original 'Love & Hip Hop' series was set in this city.", "answer": "What is New York?" },
+        { "value": 300, "question": "This spinoff city, launched in 2012, became one of the franchise's most popular editions, featuring stars like Stevie J.", "answer": "What is Atlanta?" },
+        { "value": 400, "question": "This West Coast spinoff city edition of the franchise launched in 2013.", "answer": "What is Hollywood?" },
+        { "value": 500, "question": "This Southern spinoff edition of the franchise, focused on a different music scene, launched featuring artists like Trina.", "answer": "What is Miami?" }
+      ]
+    },
+    {
+      "name": "New York Cast",
+      "questions": [
+        { "value": 100, "question": "This original cast member, a manager and on-again-off-again love interest of Chrissy Lampkin, is known for his fiery temper.", "answer": "Who is Jim Jones?" },
+        { "value": 200, "question": "This original cast member, part of the Dipset collective, married Chrissy Lampkin after years on the show.", "answer": "Who is Jim Jones?" },
+        { "value": 300, "question": "This original cast member, known for her relationship drama with Peter Gunz, became a fan-favorite personality.", "answer": "Who is Tara Wallace (or Amina Buddafly, also linked to Peter Gunz)?" },
+        { "value": 400, "question": "This rapper and original cast member is known for his complicated love triangle involving two women simultaneously.", "answer": "Who is Peter Gunz?" },
+        { "value": 500, "question": "This original 'Love & Hip Hop: New York' cast member is a member of the hip-hop group the Lox.", "answer": "Who is Jadakiss? (accept any Lox-affiliated original NY cast member)" }
+      ]
+    },
+    {
+      "name": "Atlanta Cast",
+      "questions": [
+        { "value": 100, "question": "This producer and original 'LHHATL' cast member is known for his tumultuous relationship with Joseline Hernandez.", "answer": "Who is Stevie J?" },
+        { "value": 200, "question": "This performer, known as the 'Puerto Rican Princess,' became one of the most talked-about personalities on 'LHHATL.'", "answer": "Who is Joseline Hernandez?" },
+        { "value": 300, "question": "This rapper and original cast member is known for hits like 'No Hands' and his relationship drama on the show.", "answer": "Who is Waka Flocka Flame?" },
+        { "value": 400, "question": "This R&B singer and original cast member is known for her hit 'No Letting Go' and her music career predating the show.", "answer": "Who is Rasheeda?" },
+        { "value": 500, "question": "This 'LHHATL' cast member and rapper is known by the nickname 'Scrappy' and his relationship with his mother, Momma Dee.", "answer": "Who is Lil Scrappy?" }
+      ]
+    },
+    {
+      "name": "Iconic Moments",
+      "questions": [
+        { "value": 100, "question": "This dramatic event, common across all 'Love & Hip Hop' cities, typically involves a large gathering where secrets and confrontations unfold.", "answer": "What is a reunion special?" },
+        { "value": 200, "question": "This term describes a staged or planned confrontation between cast members, often central to episode drama.", "answer": "What is a 'sit-down' (or confrontation scene)?" },
+        { "value": 300, "question": "This recurring plotline across the franchise often involves a cast member's pursuit of a music career alongside their personal drama.", "answer": "What is the 'music career storyline'?" },
+        { "value": 400, "question": "This term describes cast reunions where a moderator guides discussion of the season's biggest storylines.", "answer": "What is a reunion special (Part 1/Part 2 format)?" },
+        { "value": 500, "question": "This term describes cast members who leave and later return to the show after a hiatus, a common Love & Hip Hop pattern.", "answer": "What is a 'comeback' or returning cast member?" }
+      ]
+    },
+    {
+      "name": "Music & Careers",
+      "questions": [
+        { "value": 100, "question": "Many 'Love & Hip Hop' cast members use the show as a platform to promote this parallel professional pursuit.", "answer": "What is a music career?" },
+        { "value": 200, "question": "This 'LHHNY' original cast member and rapper is affiliated with the Diplomats and had a career independent of the show.", "answer": "Who is Jim Jones?" },
+        { "value": 300, "question": "This 'LHHATL' cast member and rapper, known for the song 'No Hands,' had an established career before joining the show.", "answer": "Who is Waka Flocka Flame?" },
+        { "value": 400, "question": "This term describes an artist's staged studio session or single release, a common episode plot device across the franchise.", "answer": "What is a 'studio session' storyline?" },
+        { "value": 500, "question": "This franchise has been credited with revitalizing or relaunching the careers of several once-prominent 1990s and 2000s hip-hop and R&B figures.", "answer": "What is 'Love & Hip Hop' (as a franchise/platform)?" }
+      ]
+    },
+    {
+      "name": "Franchise Trivia",
+      "questions": [
+        { "value": 100, "question": "This production company, led by Mona Scott-Young, created and produces the 'Love & Hip Hop' franchise.", "answer": "What is Monami Entertainment?" },
+        { "value": 200, "question": "Mona Scott-Young previously managed this hip-hop and R&B group before moving into television production.", "answer": "Who is Missy Elliott? (accept Salt-N-Pepa, whom she also managed)" },
+        { "value": 300, "question": "As of the mid-2020s, the 'Love & Hip Hop' franchise has produced spinoff editions set in this many total cities.", "answer": "What is four (New York, Atlanta, Hollywood, Miami)?" },
+        { "value": 400, "question": "This term describes the reality TV subgenre the franchise helped popularize, blending music industry stories with personal drama.", "answer": "What is 'hip-hop reality TV'?" },
+        { "value": 500, "question": "'Love & Hip Hop' has aired continuously on VH1 since its debut, making it one of the network's longest-running franchises, spanning over this many years.", "answer": "What is over a decade (since 2011)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Love & Hip Hop Legacy",
+    "question": "This original 'Love & Hip Hop: New York' cast member's storyline involving her relationship with Rich Dollaz became one of the franchise's longest-running romantic arcs.",
+    "answer": "Who is Erica Mena?"
+  }
+}

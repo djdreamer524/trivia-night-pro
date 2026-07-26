@@ -1,0 +1,71 @@
+{
+  "packName": "Hip-Hop DJ's",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "Founding Fathers",
+      "questions": [
+        { "value": 100, "question": "This DJ, who hosted the legendary 1973 back-to-school party in the Bronx, is widely credited as hip-hop's founding father.", "answer": "Who is DJ Kool Herc?" },
+        { "value": 200, "question": "This DJ pioneered scratching, needle drops, and the 'Quick Mix Theory,' becoming a foundational hip-hop turntablist.", "answer": "Who is Grand Wizzard Theodore?" },
+        { "value": 300, "question": "This DJ and MC, leader of the Furious Five, helped popularize hip-hop through pioneering mixing and scratching techniques.", "answer": "Who is Grandmaster Flash?" },
+        { "value": 400, "question": "This technique, isolating and repeating the instrumental 'break' section of a funk record, was pioneered by Kool Herc.", "answer": "What is the 'breakbeat'?" },
+        { "value": 500, "question": "This DJ and producer, a member of the Juice Crew, discovered and mentored artists including Big Daddy Kane and Biz Markie.", "answer": "Who is Marley Marl?" }
+      ]
+    },
+    {
+      "name": "Turntablism Legends",
+      "questions": [
+        { "value": 100, "question": "This San Francisco-based DJ crew, including Q-Bert and Mix Master Mike, revolutionized competitive turntablism in the 90s.", "answer": "Who is the Invisibl Skratch Piklz?" },
+        { "value": 200, "question": "This DJ, a member of the Beastie Boys' touring lineup, is renowned for his technical scratching skill.", "answer": "Who is Mix Master Mike?" },
+        { "value": 300, "question": "This annual competition, one of the most prestigious in turntablism, crowns the world's best DJ through elimination battles.", "answer": "What is the DMC World DJ Championships?" },
+        { "value": 400, "question": "This DJ, known for his work with Run-DMC, helped bring turntable scratching into mainstream hip-hop hits like 'Rock Box.'", "answer": "Who is Jam Master Jay?" },
+        { "value": 500, "question": "This DJ and producer, associated with A Tribe Called Quest, was known as much for his musical curation as his scratching.", "answer": "Who is Ali Shaheed Muhammad?" }
+      ]
+    },
+    {
+      "name": "Radio & Mixtape DJs",
+      "questions": [
+        { "value": 100, "question": "This New York radio DJ, longtime host on Hot 97, became one of hip-hop's most influential media tastemakers.", "answer": "Who is Funkmaster Flex?" },
+        { "value": 200, "question": "This DJ's mixtapes and freestyle segments in the early 2000s helped launch the careers of artists like Fabolous.", "answer": "Who is DJ Clue?" },
+        { "value": 300, "question": "This late DJ and radio personality, known for his work on Hot 97 and his 'Drama' mixtape series, was a major mixtape-era tastemaker.", "answer": "Who is DJ Drama? (accept DJ Kay Slay, a major Hot 97/mixtape figure who passed in 2022)" },
+        { "value": 400, "question": "This globally influential DJ and producer, known as 'the world's number one DJ' by many outlets, has also worked closely with major hip-hop artists.", "answer": "Who is DJ Khaled?" },
+        { "value": 500, "question": "This late radio and club DJ, known as 'The Wake Up Show' co-host, helped break West Coast hip-hop artists nationally.", "answer": "Who is DJ Sway (Sway Calloway) — accept DJ Skee or other Wake Up Show hosts?" }
+      ]
+    },
+    {
+      "name": "Producer-DJs",
+      "questions": [
+        { "value": 100, "question": "This Compton producer and DJ, formerly of N.W.A, went on to found Aftermath Entertainment and produce numerous classic albums.", "answer": "Who is Dr. Dre?" },
+        { "value": 200, "question": "This Wu-Tang Clan member served as the group's primary producer and de facto DJ/beatmaker.", "answer": "Who is RZA?" },
+        { "value": 300, "question": "This Gang Starr member, renowned for his sample-heavy boom-bap sound, produced classics for Nas, Jay-Z, and Christina Aguilera alike.", "answer": "Who is DJ Premier?" },
+        { "value": 400, "question": "This DJ and producer, a member of the Bomb Squad, helped craft Public Enemy's dense, chaotic soundscapes.", "answer": "Who is Hank Shocklee?" },
+        { "value": 500, "question": "This DJ, also known for the 'Chopped and Screwed' technique, is closely associated with Houston hip-hop's regional sound.", "answer": "Who is DJ Screw?" }
+      ]
+    },
+    {
+      "name": "DJ Culture & Techniques",
+      "questions": [
+        { "value": 100, "question": "This technique, moving a record back and forth by hand to create rhythmic sound effects, is a foundational hip-hop DJ skill.", "answer": "What is scratching?" },
+        { "value": 200, "question": "This term describes a DJ's practice of playing two copies of the same record to extend a breakbeat indefinitely.", "answer": "What is the 'merry-go-round' technique (or beat juggling)?" },
+        { "value": 300, "question": "This piece of equipment, essential for isolating and adjusting audio frequencies live, sits between the turntables and speakers.", "answer": "What is a mixer?" },
+        { "value": 400, "question": "This term describes a DJ's specially curated, rare, or exclusive vinyl records used to distinguish their sets from competitors.", "answer": "What are 'crates' (digging in the crates) or exclusive/rare records?" },
+        { "value": 500, "question": "This company's turntable model, the SL-1200, became the industry-standard piece of equipment for hip-hop DJs for decades.", "answer": "What is Technics?" }
+      ]
+    },
+    {
+      "name": "DJs Turned Icons",
+      "questions": [
+        { "value": 100, "question": "This DJ and producer, originally known for Miami bass and later global EDM-influenced hip-hop, built one of the most successful DJ-mogul careers ever.", "answer": "Who is DJ Khaled?" },
+        { "value": 200, "question": "This DJ, closely associated with hip-hop royalty through his marriage, has built a career as both a celebrity DJ and entrepreneur.", "answer": "Who is DJ Khaled? (accept Swizz Beatz, married to Alicia Keys)" },
+        { "value": 300, "question": "This West Coast DJ and producer, Dr. Dre's protégé, later became famous for headphone and audio equipment branding beyond music.", "answer": "Who is Dr. Dre? (Beats by Dre)" },
+        { "value": 400, "question": "This late DJ, tragically killed in 2002, was a member of Run-DMC and one of the most influential turntablists in hip-hop history.", "answer": "Who is Jam Master Jay?" },
+        { "value": 500, "question": "This artist, originally rising as a DJ and producer before becoming a chart-topping rapper himself, is known for hits like 'All I Do Is Win.'", "answer": "Who is DJ Khaled?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Hip-Hop DJ History",
+    "question": "This term, describing the practice of two turntables and a mixer used to seamlessly loop and extend breakbeats, was central to Kool Herc's early 1970s Bronx block party innovations.",
+    "answer": "What is the 'Merry-Go-Round' technique?"
+  }
+}

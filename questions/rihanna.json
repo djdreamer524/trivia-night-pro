@@ -1,0 +1,71 @@
+{
+  "packName": "Rihanna",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Early Career",
+      "questions": [
+        { "value": 100, "question": "Rihanna was born and raised on this Caribbean island nation.", "answer": "What is Barbados?" },
+        { "value": 200, "question": "This record executive discovered Rihanna and signed her to Def Jam in 2005.", "answer": "Who is Jay-Z? (as Def Jam president at the time)" },
+        { "value": 300, "question": "Rihanna's debut single, released in 2005, introduced her breezy Caribbean-pop sound.", "answer": "What is 'Pon de Replay'?" },
+        { "value": 400, "question": "Rihanna's debut album, released in 2005, is titled this.", "answer": "What is 'Music of the Sun'?" },
+        { "value": 500, "question": "This talent scout and producer, Evan Rogers, first discovered Rihanna singing in Barbados as a teenager.", "answer": "Who is Evan Rogers?" }
+      ]
+    },
+    {
+      "name": "Breakthrough Hits",
+      "questions": [
+        { "value": 100, "question": "This 2007 hit, featuring an umbrella as a central visual and lyrical motif, became Rihanna's signature breakout single.", "answer": "What is 'Umbrella'?" },
+        { "value": 200, "question": "This rapper features on the original version of 'Umbrella.'", "answer": "Who is Jay-Z?" },
+        { "value": 300, "question": "This 2007 album, featuring 'Umbrella' and 'Shut Up and Drive,' marked Rihanna's transition to a harder-edged pop-rock sound.", "answer": "What is 'Good Girl Gone Bad'?" },
+        { "value": 400, "question": "This 2010 hit, addressing themes of trauma and resilience, became one of Rihanna's most personal and powerful singles.", "answer": "What is 'Man Down'? (accept 'Russian Roulette' as another deeply personal 2009 single)" },
+        { "value": 500, "question": "This 2011 collaboration with Calvin Harris helped establish Rihanna as a dominant force in dance-pop.", "answer": "What is 'We Found Love'?" }
+      ]
+    },
+    {
+      "name": "Album Eras",
+      "questions": [
+        { "value": 100, "question": "This 2009 Rihanna album, released after a highly publicized personal incident, addressed themes of pain and empowerment.", "answer": "What is 'Rated R'?" },
+        { "value": 200, "question": "This 2010 Rihanna album, featuring 'Only Girl (In the World)' and 'What's My Name,' returned to an upbeat pop sound.", "answer": "What is 'Loud'?" },
+        { "value": 300, "question": "This 2012 Rihanna album, her seventh, featured the hit 'Diamonds.'", "answer": "What is 'Unapologetic'?" },
+        { "value": 400, "question": "This 2016 Rihanna album, her eighth and most recent full studio release as of the mid-2020s, features 'Work' and 'Needed Me.'", "answer": "What is 'Anti'?" },
+        { "value": 500, "question": "This hit single from 'Anti,' featuring Drake, became one of the biggest songs of 2016.", "answer": "What is 'Work'?" }
+      ]
+    },
+    {
+      "name": "Business Mogul",
+      "questions": [
+        { "value": 100, "question": "This inclusive beauty brand, launched by Rihanna in 2017, was praised for offering an unusually wide range of foundation shades.", "answer": "What is Fenty Beauty?" },
+        { "value": 200, "question": "This luxury fashion house, launched by Rihanna in partnership with LVMH, made her the first woman to head an original brand under the conglomerate.", "answer": "What is Fenty (Maison Fenty)?" },
+        { "value": 300, "question": "This lingerie brand, launched by Rihanna in 2018, is known for its size-inclusive approach.", "answer": "What is Savage X Fenty?" },
+        { "value": 400, "question": "As of the mid-2020s, Rihanna has been recognized as one of the wealthiest self-made female entrepreneurs, largely due to this beauty brand's success.", "answer": "What is Fenty Beauty?" },
+        { "value": 500, "question": "Rihanna's full birth name, before her stage name, is this.", "answer": "Who is Robyn Rihanna Fenty?" }
+      ]
+    },
+    {
+      "name": "Awards & Records",
+      "questions": [
+        { "value": 100, "question": "As of the mid-2020s, Rihanna has won this many Grammy Awards across her career.", "answer": "What is nine?" },
+        { "value": 200, "question": "Rihanna holds the record for most number-one singles on this Billboard chart among female artists in the 2000s and 2010s.", "answer": "What is the Billboard Hot 100 (or Dance Club Songs chart)?" },
+        { "value": 300, "question": "Rihanna headlined this major halftime show in 2023, marking her return to live performance after a long hiatus.", "answer": "What is the Super Bowl Halftime Show?" },
+        { "value": 400, "question": "This 2023 Rihanna Super Bowl performance revealed she was expecting her second child, becoming a viral moment.", "answer": "What is the pregnancy reveal during her halftime performance?" },
+        { "value": 500, "question": "Rihanna received this honorary title from the government of Barbados in 2021 for her cultural and philanthropic contributions.", "answer": "What is National Hero of Barbados?" }
+      ]
+    },
+    {
+      "name": "Rihanna's Personal Life",
+      "questions": [
+        { "value": 100, "question": "Rihanna is in a long-term relationship with this rapper, with whom she shares children.", "answer": "Who is A$AP Rocky?" },
+        { "value": 200, "question": "Rihanna and A$AP Rocky's first child, born in 2022, is named this.", "answer": "Who is RZA Athelston Mayers?" },
+        { "value": 300, "question": "Rihanna's charitable foundation, focused on education and health initiatives, is named this.", "answer": "What is the Clara Lionel Foundation?" },
+        { "value": 400, "question": "The Clara Lionel Foundation is named after Rihanna's two grandparents, Clara and this other family member.", "answer": "Who is Lionel (her grandfather)?" },
+        { "value": 500, "question": "Rihanna's acting career includes a role in this 2012 alien-invasion action film alongside Taylor Kitsch.", "answer": "What is 'Battleship'?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Rihanna's Legacy",
+    "question": "This annual charitable event, hosted by Rihanna's Clara Lionel Foundation, brings together celebrities for a lavish evening raising funds for education, health, and emergency response programs.",
+    "answer": "What is the Diamond Ball?"
+  }
+}

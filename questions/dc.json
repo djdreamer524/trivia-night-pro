@@ -1,0 +1,71 @@
+{
+  "packName": "DC (DCU)",
+  "theme": "dark",
+  "categories": [
+    {
+      "name": "Classic DC Heroes",
+      "questions": [
+        { "value": 100, "question": "This billionaire vigilante protects Gotham City by night, using no superpowers, only skill and technology.", "answer": "Who is Batman?" },
+        { "value": 200, "question": "This Kryptonian hero, raised in Kansas, is often considered the first major superhero.", "answer": "Who is Superman?" },
+        { "value": 300, "question": "This Amazonian warrior princess, created by William Moulton Marston, is one of DC's most iconic heroines.", "answer": "Who is Wonder Woman?" },
+        { "value": 400, "question": "This speedster hero, able to run at superhuman velocities, is secretly forensic scientist Barry Allen.", "answer": "Who is The Flash?" },
+        { "value": 500, "question": "This Green Lantern Corps member, sworn to protect Earth's sector of space using a power ring, is Hal Jordan's most famous alias.", "answer": "Who is Green Lantern?" }
+      ]
+    },
+    {
+      "name": "Batman's World",
+      "questions": [
+        { "value": 100, "question": "Batman's real identity, a wealthy Gotham businessman, is this.", "answer": "Who is Bruce Wayne?" },
+        { "value": 200, "question": "This chaotic, clown-faced villain is Batman's most iconic and enduring archnemesis.", "answer": "Who is the Joker?" },
+        { "value": 300, "question": "This loyal butler has served as Bruce Wayne's caretaker and confidant since childhood.", "answer": "Who is Alfred Pennyworth?" },
+        { "value": 400, "question": "This fictional city, plagued by crime and corruption, serves as Batman's home turf.", "answer": "What is Gotham City?" },
+        { "value": 500, "question": "This tragic event, the murder of Bruce Wayne's parents, is the defining origin story motivating Batman's crusade against crime.", "answer": "What is the murder of Thomas and Martha Wayne?" }
+      ]
+    },
+    {
+      "name": "DC on the Big Screen",
+      "questions": [
+        { "value": 100, "question": "This 2008 film, starring Heath Ledger as the Joker, remains one of the most critically acclaimed superhero films ever made.", "answer": "What is 'The Dark Knight'?" },
+        { "value": 200, "question": "This 2017 film was the first live-action Wonder Woman solo movie, starring Gal Gadot.", "answer": "What is 'Wonder Woman'?" },
+        { "value": 300, "question": "This director helmed the Dark Knight trilogy, redefining Batman for modern audiences.", "answer": "Who is Christopher Nolan?" },
+        { "value": 400, "question": "This 2019 standalone film, starring Joaquin Phoenix, won multiple Academy Awards including Best Actor.", "answer": "What is 'Joker'?" },
+        { "value": 500, "question": "This 2023 film relaunched the DC film universe under James Gunn and Peter Safran's new creative leadership.", "answer": "What is 'Superman' (2025 relaunch)? (accept 'Blue Beetle' or other 2023 DC transitional films)" }
+      ]
+    },
+    {
+      "name": "Justice League",
+      "questions": [
+        { "value": 100, "question": "This DC superhero team traditionally includes Superman, Batman, Wonder Woman, Flash, Aquaman, and Green Lantern.", "answer": "Who is the Justice League?" },
+        { "value": 200, "question": "This underwater kingdom's ruler, Arthur Curry, is a founding member of the Justice League.", "answer": "Who is Aquaman?" },
+        { "value": 300, "question": "This half-machine, half-human hero, a founding member of the modern Justice League, is also known as Victor Stone.", "answer": "Who is Cyborg?" },
+        { "value": 400, "question": "This fictional satellite headquarters has historically served as the Justice League's base of operations.", "answer": "What is the Watchtower?" },
+        { "value": 500, "question": "This 2017 film marked the first live-action team-up of the modern DC film universe's Justice League.", "answer": "What is 'Justice League'?" }
+      ]
+    },
+    {
+      "name": "DC Villains",
+      "questions": [
+        { "value": 100, "question": "This green-and-purple riddle-obsessed villain frequently torments Batman with elaborate puzzles.", "answer": "Who is the Riddler?" },
+        { "value": 200, "question": "This icy villain, Superman's archenemy, is a bald genius intent on destroying the Man of Steel.", "answer": "Who is Lex Luthor?" },
+        { "value": 300, "question": "This former Harley Quinn romantic partner and Batman villain is defined by his obsession with the Joker.", "answer": "Who is the Joker? (Harley Quinn is his romantic partner)" },
+        { "value": 400, "question": "This plant-controlling villain, sometimes an ally of Poison Ivy, has ties to both Batman and Swamp Thing stories.", "answer": "Who is Poison Ivy?" },
+        { "value": 500, "question": "This mercenary assassin, known for his skill and healing factor, is one of Batman's most dangerous physical adversaries.", "answer": "Who is Deathstroke?" }
+      ]
+    },
+    {
+      "name": "DC Comics History",
+      "questions": [
+        { "value": 100, "question": "This publisher, founded in 1934, is the home of Superman, Batman, and Wonder Woman.", "answer": "What is DC Comics?" },
+        { "value": 200, "question": "Superman first appeared in this comic book in 1938, considered the birth of the superhero genre.", "answer": "What is 'Action Comics #1'?" },
+        { "value": 300, "question": "Batman first appeared in this 1939 comic book issue.", "answer": "What is 'Detective Comics #27'?" },
+        { "value": 400, "question": "This term describes DC's practice of resetting or restructuring its comic continuity, done multiple times since the 1980s.", "answer": "What is a 'Crisis' event (reboot, e.g. Crisis on Infinite Earths)?" },
+        { "value": 500, "question": "This media conglomerate has owned DC Comics since 1969, later reorganizing it under Warner Bros. Discovery.", "answer": "What is Warner Bros. (Discovery)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "DC Legacy",
+    "question": "This fictional metal, deadly to Superman, is a radioactive fragment of his home planet and remains his most iconic weakness.",
+    "answer": "What is Kryptonite?"
+  }
+}

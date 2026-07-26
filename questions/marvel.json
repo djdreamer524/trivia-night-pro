@@ -1,0 +1,71 @@
+{
+  "packName": "Marvel (MCU)",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Phase One",
+      "questions": [
+        { "value": 100, "question": "This 2008 film, starring Robert Downey Jr., launched the entire Marvel Cinematic Universe.", "answer": "What is 'Iron Man'?" },
+        { "value": 200, "question": "This actor has portrayed Nick Fury throughout nearly the entire MCU.", "answer": "Who is Samuel L. Jackson?" },
+        { "value": 300, "question": "This 2011 film introduced audiences to the Norse god of thunder.", "answer": "What is 'Thor'?" },
+        { "value": 400, "question": "This 2012 film brought together Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye for the first time.", "answer": "What is 'The Avengers'?" },
+        { "value": 500, "question": "This actor played Captain America throughout the Infinity Saga.", "answer": "Who is Chris Evans?" }
+      ]
+    },
+    {
+      "name": "Infinity Saga",
+      "questions": [
+        { "value": 100, "question": "This purple, gauntlet-wearing villain sought to collect all six Infinity Stones.", "answer": "Who is Thanos?" },
+        { "value": 200, "question": "This 2018 film ended with Thanos successfully snapping away half of all life in the universe.", "answer": "What is 'Avengers: Infinity War'?" },
+        { "value": 300, "question": "This 2019 film became the highest-grossing movie of all time upon release, later surpassed by 'Avatar.'", "answer": "What is 'Avengers: Endgame'?" },
+        { "value": 400, "question": "This actor played Thanos, using motion capture technology throughout his MCU appearances.", "answer": "Who is Josh Brolin?" },
+        { "value": 500, "question": "This term describes the overarching 23-film storyline spanning from 'Iron Man' to 'Avengers: Endgame.'", "answer": "What is the Infinity Saga?" }
+      ]
+    },
+    {
+      "name": "Marvel Heroes",
+      "questions": [
+        { "value": 100, "question": "This actress played Black Widow throughout the MCU, receiving her own solo film in 2021.", "answer": "Who is Scarlett Johansson?" },
+        { "value": 200, "question": "This hero, a former special forces sniper, uses a bow and arrow as his primary weapon.", "answer": "Who is Hawkeye (Clint Barton)?" },
+        { "value": 300, "question": "This Wakandan hero, first introduced in 'Captain America: Civil War,' received his own acclaimed 2018 solo film.", "answer": "Who is Black Panther?" },
+        { "value": 400, "question": "This actor played T'Challa/Black Panther before his death in 2020.", "answer": "Who is Chadwick Boseman?" },
+        { "value": 500, "question": "This hero, first appearing in a 2019 solo film, is Marvel's first female-led superhero movie in the MCU.", "answer": "Who is Captain Marvel (Carol Danvers)?" }
+      ]
+    },
+    {
+      "name": "Marvel Villains",
+      "questions": [
+        { "value": 100, "question": "This green-skinned villain, Iron Man's business rival, appeared as the main antagonist of the first 'Iron Man' film.", "answer": "Who is Obadiah Stane (Iron Monger)?" },
+        { "value": 200, "question": "This Asgardian trickster god, Thor's adopted brother, has appeared in numerous MCU films and his own Disney+ series.", "answer": "Who is Loki?" },
+        { "value": 300, "question": "This actor plays Loki throughout the MCU.", "answer": "Who is Tom Hiddleston?" },
+        { "value": 400, "question": "This villain, a former SHIELD agent turned vulture-suited criminal, faced off against Spider-Man in 'Homecoming.'", "answer": "Who is Adrian Toomes (The Vulture)?" },
+        { "value": 500, "question": "This multiversal villain, played by Jonathan Majors, was set up as the next major MCU threat before being recast.", "answer": "Who is Kang the Conqueror?" }
+      ]
+    },
+    {
+      "name": "Spider-Man in the MCU",
+      "questions": [
+        { "value": 100, "question": "This actor currently portrays Peter Parker/Spider-Man in the MCU.", "answer": "Who is Tom Holland?" },
+        { "value": 200, "question": "Spider-Man was first introduced into the MCU in this 2016 Captain America film.", "answer": "What is 'Captain America: Civil War'?" },
+        { "value": 300, "question": "This 2021 Spider-Man film brought together three generations of live-action Spider-Man actors via the multiverse.", "answer": "What is 'Spider-Man: No Way Home'?" },
+        { "value": 400, "question": "This billionaire hero served as Peter Parker's mentor figure throughout the early MCU Spider-Man films.", "answer": "Who is Tony Stark/Iron Man?" },
+        { "value": 500, "question": "This actress plays MJ, Peter Parker's love interest, in the Tom Holland Spider-Man trilogy.", "answer": "Who is Zendaya?" }
+      ]
+    },
+    {
+      "name": "Marvel Studios & Beyond",
+      "questions": [
+        { "value": 100, "question": "This studio, founded by Marvel Entertainment, produces the MCU films.", "answer": "What is Marvel Studios?" },
+        { "value": 200, "question": "This executive has served as Marvel Studios' president and chief creative architect throughout the MCU's history.", "answer": "Who is Kevin Feige?" },
+        { "value": 300, "question": "This streaming service hosts Marvel's episodic television series, including 'WandaVision' and 'Loki.'", "answer": "What is Disney+?" },
+        { "value": 400, "question": "This company acquired Marvel Entertainment in 2009, enabling the eventual crossover of Marvel properties like the X-Men and Fantastic Four.", "answer": "What is The Walt Disney Company?" },
+        { "value": 500, "question": "This term describes the brief additional scenes shown during or after the credits of most MCU films, often teasing future stories.", "answer": "What is a post-credits scene?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Marvel's Multiverse",
+    "question": "This term, introduced heavily in Phase Four and Five, describes the existence of multiple parallel realities within the MCU, first explored in depth in the animated series 'What If...?'",
+    "answer": "What is the Multiverse?"
+  }
+}
