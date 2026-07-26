@@ -1,0 +1,71 @@
+{
+  "packName": "Fabolous",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "Brooklyn Roots",
+      "questions": [
+        { "value": 100, "question": "Fabolous was born and raised in this New York City borough.", "answer": "What is Brooklyn?" },
+        { "value": 200, "question": "Fabolous's real name, before his stage name, is this.", "answer": "Who is John Jackson?" },
+        { "value": 300, "question": "Fabolous grew up in this specific Brooklyn neighborhood, often referenced in his lyrics.", "answer": "What is Breukelen (Flatbush/East Flatbush area)?" },
+        { "value": 400, "question": "Fabolous first gained attention on this DJ's popular freestyle radio segment in the early 2000s.", "answer": "Who is DJ Clue?" },
+        { "value": 500, "question": "Fabolous's stage name is a play on this word, reflecting his smooth, boastful style.", "answer": "What is 'fabulous'?" }
+      ]
+    },
+    {
+      "name": "Street Dreams & Debut Era",
+      "questions": [
+        { "value": 100, "question": "Fabolous's debut album, released in 2001, is titled this.", "answer": "What is 'Ghetto Fabolous'?" },
+        { "value": 200, "question": "This hit single from Fabolous's debut samples Rakim's 'Paid in Full' and features Nate Dogg.", "answer": "What is 'Can't Deny It'?" },
+        { "value": 300, "question": "Fabolous's 2003 album, his second, is titled this.", "answer": "What is 'Street Dreams'?" },
+        { "value": 400, "question": "This hit from 'Street Dreams,' featuring P. Diddy and Jagged Edge, borrows its hook from a Chicago song.", "answer": "What is 'Into You'?" },
+        { "value": 500, "question": "This record label, co-founded by DJ Clue, released much of Fabolous's early work.", "answer": "What is Desert Storm Records / Elektra?" }
+      ]
+    },
+    {
+      "name": "Mixtape Legend",
+      "questions": [
+        { "value": 100, "question": "Fabolous is widely respected in hip-hop for his dominance in this format of unofficial, often freestyle-based releases.", "answer": "What are mixtapes?" },
+        { "value": 200, "question": "This long-running Fabolous mixtape series, spanning multiple volumes, showcases his freestyle and wordplay skills.", "answer": "What is 'The S.O.U.L. Tape' (accept 'Soul Tape' series)?" },
+        { "value": 300, "question": "Fabolous is known for rapping over other artists' popular instrumentals, a hip-hop tradition known by this term.", "answer": "What is freestyling over other people's beats (a 'jack move')?" },
+        { "value": 400, "question": "This skill, involving clever double entendres and unexpected wordplay, is one of Fabolous's most celebrated lyrical trademarks.", "answer": "What is wordplay/punchlines?" },
+        { "value": 500, "question": "Fabolous has frequently collaborated with this fellow Brooklyn-associated crew/collective known as the Diplomats, despite not being an official member.", "answer": "Who are the Diplomats (Dipset)?" }
+      ]
+    },
+    {
+      "name": "Hit Collaborations",
+      "questions": [
+        { "value": 100, "question": "This 2007 Fabolous single, featuring Jermaine Dupri and Ne-Yo, interpolates elements of a Bell Biv DeVoe classic.", "answer": "What is 'Make Me Better'?" },
+        { "value": 200, "question": "Fabolous's 2009 hit 'Throw It in the Bag' features this R&B/pop singer.", "answer": "Who is The-Dream?" },
+        { "value": 300, "question": "This female R&B singer, Fabolous's longtime partner, has appeared alongside him on tracks over the years.", "answer": "Who is Emily B?" },
+        { "value": 400, "question": "Fabolous's collaboration 'Young'n (Holla Back)' helped define early-2000s club-ready hip-hop.", "answer": "What is 'Young'n (Holla Back)'?" },
+        { "value": 500, "question": "This Southern rap duo, OutKast, and Fabolous crossed paths on various remixes and shows during the early 2000s golden mixtape era.", "answer": "Who is OutKast? (accept broad Southern hip-hop crossover collaborators)" }
+      ]
+    },
+    {
+      "name": "Fabolous Albums",
+      "questions": [
+        { "value": 100, "question": "Fabolous's 2007 album, following a string of mixtapes, is titled this — referencing his affiliation with a particular street.", "answer": "What is 'From Nothin' to Somethin''?" },
+        { "value": 200, "question": "This 2009 Fabolous album's title plays on a chess-related metaphor for street strategy.", "answer": "What is 'Loso's Way'?" },
+        { "value": 300, "question": "Fabolous's nickname 'Loso,' referenced in album titles, is derived from this borough-based term.", "answer": "What is 'Brooklyn' (Loso = 'Los,' short for Brooklyn slang)?" },
+        { "value": 400, "question": "This 2016 collaborative mixtape/album, 'Friday on Elm Street,' paired Fabolous with this rapper.", "answer": "Who is Jadakiss?" },
+        { "value": 500, "question": "Fabolous's real first name appears in the title of this 2003 album chronicling his rise from the streets.", "answer": "What is 'Street Dreams'? (his given name John doesn't appear in a title; accept 'Street Dreams' as the rise-from-the-streets narrative album)" }
+      ]
+    },
+    {
+      "name": "Fabolous Today",
+      "questions": [
+        { "value": 100, "question": "Fabolous has remained a fixture in hip-hop for over two decades, consistently praised for maintaining this quality despite trend shifts.", "answer": "What is lyrical consistency/longevity?" },
+        { "value": 200, "question": "Fabolous is often cited by younger rappers as an influence on this skill in particular, involving clever rhyme construction.", "answer": "What is punchline writing/wordplay?" },
+        { "value": 300, "question": "Fabolous has been featured on tracks with younger stars like this Toronto-born rapper, showing his cross-generational appeal.", "answer": "Who is Drake?" },
+        { "value": 400, "question": "Fabolous continues to release music and remains associated with this borough's hip-hop identity above all others.", "answer": "What is Brooklyn?" },
+        { "value": 500, "question": "Fabolous has cited this late Brooklyn legend, whose flow and storytelling influenced his own style, as a formative inspiration.", "answer": "Who is The Notorious B.I.G.?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Fabolous Hits",
+    "question": "This 2003 Fabolous single, featuring Tamia, samples Bob Marley's 'Waiting in Vain' and became one of his signature romantic hits.",
+    "answer": "What is 'Into You'? (the Tamia-featured original version)"
+  }
+}

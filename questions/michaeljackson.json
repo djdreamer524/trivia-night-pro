@@ -1,0 +1,71 @@
+{
+  "packName": "Michael Jackson",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "The Jackson 5",
+      "questions": [
+        { "value": 100, "question": "Michael Jackson rose to fame as the youngest member of this family singing group.", "answer": "Who are the Jackson 5?" },
+        { "value": 200, "question": "The Jackson family hails from this Indiana city.", "answer": "What is Gary, Indiana?" },
+        { "value": 300, "question": "This record label signed the Jackson 5 in 1968, launching their national fame.", "answer": "What is Motown?" },
+        { "value": 400, "question": "This 1969 Jackson 5 single was their first number-one hit on the Billboard Hot 100.", "answer": "What is 'I Want You Back'?" },
+        { "value": 500, "question": "Michael's father, who managed and pushed the Jackson 5 to fame, was named this.", "answer": "Who is Joseph Jackson?" }
+      ]
+    },
+    {
+      "name": "Thriller Era",
+      "questions": [
+        { "value": 100, "question": "Michael Jackson's 1982 album 'Thriller' remains the best-selling album of all time in this metric.", "answer": "What is worldwide album sales?" },
+        { "value": 200, "question": "This iconic short film for the title track of 'Thriller' was directed by John Landis and featured zombie choreography.", "answer": "What is the 'Thriller' music video?" },
+        { "value": 300, "question": "This producer, who worked with Jackson on 'Off the Wall,' 'Thriller,' and 'Bad,' was key to his signature sound.", "answer": "Who is Quincy Jones?" },
+        { "value": 400, "question": "This 'Thriller' single, a duet, features Paul McCartney.", "answer": "What is 'The Girl Is Mine'?" },
+        { "value": 500, "question": "This dance move, debuted during a 1983 televised Motown anniversary performance of 'Billie Jean,' became one of Jackson's signature moves.", "answer": "What is the moonwalk?" }
+      ]
+    },
+    {
+      "name": "Iconic Hits",
+      "questions": [
+        { "value": 100, "question": "This 1982 hit tells the story of a woman claiming Jackson fathered her child.", "answer": "What is 'Billie Jean'?" },
+        { "value": 200, "question": "This 1987 hit, the title track from the album of the same name, addresses themes of resilience against critics.", "answer": "What is 'Bad'?" },
+        { "value": 300, "question": "This 1991 hit, addressing racism, became one of Jackson's most socially conscious singles.", "answer": "What is 'Black or White'?" },
+        { "value": 400, "question": "This 1979 disco-funk hit from 'Off the Wall' remains one of Jackson's most beloved dance tracks.", "answer": "What is 'Don't Stop 'Til You Get Enough'?" },
+        { "value": 500, "question": "This 1995 hit, a duet with his sister Janet, addressed media scrutiny of his personal life.", "answer": "What is 'Scream'?" }
+      ]
+    },
+    {
+      "name": "Dance & Performance",
+      "questions": [
+        { "value": 100, "question": "This signature Jackson dance illusion, appearing to defy gravity, was later patented as special shoes.", "answer": "What is the anti-gravity lean?" },
+        { "value": 200, "question": "This 1993 event marked Jackson's first-ever Super Bowl Halftime Show performance.", "answer": "What is Super Bowl XXVII?" },
+        { "value": 300, "question": "Jackson's dance style heavily drew from this earlier generation of performers, including James Brown, whom he cited as an influence.", "answer": "Who is James Brown?" },
+        { "value": 400, "question": "This choreographic term describes Jackson's habit of crotch-grabbing and other sharp, punctuated dance gestures.", "answer": "What is 'sharp/percussive choreography' (or 'crotch grab' as a signature move)?" },
+        { "value": 500, "question": "This 1988 concert film and album, capturing Jackson's Bad Tour, showcased his elaborate live stage production.", "answer": "What is 'Michael Jackson: Live at Wembley Stadium' (accept 'Moonwalker' as related visual media)?" }
+      ]
+    },
+    {
+      "name": "Awards & Records",
+      "questions": [
+        { "value": 100, "question": "Jackson won a record-setting this many Grammy Awards in a single night at the 1984 ceremony.", "answer": "What is eight?" },
+        { "value": 200, "question": "Jackson was inducted into the Rock and Roll Hall of Fame twice — once solo and once with this group.", "answer": "Who are the Jackson 5?" },
+        { "value": 300, "question": "This title, bestowed on Jackson by the media and fans for his cultural impact, remains his most famous nickname.", "answer": "Who is the 'King of Pop'?" },
+        { "value": 400, "question": "'Thriller' won this top Grammy category at the 1984 awards, among its many wins.", "answer": "What is Album of the Year?" },
+        { "value": 500, "question": "This organization named Michael Jackson the best-selling music artist of all time via a Guinness World Record for 'Thriller.'", "answer": "What is Guinness World Records?" }
+      ]
+    },
+    {
+      "name": "Later Career & Legacy",
+      "questions": [
+        { "value": 100, "question": "This 1991 album, Jackson's eighth studio release, included hits like 'Black or White' and 'Remember the Time.'", "answer": "What is 'Dangerous'?" },
+        { "value": 200, "question": "This planned comeback concert residency, scheduled for 2009 in London, was never completed due to Jackson's death.", "answer": "What is 'This Is It'?" },
+        { "value": 300, "question": "Michael Jackson died in this year, at his rented Los Angeles home.", "answer": "What is 2009?" },
+        { "value": 400, "question": "This Las Vegas Cirque du Soleil show, and later a second one, celebrate Jackson's music and legacy through acrobatics and dance.", "answer": "What is 'Michael Jackson: The Immortal World Tour' (or 'MJ ONE')?" },
+        { "value": 500, "question": "This 2022 Broadway musical dramatizes Jackson's life and career, becoming a Tony Award-winning production.", "answer": "What is 'MJ the Musical'?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Michael Jackson's Neverland",
+    "question": "Michael Jackson's famous private ranch, home to amusement rides and a zoo, was located in this California county.",
+    "answer": "What is Santa Barbara County?"
+  }
+}

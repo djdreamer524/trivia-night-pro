@@ -1,0 +1,71 @@
+{
+  "packName": "Instagram",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Instagram History",
+      "questions": [
+        { "value": 100, "question": "Instagram was officially launched to the public in this year.", "answer": "What is 2010?" },
+        { "value": 200, "question": "This company, run by Mark Zuckerberg, acquired Instagram in 2012 for roughly $1 billion.", "answer": "What is Facebook (now Meta)?" },
+        { "value": 300, "question": "Instagram was co-founded by Kevin Systrom and this second co-founder.", "answer": "Who is Mike Krieger?" },
+        { "value": 400, "question": "Instagram's original app was actually a check-in app called this before pivoting to photo sharing.", "answer": "What is Burbn?" },
+        { "value": 500, "question": "This was the very first photo ever posted on Instagram, featuring a dog and a food truck.", "answer": "What is a photo of a dog near a taco stand (posted by co-founder Kevin Systrom)?" }
+      ]
+    },
+    {
+      "name": "Features & Tools",
+      "questions": [
+        { "value": 100, "question": "This Instagram feature, letting users post disappearing photos and videos, launched in 2016.", "answer": "What are Stories?" },
+        { "value": 200, "question": "This short-form video feature, launched in 2020 to compete with TikTok, is called this.", "answer": "What are Reels?" },
+        { "value": 300, "question": "This feature lets users apply visual filters like 'Clarendon' and 'Juno' to their photos.", "answer": "What are filters?" },
+        { "value": 400, "question": "This in-app shopping feature allows brands to tag products directly in their posts.", "answer": "What is Instagram Shopping (product tagging)?" },
+        { "value": 500, "question": "This once-standalone Instagram app for long-form video content was shut down in 2022 after struggling to compete.", "answer": "What is IGTV?" }
+      ]
+    },
+    {
+      "name": "Most Followed Accounts",
+      "questions": [
+        { "value": 100, "question": "This international soccer superstar has long held one of the highest follower counts on Instagram.", "answer": "Who is Cristiano Ronaldo?" },
+        { "value": 200, "question": "This American reality TV star and businesswoman, part of the Kardashian-Jenner family, ranks among the most-followed women on Instagram.", "answer": "Who is Kylie Jenner?" },
+        { "value": 300, "question": "This global pop superstar, known for songs like 'Shake It Off,' is one of the most-followed musicians on the platform.", "answer": "Who is Selena Gomez (or Taylor Swift)?" },
+        { "value": 400, "question": "Instagram's own official account is typically among the most-followed accounts on the entire platform.", "answer": "What is @instagram?" },
+        { "value": 500, "question": "This Argentine soccer star, who won the 2022 World Cup, also ranks among the platform's most-followed athletes.", "answer": "Who is Lionel Messi?" }
+      ]
+    },
+    {
+      "name": "Instagram Slang & Culture",
+      "questions": [
+        { "value": 100, "question": "This term describes a post specifically crafted to appear effortlessly attractive or impressive.", "answer": "What is 'Instagram-worthy' (or 'aesthetic')?" },
+        { "value": 200, "question": "This abbreviation refers to accounts that trade likes/follows or engage in coordinated engagement schemes.", "answer": "What is a 'pod' (engagement pod)? (accept 'follow for follow'/F4F)" },
+        { "value": 300, "question": "This term describes an Instagram account, often anonymous, that reposts other people's content for entertainment or news.", "answer": "What is a 'repost' or 'meme' account?" },
+        { "value": 400, "question": "This acronym, commonly used in captions, stands for 'throwback Thursday,' a day for posting old photos.", "answer": "What is #TBT?" },
+        { "value": 500, "question": "This term describes users who post carefully curated, often aspirational lifestyle content as a career.", "answer": "Who are influencers?" }
+      ]
+    },
+    {
+      "name": "Instagram vs. Other Apps",
+      "questions": [
+        { "value": 100, "question": "This short-form video app, banned or restricted in several countries, is Instagram Reels' biggest competitor.", "answer": "What is TikTok?" },
+        { "value": 200, "question": "This disappearing-message app, which pioneered the 'Stories' format Instagram later copied, is owned by Snap Inc.", "answer": "What is Snapchat?" },
+        { "value": 300, "question": "This text-based social app, launched by Instagram's parent company in 2023, was designed to compete with X (formerly Twitter).", "answer": "What is Threads?" },
+        { "value": 400, "question": "Instagram's parent company rebranded itself to this name in 2021, reflecting a focus on virtual/augmented reality.", "answer": "What is Meta?" },
+        { "value": 500, "question": "This messaging app, also owned by Meta, is sometimes integrated with Instagram direct messages for cross-platform chatting.", "answer": "What is WhatsApp (or Facebook Messenger)?" }
+      ]
+    },
+    {
+      "name": "Instagram Milestones",
+      "questions": [
+        { "value": 100, "question": "As of the mid-2020s, Instagram has well over this many billion monthly active users worldwide.", "answer": "What is 2 billion?" },
+        { "value": 200, "question": "This hashtag-based feature allows users to categorize and discover content around specific topics or trends.", "answer": "What are hashtags?" },
+        { "value": 300, "question": "This feature, letting creators go live in real time with followers, launched in 2016 alongside Stories.", "answer": "What is Instagram Live?" },
+        { "value": 400, "question": "This once-iconic photo, an egg, became the most-liked Instagram post in history for a period in 2019, surpassing Kylie Jenner's baby announcement.", "answer": "What is 'World Record Egg' (@world_record_egg)?" },
+        { "value": 500, "question": "Instagram removed public visibility of this metric, the like count, for many users starting in 2019 to reduce social pressure.", "answer": "What is the like count?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Instagram Origins",
+    "question": "Instagram's name is a blend of the words 'instant camera' and this other word, referring to how quickly messages traveled.",
+    "answer": "What is 'telegram'?"
+  }
+}

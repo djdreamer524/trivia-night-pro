@@ -1,0 +1,71 @@
+{
+  "packName": "90's Dancehall",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "90s Dancehall Kings",
+      "questions": [
+        { "value": 100, "question": "This artist, known as the 'Doctor,' scored a major 90s crossover with the smooth hit 'Dude.'", "answer": "Who is Beenie Man?" },
+        { "value": 200, "question": "This artist, known for gritty lyricism, released the classic 'Down in the Ghetto' and 'Murder She Wrote.'", "answer": "Who is Bounty Killer?" },
+        { "value": 300, "question": "This artist and his rivalry with Bounty Killer defined much of 90s dancehall's competitive energy.", "answer": "Who is Beenie Man?" },
+        { "value": 400, "question": "This deejay, known for a rougher, more aggressive style, had 90s hits including 'World Dance' and clashed frequently on sound systems.", "answer": "Who is Ninjaman?" },
+        { "value": 500, "question": "This artist's 1993 hit 'Murder She Wrote,' produced by Dave Kelly, became one of the decade's biggest dancehall anthems.", "answer": "Who is Chaka Demus & Pliers? (accept Bounty Killer's contemporaneous work)" }
+      ]
+    },
+    {
+      "name": "90s Dancehall Queens",
+      "questions": [
+        { "value": 100, "question": "This artist, known as the 'First Lady of Dancehall,' had major 90s hits including 'Zagga Zow.'", "answer": "Who is Lady Saw?" },
+        { "value": 200, "question": "This artist's bold, explicit lyrical content in the 90s made her a controversial but influential trailblazer for women in dancehall.", "answer": "Who is Lady Saw?" },
+        { "value": 300, "question": "This female deejay, known for hits like 'Trailer Load a Girls,' rose to prominence in the mid-90s.", "answer": "Who is Lady Saw?" },
+        { "value": 400, "question": "This artist, though better known in the 2000s, began her career as a dancehall DJ in the late 90s under the name Lady Alliance.", "answer": "Who is Spice? (early career reference)" },
+        { "value": 500, "question": "This term describes the male-dominated genre's slow embrace of women deejays throughout the 1990s, with Lady Saw as the breakout star.", "answer": "What is dancehall's gender landscape (women in dancehall)?" }
+      ]
+    },
+    {
+      "name": "Riddims of the 90s",
+      "questions": [
+        { "value": 100, "question": "This 1993 riddim, produced by Dave Kelly, backed 'Murder She Wrote' and many other classics.", "answer": "What is the 'Bookshelf' riddim?" },
+        { "value": 200, "question": "This riddim, created for the song 'Punanny,' became one of the most versioned riddims of the decade.", "answer": "What is the 'Punanny' riddim?" },
+        { "value": 300, "question": "This term describes the practice of many different artists recording separate songs over the exact same instrumental track.", "answer": "What is 'riddim versioning'?" },
+        { "value": 400, "question": "This production duo, Steely & Clevie, remained hugely influential throughout the 90s dancehall riddim scene.", "answer": "Who are Steely & Clevie?" },
+        { "value": 500, "question": "This 1990s riddim, the 'Filthy,' was known for its raw, stripped-down digital sound characteristic of the era.", "answer": "What is the 'Filthy' riddim?" }
+      ]
+    },
+    {
+      "name": "Crossover Hits",
+      "questions": [
+        { "value": 100, "question": "This 1993 Chaka Demus & Pliers hit, featuring a reggae-pop crossover sound, topped UK charts.", "answer": "What is 'Tease Me'?" },
+        { "value": 200, "question": "This 1994 dancehall-pop crossover hit by Chaka Demus & Pliers, sampling 'Twist and Shout,' became a massive UK number one.", "answer": "What is 'Twist and Shout'?" },
+        { "value": 300, "question": "This late 90s artist's hit 'No Letting Go,' though released in 2005, drew directly on 90s dancehall-pop crossover foundations.", "answer": "Who is Wayne Wonder? (foundational influence reference)" },
+        { "value": 400, "question": "This artist's 1997 hit 'It's Not Over ('Til It's Over)' helped bring dancehall further into American mainstream radio.", "answer": "Who is Diana King?" },
+        { "value": 500, "question": "This American R&B group's 1993 hit 'Informer,' though by a Canadian artist, helped popularize dancehall-style patois flows for U.S. audiences.", "answer": "Who is Snow?" }
+      ]
+    },
+    {
+      "name": "Sound Systems & Culture",
+      "questions": [
+        { "value": 100, "question": "This competitive event, where sound systems battle using exclusive tracks, remained central to 90s dancehall culture.", "answer": "What is a sound clash?" },
+        { "value": 200, "question": "This term for a custom, one-off recording made exclusively for a specific sound system was essential to 90s clash culture.", "answer": "What is a dubplate?" },
+        { "value": 300, "question": "This Jamaican sound system, one of the most legendary in dancehall history, remained dominant throughout the 90s clash circuit.", "answer": "What is Stone Love Movement?" },
+        { "value": 400, "question": "This annual festival, one of the largest reggae/dancehall events in the world, continued growing in prominence throughout the 90s.", "answer": "What is Reggae Sumfest?" },
+        { "value": 500, "question": "This term describes dancehall's raw, uptempo digital sound that distinguished it from its slower, more melodic reggae predecessor.", "answer": "What is 'digital dancehall'?" }
+      ]
+    },
+    {
+      "name": "90s Dancehall Dance Crazes",
+      "questions": [
+        { "value": 100, "question": "This dance, created by the artist Bogle, became one of the most iconic dancehall dance moves of the 90s.", "answer": "What is the 'Bogle' dance?" },
+        { "value": 200, "question": "This term describes the tradition of Jamaican dancers creating and naming new moves, often after themselves or a song.", "answer": "What is a 'dance craze' (named dance move)?" },
+        { "value": 300, "question": "This suggestive dance style, involving close body contact and grinding, became controversial but popular in 90s dancehall culture.", "answer": "What is 'wining' (or daggering, though daggering rose more prominently in the 2000s)?" },
+        { "value": 400, "question": "This term describes the informal outdoor party setting, common in Jamaica, where sound systems and dancers gathered.", "answer": "What is a 'dance' or 'session'?" },
+        { "value": 500, "question": "This crew, associated with dancer Bogle himself, is credited with popularizing many of the era's biggest dance movements.", "answer": "What is the Black Roses Crew?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "90s Dancehall Legacy",
+    "question": "This artist's 1997 hit 'Turn Me On,' though a Kevin Lyttle song from the 2000s, draws heavily on the dancehall-soca fusion pioneered by 90s Caribbean artists blending genres.",
+    "answer": "What is dancehall-soca fusion (genre-blending pioneered in the 90s)?"
+  }
+}

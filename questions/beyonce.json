@@ -1,0 +1,71 @@
+{
+  "packName": "Beyoncé",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Destiny's Child Days",
+      "questions": [
+        { "value": 100, "question": "Beyoncé rose to fame as the lead singer of this girl group.", "answer": "What is Destiny's Child?" },
+        { "value": 200, "question": "Beyoncé was born and raised in this Texas city.", "answer": "What is Houston?" },
+        { "value": 300, "question": "This 1999 Destiny's Child hit, urging financial independence, became one of their signature anthems.", "answer": "What is 'Bills, Bills, Bills'?" },
+        { "value": 400, "question": "This Destiny's Child hit, urging a partner to physically state his commitment, became a massive 2001 chart-topper.", "answer": "What is 'Say My Name'?" },
+        { "value": 500, "question": "Destiny's Child officially disbanded (for the first time) in this year, after the album 'Destiny Fulfilled.'", "answer": "What is 2005 (or 2006, following their farewell tour)?" }
+      ]
+    },
+    {
+      "name": "Solo Breakthrough",
+      "questions": [
+        { "value": 100, "question": "Beyoncé's debut solo album, released in 2003, is titled this.", "answer": "What is 'Dangerously in Love'?" },
+        { "value": 200, "question": "This hit single from 'Dangerously in Love,' featuring Jay-Z, became her signature breakout solo hit.", "answer": "What is 'Crazy in Love'?" },
+        { "value": 300, "question": "Beyoncé's 2006 album, her second, is titled this.", "answer": "What is 'B'Day'?" },
+        { "value": 400, "question": "This 2008 Beyoncé hit, featuring an iconic hand-choreography music video, became a cultural phenomenon.", "answer": "What is 'Single Ladies (Put a Ring on It)'?" },
+        { "value": 500, "question": "This 2008 double album introduced Beyoncé's more assertive alter ego persona, Sasha Fierce.", "answer": "What is 'I Am... Sasha Fierce'?" }
+      ]
+    },
+    {
+      "name": "Surprise Albums & Visual Art",
+      "questions": [
+        { "value": 100, "question": "In 2013, Beyoncé shocked the industry by releasing this self-titled album with no advance promotion.", "answer": "What is 'Beyoncé'?" },
+        { "value": 200, "question": "Beyoncé's 2016 album, addressing themes of infidelity and Black womanhood, is titled this.", "answer": "What is 'Lemonade'?" },
+        { "value": 300, "question": "'Lemonade' was released alongside this full-length visual accompaniment, first aired on HBO.", "answer": "What is the 'Lemonade' visual album/film?" },
+        { "value": 400, "question": "This 2022 Beyoncé album, focused on dance and house music, was the first in a planned trilogy.", "answer": "What is 'Renaissance'?" },
+        { "value": 500, "question": "This 2024 Beyoncé album, exploring country music, made her the first Black woman to top the Billboard Country Albums chart.", "answer": "What is 'Cowboy Carter'?" }
+      ]
+    },
+    {
+      "name": "Awards & Records",
+      "questions": [
+        { "value": 100, "question": "As of the mid-2020s, Beyoncé holds the record for most Grammy wins of any artist in history.", "answer": "What is 32 Grammys?" },
+        { "value": 200, "question": "Beyoncé's 2023 win for Best Dance/Electronic Album, for 'Renaissance,' broke this specific longstanding Grammy record.", "answer": "What is the record for most Grammy wins overall (surpassing Georg Solti)?" },
+        { "value": 300, "question": "Beyoncé won her first career Grammy for Album of the Year nomination loss controversy in this year, for 'Lemonade' losing to Adele's '25.'", "answer": "What is 2017?" },
+        { "value": 400, "question": "In 2025, Beyoncé finally won this top Grammy category for the first time, for 'Cowboy Carter.'", "answer": "What is Album of the Year?" },
+        { "value": 500, "question": "Beyoncé has been nominated for the Rock and Roll Hall of Fame and is broadly recognized as one of this era's best-selling music artists of all time.", "answer": "What is the 21st century (2000s)?" }
+      ]
+    },
+    {
+      "name": "Beyoncé the Business Mogul",
+      "questions": [
+        { "value": 100, "question": "Beyoncé's entertainment and management company is called this.", "answer": "What is Parkwood Entertainment?" },
+        { "value": 200, "question": "This activewear brand, co-founded by Beyoncé with Adidas, launched in 2019.", "answer": "What is Ivy Park?" },
+        { "value": 300, "question": "Beyoncé and her husband, Jay-Z, are married and share this many children together.", "answer": "What is three (Blue Ivy, and twins Rumi and Sir)?" },
+        { "value": 400, "question": "Beyoncé's mother, a designer and businesswoman, is named this.", "answer": "Who is Tina Knowles?" },
+        { "value": 500, "question": "Beyoncé's father managed Destiny's Child in its early years; his name is this.", "answer": "Who is Mathew Knowles?" }
+      ]
+    },
+    {
+      "name": "Iconic Performances",
+      "questions": [
+        { "value": 100, "question": "Beyoncé headlined this major halftime show in 2013, performing with a reunited Destiny's Child.", "answer": "What is the Super Bowl Halftime Show?" },
+        { "value": 200, "question": "In 2018, Beyoncé became the first Black woman to headline this major California music festival.", "answer": "What is Coachella?" },
+        { "value": 300, "question": "Beyoncé's 2018 Coachella performance was later released as this documentary/concert film on Netflix.", "answer": "What is 'Homecoming'?" },
+        { "value": 400, "question": "Beyoncé's 2023 world tour, supporting her 'Renaissance' album, became one of the highest-grossing tours ever.", "answer": "What is the Renaissance World Tour?" },
+        { "value": 500, "question": "Beyoncé voiced this lioness character in Disney's 2019 remake of 'The Lion King.'", "answer": "Who is Nala?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Beyoncé's Legacy",
+    "question": "This term, coined to describe Beyoncé's intensely devoted fanbase, has become one of the most recognized fan community names in pop culture.",
+    "answer": "What is the 'Beyhive'?"
+  }
+}
