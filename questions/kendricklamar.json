@@ -1,0 +1,71 @@
+{
+  "packName": "Kendrick Lamar",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "Compton Roots",
+      "questions": [
+        { "value": 100, "question": "Kendrick Lamar was born and raised in this California city, frequently referenced throughout his music.", "answer": "What is Compton?" },
+        { "value": 200, "question": "Kendrick's early stage name, used before adopting his own name for releases, was this.", "answer": "What is K-Dot?" },
+        { "value": 300, "question": "This independent label, founded by Anthony 'Top Dawg' Tiffith, signed Kendrick early in his career.", "answer": "What is Top Dawg Entertainment (TDE)?" },
+        { "value": 400, "question": "This rapper, a fellow Compton native and mentor figure, endorsed Kendrick early and later collaborated with him extensively.", "answer": "Who is Dr. Dre?" },
+        { "value": 500, "question": "Kendrick's mixtape 'Section.80,' released in 2011, served as a precursor to his major label debut.", "answer": "What is 'Section.80'?" }
+      ]
+    },
+    {
+      "name": "good kid, m.A.A.d city",
+      "questions": [
+        { "value": 100, "question": "Kendrick's major label debut, released in 2012, is titled this.", "answer": "What is 'good kid, m.A.A.d city'?" },
+        { "value": 200, "question": "This subtitle, appearing alongside the album's title, describes it as this type of narrative.", "answer": "What is 'A Short Film by Kendrick Lamar' (a short film/concept album)?" },
+        { "value": 300, "question": "This hit single from the album, featuring a beat switch mid-song, became one of Kendrick's signature tracks.", "answer": "What is 'Swimming Pools (Drank)'?" },
+        { "value": 400, "question": "This posse-cut single, featuring Schoolboy Q, Jay Rock, and Ab-Soul, showcased the TDE roster together.", "answer": "What is 'Backseat Freestyle'? (accept 'The Recipe' as an alternate Dre-featured single)" },
+        { "value": 500, "question": "The album's narrative follows Kendrick's teenage experiences growing up in this specific environment.", "answer": "What is Compton (gang culture and street life)?" }
+      ]
+    },
+    {
+      "name": "To Pimp a Butterfly",
+      "questions": [
+        { "value": 100, "question": "Kendrick's 2015 album, blending jazz, funk, and spoken word, is titled this.", "answer": "What is 'To Pimp a Butterfly'?" },
+        { "value": 200, "question": "This single from the album became an anthem for the Black Lives Matter movement.", "answer": "What is 'Alright'?" },
+        { "value": 300, "question": "This bassist and jazz musician, also a solo artist, contributed heavily to the album's live instrumentation.", "answer": "Who is Thundercat?" },
+        { "value": 400, "question": "This recurring poem, read in segments throughout the album, builds toward an imagined conversation with Tupac Shakur.", "answer": "What is the 'Mortal Man' poem?" },
+        { "value": 500, "question": "'To Pimp a Butterfly' won this major Grammy category, though it lost the top Album of the Year award to Taylor Swift's '1989.'", "answer": "What is Best Rap Album?" }
+      ]
+    },
+    {
+      "name": "DAMN. and the Pulitzer",
+      "questions": [
+        { "value": 100, "question": "Kendrick's 2017 album, all song titles in capital letters ending with periods, is titled this.", "answer": "What is 'DAMN.'?" },
+        { "value": 200, "question": "In 2018, Kendrick became the first non-classical, non-jazz artist to win this prestigious award for 'DAMN.'", "answer": "What is the Pulitzer Prize for Music?" },
+        { "value": 300, "question": "This hit single from 'DAMN.,' featuring Rihanna, became one of Kendrick's biggest commercial successes.", "answer": "What is 'LOYALTY.'?" },
+        { "value": 400, "question": "This lead single from 'DAMN.' won a Grammy for Best Rap Performance and Best Music Video.", "answer": "What is 'HUMBLE.'?" },
+        { "value": 500, "question": "'DAMN.' won Kendrick this top Grammy category for the first time in his career, though it wasn't Album of the Year.", "answer": "What is Best Rap Album?" }
+      ]
+    },
+    {
+      "name": "Beefs & Rivalries",
+      "questions": [
+        { "value": 100, "question": "Kendrick's high-profile 2024 feud was primarily with this Canadian rapper.", "answer": "Who is Drake?" },
+        { "value": 200, "question": "This scathing 2024 Kendrick diss track against Drake became a cultural phenomenon and radio staple.", "answer": "What is 'Not Like Us'?" },
+        { "value": 300, "question": "'Not Like Us' won this many Grammy Awards at the 2025 ceremony, including Song and Record of the Year.", "answer": "What is five?" },
+        { "value": 400, "question": "Kendrick performed 'Not Like Us' during this major 2025 televised event, cementing the song's cultural dominance.", "answer": "What is the Super Bowl Halftime Show?" },
+        { "value": 500, "question": "This earlier Kendrick verse, on Big Sean's 'Control,' famously called out numerous rappers by name and sparked a broader hip-hop conversation about lyrical supremacy.", "answer": "What is his 'Control' verse?" }
+      ]
+    },
+    {
+      "name": "Later Career",
+      "questions": [
+        { "value": 100, "question": "This 2022 Kendrick album, exploring therapy and generational trauma, was his first as an independent artist under his own label.", "answer": "What is 'Mr. Morale & the Big Steppers'?" },
+        { "value": 200, "question": "This label/creative company, founded by Kendrick, released his post-TDE music starting with 'Mr. Morale.'", "answer": "What is pgLang?" },
+        { "value": 300, "question": "This 2024 Kendrick album, released as a surprise, followed his feud with Drake and included 'Not Like Us.'", "answer": "What is 'GNX'?" },
+        { "value": 400, "question": "Kendrick headlined this major halftime show in February 2025, becoming the first solo rap headliner in the show's history.", "answer": "What is the Super Bowl LIX Halftime Show?" },
+        { "value": 500, "question": "As of the mid-2020s, Kendrick has won this many career Grammy Awards, among the most of any rapper.", "answer": "What is over 15 (approximately 22 as of 2025)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Kendrick's Wordplay",
+    "question": "This 2015 Kendrick single, whose title is also a common Black American greeting, became one of the most recognizable protest anthems of the decade.",
+    "answer": "What is 'Alright'?"
+  }
+}

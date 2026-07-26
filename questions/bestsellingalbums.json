@@ -1,0 +1,71 @@
+{
+  "packName": "Best Selling Albums",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "All-Time Best Sellers",
+      "questions": [
+        { "value": 100, "question": "This Michael Jackson album remains the best-selling album of all time worldwide.", "answer": "What is 'Thriller'?" },
+        { "value": 200, "question": "This AC/DC album is frequently cited as one of the best-selling rock albums in history.", "answer": "What is 'Back in Black'?" },
+        { "value": 300, "question": "This Eagles compilation, 'Their Greatest Hits (1971–1975),' competes with 'Thriller' for the title of best-selling album in the U.S. specifically.", "answer": "What is 'Their Greatest Hits (1971–1975)'?" },
+        { "value": 400, "question": "This Pink Floyd album, exploring themes of mental health and mortality, remains one of the best-selling albums ever, spending over 900 weeks on the Billboard 200.", "answer": "What is 'The Dark Side of the Moon'?" },
+        { "value": 500, "question": "This Whitney Houston and 'The Bodyguard' soundtrack became one of the best-selling soundtrack albums of all time.", "answer": "What is 'The Bodyguard' soundtrack?" }
+      ]
+    },
+    {
+      "name": "Best-Selling Hip-Hop Albums",
+      "questions": [
+        { "value": 100, "question": "This Eminem album, released in 2000, is one of the best-selling hip-hop albums of all time.", "answer": "What is 'The Marshall Mathers LP'?" },
+        { "value": 200, "question": "This debut album by MC Hammer, featuring 'U Can't Touch This,' became one of the best-selling hip-hop albums of the early 90s.", "answer": "What is 'Please Hammer, Don't Hurt 'Em'?" },
+        { "value": 300, "question": "This Notorious B.I.G. album, released posthumously, remains one of the best-selling hip-hop double albums ever.", "answer": "What is 'Life After Death'?" },
+        { "value": 400, "question": "This OutKast double album, featuring 'Hey Ya!,' became a massive crossover hit and one of the best-selling hip-hop albums of the 2000s.", "answer": "What is 'Speakerboxxx/The Love Below'?" },
+        { "value": 500, "question": "This Tupac Shakur double album, released shortly before his death, remains one of the best-selling rap albums in history.", "answer": "What is 'All Eyez on Me'?" }
+      ]
+    },
+    {
+      "name": "Best-Selling Pop & R&B Albums",
+      "questions": [
+        { "value": 100, "question": "This Adele album, '21,' remains one of the best-selling albums of the 21st century.", "answer": "What is '21'?" },
+        { "value": 200, "question": "This Mariah Carey album, released in 1993, remains one of her best-selling and includes 'Dreamlover' and 'Hero.'", "answer": "What is 'Music Box'?" },
+        { "value": 300, "question": "This Shania Twain album, 'Come On Over,' is the best-selling studio album by a woman in music history.", "answer": "What is 'Come On Over'?" },
+        { "value": 400, "question": "This Alanis Morissette album, 'Jagged Little Pill,' became one of the best-selling albums by a woman in the 1990s.", "answer": "What is 'Jagged Little Pill'?" },
+        { "value": 500, "question": "This Celine Dion album, featuring 'My Heart Will Go On,' became one of the best-selling albums of the late 1990s.", "answer": "What is 'Let's Talk About Love'?" }
+      ]
+    },
+    {
+      "name": "Best-Selling Debut Albums",
+      "questions": [
+        { "value": 100, "question": "This Snoop Dogg debut, 'Doggystyle,' became one of the best-selling debut albums in hip-hop history.", "answer": "What is 'Doggystyle'?" },
+        { "value": 200, "question": "This Boston debut album, featuring 'More Than a Feeling,' remains one of the best-selling debut albums in rock history.", "answer": "What is 'Boston'?" },
+        { "value": 300, "question": "This Alicia Keys debut album, 'Songs in A Minor,' won multiple Grammys and sold millions worldwide.", "answer": "What is 'Songs in A Minor'?" },
+        { "value": 400, "question": "This Britney Spears debut album, featuring the title track, became one of the best-selling debut albums by a teenage artist.", "answer": "What is '...Baby One More Time'?" },
+        { "value": 500, "question": "This Guns N' Roses debut, 'Appetite for Destruction,' remains the best-selling debut album in U.S. history.", "answer": "What is 'Appetite for Destruction'?" }
+      ]
+    },
+    {
+      "name": "Streaming-Era Sales",
+      "questions": [
+        { "value": 100, "question": "This Adele album, '25,' had the biggest opening sales week in Nielsen SoundScan history at the time of release.", "answer": "What is '25'?" },
+        { "value": 200, "question": "This Taylor Swift album, released in 2022, broke first-week vinyl sales records in the modern streaming era.", "answer": "What is 'Midnights'?" },
+        { "value": 300, "question": "This term describes how modern chart calculations now combine traditional sales with streaming equivalent units.", "answer": "What are 'album-equivalent units'?" },
+        { "value": 400, "question": "This Taylor Swift album became the best-selling album of 2023 in the United States.", "answer": "What is 'Midnights'? (accept '1989 (Taylor's Version)' depending on exact year cited)" },
+        { "value": 500, "question": "This artist's 'The Tortured Poets Department' broke first-week streaming records upon its 2024 release.", "answer": "Who is Taylor Swift?" }
+      ]
+    },
+    {
+      "name": "Legendary Sales Milestones",
+      "questions": [
+        { "value": 100, "question": "This certification level, awarded by the RIAA, requires an album to sell 10 million copies in the U.S.", "answer": "What is Diamond certification?" },
+        { "value": 200, "question": "This organization, the Recording Industry Association of America, is responsible for certifying gold, platinum, and diamond albums.", "answer": "What is the RIAA?" },
+        { "value": 300, "question": "This many copies must be sold or streamed (in equivalent units) for an album to achieve Platinum certification in the U.S.", "answer": "What is one million?" },
+        { "value": 400, "question": "This Garth Brooks album, 'Double Live,' is among the best-selling live albums of all time.", "answer": "What is 'Double Live'?" },
+        { "value": 500, "question": "This Fleetwood Mac album, 'Rumours,' chronicling the band's internal relationship struggles, remains one of the best-selling albums of all time.", "answer": "What is 'Rumours'?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Diamond Certified",
+    "question": "This Shania Twain album became the best-selling studio album by a female artist in any genre and is certified Diamond multiple times over by the RIAA.",
+    "answer": "What is 'Come On Over'?"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "packName": "Grammy's",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Grammy Basics",
+      "questions": [
+        { "value": 100, "question": "The Grammy Awards are presented annually by this organization.", "answer": "What is the Recording Academy?" },
+        { "value": 200, "question": "The Grammy trophy itself is shaped like this classic piece of audio equipment.", "answer": "What is a gramophone?" },
+        { "value": 300, "question": "This category is generally considered the night's biggest and most prestigious award.", "answer": "What is Album of the Year?" },
+        { "value": 400, "question": "The first Grammy Awards ceremony was held in this year.", "answer": "What is 1959?" },
+        { "value": 500, "question": "The 'Big Four' Grammy categories are Album, Record, and Song of the Year, plus this fourth category.", "answer": "What is Best New Artist?" }
+      ]
+    },
+    {
+      "name": "Grammy Record Holders",
+      "questions": [
+        { "value": 100, "question": "This artist holds the record for most Grammy wins of any artist, with 32 as of the mid-2020s.", "answer": "Who is Beyoncé?" },
+        { "value": 200, "question": "This classical conductor previously held the all-time Grammy wins record before Beyoncé surpassed him.", "answer": "Who is Sir Georg Solti?" },
+        { "value": 300, "question": "This rapper holds the record for most Grammy wins by a male rap artist.", "answer": "Who is Kanye West? (accept Jay-Z as another top rap winner)" },
+        { "value": 400, "question": "This artist holds the record for most Grammy nominations in a single year without a Big Four category win for that year, for 'Lemonade.'", "answer": "Who is Beyoncé?" },
+        { "value": 500, "question": "This artist won all four 'Big Four' Grammy categories in a single year for her album '25,' a rare feat.", "answer": "Who is Adele?" }
+      ]
+    },
+    {
+      "name": "Album of the Year Winners",
+      "questions": [
+        { "value": 100, "question": "This Beyoncé album won Album of the Year in 2025, her first win in the category after years of nominations.", "answer": "What is 'Cowboy Carter'?" },
+        { "value": 200, "question": "This Billie Eilish debut album won Album of the Year in 2020, alongside three other major awards for the young artist.", "answer": "What is 'When We All Fall Asleep, Where Do We Go?'?" },
+        { "value": 300, "question": "This Taylor Swift album controversially won Album of the Year over Kendrick Lamar's 'To Pimp a Butterfly' in 2016.", "answer": "What is '1989'?" },
+        { "value": 400, "question": "This Adele album won Album of the Year in 2017, notably beating Beyoncé's 'Lemonade.'", "answer": "What is '25'?" },
+        { "value": 500, "question": "This Harry Styles album won Album of the Year in 2023.", "answer": "What is 'Harry's House'?" }
+      ]
+    },
+    {
+      "name": "Grammy Controversies",
+      "questions": [
+        { "value": 100, "question": "This genre of music has historically been criticized for being under-recognized in the Grammys' top categories relative to its commercial dominance.", "answer": "What is hip-hop/rap?" },
+        { "value": 200, "question": "This artist walked out of the 1989 Grammys ceremony in protest over rap categories not being televised.", "answer": "Who is will.i.am (accept various artists who protested the same year)?" },
+        { "value": 300, "question": "This organization has faced repeated criticism over allegations of vote-rigging and lack of transparency in its nomination process.", "answer": "What is the Recording Academy?" },
+        { "value": 400, "question": "This artist's 2016 Grammy loss for 'Lemonade' to Adele's '25' sparked widespread public debate about the Academy's treatment of Black artists.", "answer": "Who is Beyoncé?" },
+        { "value": 500, "question": "This term describes an unofficial Grammy tradition where legendary artists win top awards seemingly to make up for a lack of earlier recognition.", "answer": "What is a 'makeup win' (or 'career achievement win')?" }
+      ]
+    },
+    {
+      "name": "Best New Artist",
+      "questions": [
+        { "value": 100, "question": "This young singer-songwriter won Best New Artist in 2020 following the massive success of 'Ocean Eyes' and 'Bad Guy.'", "answer": "Who is Billie Eilish?" },
+        { "value": 200, "question": "This artist infamously won Best New Artist in 1990 before it was revealed they did not sing on their own records, leading to the award being revoked.", "answer": "Who is Milli Vanilli?" },
+        { "value": 300, "question": "This artist's Best New Artist win in 2023 came after the massive success of her song 'Break My Soul'-era peers... this artist actually won for a breakout Latin trap/pop sound.", "answer": "Who is Samara Joy? (2023 Best New Artist winner)" },
+        { "value": 400, "question": "This British singer won Best New Artist in 2009 following the success of her debut album '19.'", "answer": "Who is Adele?" },
+        { "value": 500, "question": "This Compton rapper never won Best New Artist despite his major 2012 debut, a frequently cited Grammy oversight.", "answer": "Who is Kendrick Lamar?" }
+      ]
+    },
+    {
+      "name": "Iconic Grammy Moments",
+      "questions": [
+        { "value": 100, "question": "This rapper interrupted Taylor Swift's acceptance speech at the 2009 MTV VMAs — a moment often confused with the Grammys, but reflecting broader award-show controversy culture.", "answer": "Who is Kanye West? (VMA incident, commonly referenced alongside award-show moments)" },
+        { "value": 200, "question": "This 1998 Grammy performance famously paired Bob Dylan with a stage-crashing performer wearing 'Soy Bomb' body paint.", "answer": "What is the 'Soy Bomb' incident?" },
+        { "value": 300, "question": "This artist's 2017 Grammy performance tribute to Prince, who had died the previous year, was widely praised.", "answer": "Who is Bruno Mars?" },
+        { "value": 400, "question": "This artist made history in 2023 by winning Best Dance/Electronic Album for 'Renaissance,' becoming the most-awarded Grammy artist ever in the process.", "answer": "Who is Beyoncé?" },
+        { "value": 500, "question": "This rapper's 2025 Grammy sweep for 'Not Like Us' included wins for Record and Song of the Year, both tied to his feud with Drake.", "answer": "Who is Kendrick Lamar?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Grammy History",
+    "question": "This category, first introduced at the Grammys in 1989, recognizes the best performance in hip-hop music, though it was initially not televised, sparking protest.",
+    "answer": "What is Best Rap Performance?"
+  }
+}

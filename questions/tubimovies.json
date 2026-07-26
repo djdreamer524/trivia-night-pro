@@ -1,0 +1,71 @@
+{
+  "packName": "Tubi Movies",
+  "theme": "dark",
+  "categories": [
+    {
+      "name": "About Tubi",
+      "questions": [
+        { "value": 100, "question": "Tubi is a free, ad-supported streaming service commonly known by this acronym-style abbreviation, describing its business model.", "answer": "What is AVOD (ad-supported video on demand)?" },
+        { "value": 200, "question": "This major media company, known for its broadcast network and film studio, acquired Tubi in 2020.", "answer": "What is Fox Corporation?" },
+        { "value": 300, "question": "Unlike subscription services like Netflix, Tubi's content is free to watch because it's supported by this.", "answer": "What are advertisements?" },
+        { "value": 400, "question": "Tubi's programming leans heavily on this category of low-budget, often campy genre films alongside licensed studio movies.", "answer": "What are B-movies (independent/genre films)?" },
+        { "value": 500, "question": "Tubi has aired original marketing stunts, including a widely discussed 2023 Super Bowl ad campaign built around this theme.", "answer": "What is a mock 'confusing app takeover' commercial (a viral ad depicting a grandma seemingly hijacking the broadcast)?" }
+      ]
+    },
+    {
+      "name": "Tubi's B-Movie Reputation",
+      "questions": [
+        { "value": 100, "question": "This term describes low-budget genre films, often horror or action, that make up a large chunk of Tubi's catalog and have gained a cult following online.", "answer": "What are 'so bad it's good' movies?" },
+        { "value": 200, "question": "This subgenre of shark-themed disaster films, epitomized by 'Sharknado,' is a Tubi staple.", "answer": "What are shark disaster movies?" },
+        { "value": 300, "question": "This studio, known for producing low-budget creature-feature films like 'Mega Shark vs. Giant Octopus,' has much of its catalog available on Tubi.", "answer": "What is The Asylum?" },
+        { "value": 400, "question": "This term describes films made to closely mimic major studio blockbusters, often released around the same time, common on platforms like Tubi.", "answer": "What are 'mockbusters'?" },
+        { "value": 500, "question": "Tubi has embraced its reputation for lower-budget content in its own marketing, using self-deprecating humor about this quality of much of its library.", "answer": "What is the 'campy/low-quality' reputation?" }
+      ]
+    },
+    {
+      "name": "Genres on Tubi",
+      "questions": [
+        { "value": 100, "question": "This genre, featuring supernatural scares and low-budget frights, is one of Tubi's most heavily represented categories.", "answer": "What is horror?" },
+        { "value": 200, "question": "This genre, focused on romantic relationships and often airing on channels like Hallmark, is well represented in Tubi's licensed library.", "answer": "What is romance (romantic drama)?" },
+        { "value": 300, "question": "This genre, focused on real criminal cases and investigations, has grown increasingly popular across Tubi's documentary offerings.", "answer": "What is true crime?" },
+        { "value": 400, "question": "This genre of older films, often decades-old classics no longer in heavy studio rotation elsewhere, is a major draw for Tubi's older-content library.", "answer": "What are classic films?" },
+        { "value": 500, "question": "This genre of faith-based films, appealing to Christian audiences, has a dedicated content hub on the Tubi platform.", "answer": "What is faith and family content?" }
+      ]
+    },
+    {
+      "name": "Streaming Wars Context",
+      "questions": [
+        { "value": 100, "question": "Tubi competes in this broader category of free ad-supported streaming, alongside services like Pluto TV and The Roku Channel.", "answer": "What is FAST (Free Ad-Supported Television)?" },
+        { "value": 200, "question": "This company, which owns and operates streaming hardware and its own channel, is one of Tubi's biggest direct competitors in the free-streaming space.", "answer": "What is Roku (The Roku Channel)?" },
+        { "value": 300, "question": "This Paramount-owned free streaming competitor to Tubi features live channels themed around specific shows and genres.", "answer": "What is Pluto TV?" },
+        { "value": 400, "question": "Unlike premium platforms like this one, Tubi does not require a paid subscription to access its full library.", "answer": "What is Netflix (or any subscription-based service)?" },
+        { "value": 500, "question": "Tubi has aired live sports content, including this major annual college football or similar live event, to boost its live programming appeal.", "answer": "What is a college football bowl game (Tubi has streamed select live sports)?" }
+      ]
+    },
+    {
+      "name": "Tubi Culture & Memes",
+      "questions": [
+        { "value": 100, "question": "This term describes internet jokes mocking Tubi's often low-budget, oddly-titled movie selection.", "answer": "What are 'Tubi memes'?" },
+        { "value": 200, "question": "Tubi's social media presence is known for embracing self-aware, humorous marketing about this aspect of its content.", "answer": "What is the quality/campiness of its films?" },
+        { "value": 300, "question": "This term describes a late-night viewing habit of scrolling through Tubi's endless, sometimes bizarre catalog without a specific movie in mind.", "answer": "What is 'Tubi diving' (or 'doom-scrolling Tubi')?" },
+        { "value": 400, "question": "Tubi has run playful ad campaigns during major live TV events, including this major annual American football championship.", "answer": "What is the Super Bowl?" },
+        { "value": 500, "question": "This viral 2023 Tubi ad depicted a grandmother appearing to 'hijack' the broadcast signal during a major live sporting event.", "answer": "What is the Tubi Super Bowl 'hijack' commercial?" }
+      ]
+    },
+    {
+      "name": "Free Streaming Growth",
+      "questions": [
+        { "value": 100, "question": "As of the mid-2020s, Tubi has grown to reach tens of millions of this type of regular user each month.", "answer": "What are monthly active users?" },
+        { "value": 200, "question": "Tubi has increasingly invested in this type of content, produced specifically for the platform rather than licensed from elsewhere.", "answer": "What is original content (Tubi Originals)?" },
+        { "value": 300, "question": "Tubi's growth has been especially strong among younger audiences increasingly moving away from this traditional paid model.", "answer": "What is cable television (or paid subscriptions)?" },
+        { "value": 400, "question": "This term describes Tubi's strategy of offering an enormous, ever-expanding back-catalog of licensed films at no cost to attract casual viewers.", "answer": "What is a 'long-tail content' strategy?" },
+        { "value": 500, "question": "Fox Corporation's acquisition of Tubi in 2020 was valued at approximately this amount.", "answer": "What is $440 million?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Tubi's Rise",
+    "question": "Tubi was originally founded in this year, years before its eventual acquisition by Fox Corporation.",
+    "answer": "What is 2014?"
+  }
+}

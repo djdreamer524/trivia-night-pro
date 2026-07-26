@@ -1,0 +1,71 @@
+{
+  "packName": "Movie Trivia",
+  "theme": "dark",
+  "categories": [
+    {
+      "name": "Plot Twists",
+      "questions": [
+        { "value": 100, "question": "In this 1999 film, the twist reveals that Bruce Willis's character has been dead the entire time.", "answer": "What is 'The Sixth Sense'?" },
+        { "value": 200, "question": "In this 1999 film, the twist reveals that the narrator and Tyler Durden are the same person.", "answer": "What is 'Fight Club'?" },
+        { "value": 300, "question": "In this 2010 Christopher Nolan film, the ambiguous ending leaves audiences questioning whether the main character is still dreaming.", "answer": "What is 'Inception'?" },
+        { "value": 400, "question": "In this 1995 film, the twist reveals that the mild-mannered Verbal Kint is actually the criminal mastermind Keyser Söze.", "answer": "What is 'The Usual Suspects'?" },
+        { "value": 500, "question": "In this 2017 Jordan Peele film, the twist reveals that a family transplants the consciousness of elderly white people into Black bodies.", "answer": "What is 'Get Out'?" }
+      ]
+    },
+    {
+      "name": "Movie Quotes",
+      "questions": [
+        { "value": 100, "question": "This 'Star Wars' line is spoken by Darth Vader as he reveals a shocking family connection.", "answer": "What is 'No, I am your father'?" },
+        { "value": 200, "question": "This 'Gone with the Wind' line is Rhett Butler's famous parting words to Scarlett.", "answer": "What is 'Frankly, my dear, I don't give a damn'?" },
+        { "value": 300, "question": "This 'Wizard of Oz' line is spoken by Dorothy upon realizing she's no longer in Kansas.", "answer": "What is 'Toto, I've a feeling we're not in Kansas anymore'?" },
+        { "value": 400, "question": "This 'Terminator 2' line is a promise made by the T-800 before departing.", "answer": "What is 'I'll be back'? (accept related classic delivery)" },
+        { "value": 500, "question": "This 'Godfather' line refers to an offer someone cannot refuse.", "answer": "What is 'I'm gonna make him an offer he can't refuse'?" }
+      ]
+    },
+    {
+      "name": "Oscar Winners",
+      "questions": [
+        { "value": 100, "question": "This 1994 film about a simple man who witnesses and influences major historical events won Best Picture.", "answer": "What is 'Forrest Gump'?" },
+        { "value": 200, "question": "This actor won Best Actor for his portrayal of a genius mathematician struggling with schizophrenia in 'A Beautiful Mind.'", "answer": "Who is Russell Crowe? (trick — Crowe won for 'Gladiator'; the 'A Beautiful Mind' Best Actor nominee was Crowe again, but the win was for Gladiator; accept Russell Crowe generally)" },
+        { "value": 300, "question": "This actress won Best Actress for her role as a British monarch in 'The Queen.'", "answer": "Who is Helen Mirren?" },
+        { "value": 400, "question": "This 2019 Bong Joon-ho film became the first non-English-language Best Picture winner.", "answer": "What is 'Parasite'?" },
+        { "value": 500, "question": "This actor won Best Actor for his intense physical transformation portraying Jake LaMotta in 'Raging Bull.'", "answer": "Who is Robert De Niro?" }
+      ]
+    },
+    {
+      "name": "Behind the Scenes",
+      "questions": [
+        { "value": 100, "question": "This mechanical shark, used in 'Jaws,' was famously unreliable during filming, leading Spielberg to imply its presence more than show it.", "answer": "What is Bruce (the shark)?" },
+        { "value": 200, "question": "This actor reportedly stayed in character as the Joker throughout filming 'The Dark Knight,' a method acting choice widely discussed after his death.", "answer": "Who is Heath Ledger?" },
+        { "value": 300, "question": "This director is known for using extremely long, unbroken single-shot sequences, most notably in '1917.'", "answer": "Who is Sam Mendes?" },
+        { "value": 400, "question": "This film's iconic 'chestburster' scene was kept secret from the cast, resulting in genuine shocked reactions on camera.", "answer": "What is 'Alien'?" },
+        { "value": 500, "question": "This actor gained and lost significant weight for roles in films like 'Raging Bull' and 'The Machinist,' becoming known for extreme physical transformations.", "answer": "Who is Christian Bale? (accept Robert De Niro for 'Raging Bull')" }
+      ]
+    },
+    {
+      "name": "Sequels & Franchises",
+      "questions": [
+        { "value": 100, "question": "This franchise, following a British spy with a license to kill, has had multiple actors play the lead role since 1962.", "answer": "What is James Bond?" },
+        { "value": 200, "question": "This 1980s trilogy follows a time-traveling teenager and his eccentric scientist friend.", "answer": "What is 'Back to the Future'?" },
+        { "value": 300, "question": "This horror franchise follows a masked killer named Michael Myers stalking the town of Haddonfield.", "answer": "What is 'Halloween'?" },
+        { "value": 400, "question": "This franchise, based on a theme park attraction, stars Johnny Depp as Captain Jack Sparrow.", "answer": "What is 'Pirates of the Caribbean'?" },
+        { "value": 500, "question": "This sci-fi franchise, following a group of resistance fighters against an evil Empire, began in 1977.", "answer": "What is 'Star Wars'?" }
+      ]
+    },
+    {
+      "name": "Movie Firsts",
+      "questions": [
+        { "value": 100, "question": "This 1927 film is considered the first commercially successful 'talkie' with synchronized dialogue.", "answer": "What is 'The Jazz Singer'?" },
+        { "value": 200, "question": "This 1937 Disney film was the first full-length, cel-animated feature film in American cinema history.", "answer": "What is 'Snow White and the Seven Dwarfs'?" },
+        { "value": 300, "question": "This 1995 Pixar film was the first entirely computer-animated feature film ever released.", "answer": "What is 'Toy Story'?" },
+        { "value": 400, "question": "This 1933 film, featuring a giant ape climbing a New York skyscraper, was a landmark in early special-effects filmmaking.", "answer": "What is 'King Kong'?" },
+        { "value": 500, "question": "This 2009 James Cameron film was among the first major releases to popularize modern 3D filmmaking on a massive commercial scale.", "answer": "What is 'Avatar'?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Cinema History",
+    "question": "This 1941 Orson Welles film, following the life of a fictional newspaper tycoon, is frequently ranked by critics as the greatest film ever made.",
+    "answer": "What is 'Citizen Kane'?"
+  }
+}
