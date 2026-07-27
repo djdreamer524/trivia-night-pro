@@ -1,0 +1,71 @@
+{
+  "packName": "Queens",
+  "theme": "graffiti",
+  "categories": [
+    {
+      "name": "Queens Basics",
+      "questions": [
+        { "value": 100, "question": "Queens is one of the five boroughs of this major U.S. city.", "answer": "What is New York City?" },
+        { "value": 200, "question": "Queens is coextensive with this New York State county of the same name.", "answer": "What is Queens County?" },
+        { "value": 300, "question": "This is the largest borough of New York City by land area.", "answer": "What is Queens?" },
+        { "value": 400, "question": "Queens is widely recognized as one of the most this type of place in the world, home to residents speaking over 130 languages.", "answer": "What is ethnically/linguistically diverse?" },
+        { "value": 500, "question": "Queens was named in honor of this English queen, wife of King Charles II, during colonial rule.", "answer": "Who is Catherine of Braganza?" }
+      ]
+    },
+    {
+      "name": "Queens Neighborhoods",
+      "questions": [
+        { "value": 100, "question": "This Queens neighborhood is home to one of the largest and most vibrant Chinatowns outside of Manhattan.", "answer": "What is Flushing?" },
+        { "value": 200, "question": "This Queens neighborhood, home to Shea Stadium's successor and the U.S. Open, is known for major sports venues.", "answer": "What is Flushing Meadows-Corona Park (or Corona)?" },
+        { "value": 300, "question": "This Queens neighborhood, once home to many jazz musicians, is nicknamed 'the world's largest outdoor jazz museum.'", "answer": "What is Addisleigh Park (St. Albans)? (accept Jamaica, Queens broadly)" },
+        { "value": 400, "question": "This Queens neighborhood was home to Louis Armstrong for nearly three decades, now preserved as a museum.", "answer": "What is Corona?" },
+        { "value": 500, "question": "This Queens neighborhood, adjacent to the East River, offers iconic skyline views of Manhattan and is a popular waterfront park destination.", "answer": "What is Long Island City?" }
+      ]
+    },
+    {
+      "name": "Queens-Born Icons",
+      "questions": [
+        { "value": 100, "question": "This former U.S. president, born in Queens, grew up in the Jamaica Estates neighborhood.", "answer": "Who is Donald Trump?" },
+        { "value": 200, "question": "This jazz legend, known for 'What a Wonderful World,' made his home in Corona, Queens for most of his life.", "answer": "Who is Louis Armstrong?" },
+        { "value": 300, "question": "This rapper, born and raised in the Queensbridge Houses, released the classic album 'Illmatic.'", "answer": "Who is Nas?" },
+        { "value": 400, "question": "This tennis legend, one of the greatest players in history, has the U.S. Open's stadium named after her, located in Queens.", "answer": "Who is Arthur Ashe? (the stadium is named for him, located at the USTA center in Queens) — accept Billie Jean King, for whom the broader tennis center is named" },
+        { "value": 500, "question": "This late 'Queen of Salsa,' one of the most celebrated Latin music performers of all time, called Queens home for much of her career.", "answer": "Who is Celia Cruz?" }
+      ]
+    },
+    {
+      "name": "Queens Landmarks",
+      "questions": [
+        { "value": 100, "question": "This major airport, one of the busiest in the U.S., is located in Queens.", "answer": "What is LaGuardia Airport (or JFK Airport)?" },
+        { "value": 200, "question": "This large park, home to two former World's Fairs, hosts the USTA Billie Jean King National Tennis Center.", "answer": "What is Flushing Meadows-Corona Park?" },
+        { "value": 300, "question": "This iconic steel globe sculpture, a remnant of the 1964 World's Fair, still stands in Flushing Meadows-Corona Park.", "answer": "What is the Unisphere?" },
+        { "value": 400, "question": "This Major League Baseball stadium, home of the New York Mets, is located in Flushing, Queens.", "answer": "What is Citi Field?" },
+        { "value": 500, "question": "This historic Queens studio complex, once a major film production hub, dates back to the silent film era and remains active today.", "answer": "What is Kaufman Astoria Studios?" }
+      ]
+    },
+    {
+      "name": "Queens Food & Culture",
+      "questions": [
+        { "value": 100, "question": "This Queens neighborhood is famous for its concentration of authentic South Asian and Indian restaurants and shops.", "answer": "What is Jackson Heights?" },
+        { "value": 200, "question": "This Queens neighborhood, home to a large Greek immigrant population, is famous for its Mediterranean restaurants and bakeries.", "answer": "What is Astoria?" },
+        { "value": 300, "question": "This Queens neighborhood is renowned for its authentic Colombian and broader Latin American food scene.", "answer": "What is Jackson Heights (or Corona)?" },
+        { "value": 400, "question": "This bustling food market and hall in Corona, Queens showcases dozens of Latin American vendors under one roof.", "answer": "What is the Lucky Cat/Corona Plaza food scene (or a named hall like 'Espada')? (accept general Corona food market references)" },
+        { "value": 500, "question": "This Queens neighborhood, part of the largest Chinatown outside Asia by some measures, is famous for authentic regional Chinese cuisine.", "answer": "What is Flushing?" }
+      ]
+    },
+    {
+      "name": "Queens in Music & Media",
+      "questions": [
+        { "value": 100, "question": "This Queensbridge housing project, the largest public housing development in North America, has produced numerous influential rappers.", "answer": "What is the Queensbridge Houses?" },
+        { "value": 200, "question": "This rap group, featuring Havoc and Prodigy, hails from the Queensbridge projects.", "answer": "Who is Mobb Deep?" },
+        { "value": 300, "question": "This 1990s sitcom, 'The King of Queens,' was set in and named after this borough.", "answer": "What is Queens?" },
+        { "value": 400, "question": "This animated sitcom, 'Family Guy,' is set in a fictional town but creator Seth MacFarlane has cited Queens-adjacent New England influences in its style — a trick reference, as it's actually set in Rhode Island.", "answer": "What is Quahog, Rhode Island (not Queens — a trick clue)?" },
+        { "value": 500, "question": "This legendary hip-hop group, N.O.R.E. and Capone, formed a duo from Queens in the 1990s.", "answer": "Who is Capone-N-Noreaga (CNN)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Queens World's Fairs",
+    "question": "Flushing Meadows-Corona Park hosted World's Fairs in both 1939 and this later year, leaving behind the iconic Unisphere sculpture.",
+    "answer": "What is 1964?"
+  }
+}

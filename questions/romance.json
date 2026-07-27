@@ -1,0 +1,71 @@
+{
+  "packName": "Romance",
+  "theme": "gold",
+  "categories": [
+    {
+      "name": "Romance Novels",
+      "questions": [
+        { "value": 100, "question": "This Jane Austen novel follows the relationship between Elizabeth Bennet and the proud Mr. Darcy.", "answer": "What is 'Pride and Prejudice'?" },
+        { "value": 200, "question": "This Nicholas Sparks novel, later adapted into a film, follows Noah and Allie's love story across decades.", "answer": "What is 'The Notebook'?" },
+        { "value": 300, "question": "This bestselling romance/fantasy series by Sarah J. Maas follows Feyre in a world of faerie courts.", "answer": "What is 'A Court of Thorns and Roses'?" },
+        { "value": 400, "question": "This viral 'BookTok' romance novel by Colleen Hoover deals with themes of domestic abuse and difficult love.", "answer": "What is 'It Ends with Us'?" },
+        { "value": 500, "question": "This term describes the genre-blending trend of romance combined with fantasy elements, hugely popular on BookTok.", "answer": "What is 'romantasy'?" }
+      ]
+    },
+    {
+      "name": "Romantic Comedies",
+      "questions": [
+        { "value": 100, "question": "This 1990 film starring Julia Roberts follows a sex worker who falls for a wealthy businessman.", "answer": "What is 'Pretty Woman'?" },
+        { "value": 200, "question": "This 2004 film, based on a Nicholas Sparks novel, stars Ryan Gosling and Rachel McAdams.", "answer": "What is 'The Notebook'?" },
+        { "value": 300, "question": "This 1998 film, starring Tom Hanks and Meg Ryan, follows two rival bookstore owners who fall in love over email.", "answer": "What is 'You've Got Mail'?" },
+        { "value": 400, "question": "This 2003 ensemble romantic comedy, set at Christmastime in London, follows multiple intertwining love stories.", "answer": "What is 'Love Actually'?" },
+        { "value": 500, "question": "This 1989 romantic comedy, starring Billy Crystal and Meg Ryan, famously debates whether men and women can just be friends.", "answer": "What is 'When Harry Met Sally...'?" }
+      ]
+    },
+    {
+      "name": "Real Love Stories",
+      "questions": [
+        { "value": 100, "question": "This British royal couple's 1981 wedding was watched by an estimated global audience of over 750 million people.", "answer": "Who are Prince Charles and Princess Diana?" },
+        { "value": 200, "question": "This American actress married Prince Harry in 2018, becoming the Duchess of Sussex.", "answer": "Who is Meghan Markle?" },
+        { "value": 300, "question": "This couple, Jay-Z and Beyoncé, married in a private 2008 ceremony after years of public speculation.", "answer": "Who are Jay-Z and Beyoncé?" },
+        { "value": 400, "question": "This former U.S. president met his wife, Michelle, while working at the same Chicago law firm.", "answer": "Who is Barack Obama?" },
+        { "value": 500, "question": "This late British Queen was married to Prince Philip for 73 years, the longest royal marriage in British history.", "answer": "Who is Queen Elizabeth II?" }
+      ]
+    },
+    {
+      "name": "Love Songs",
+      "questions": [
+        { "value": 100, "question": "This Whitney Houston ballad, covering a Dolly Parton original, became one of the best-selling love songs of all time.", "answer": "What is 'I Will Always Love You'?" },
+        { "value": 200, "question": "This Celine Dion power ballad, from the film 'Titanic,' became a defining love song of the late 1990s.", "answer": "What is 'My Heart Will Go On'?" },
+        { "value": 300, "question": "This Ed Sheeran song, often played at weddings, was released in 2017 and topped charts worldwide.", "answer": "What is 'Perfect'?" },
+        { "value": 400, "question": "This John Legend ballad, written for his wife Chrissy Teigen, became a massively popular wedding song.", "answer": "What is 'All of Me'?" },
+        { "value": 500, "question": "This Etta James classic, often covered at weddings, expresses newfound joy and devotion in love.", "answer": "What is 'At Last'?" }
+      ]
+    },
+    {
+      "name": "Reality Dating Shows",
+      "questions": [
+        { "value": 100, "question": "This long-running ABC dating show sends one lead on dates with multiple contestants seeking a proposal by the finale.", "answer": "What is 'The Bachelor'?" },
+        { "value": 200, "question": "This Netflix dating show has contestants get engaged sight unseen before ever meeting face to face.", "answer": "What is 'Love Is Blind'?" },
+        { "value": 300, "question": "This reality show strands singles on a tropical island where they can't collect prize money if they fall in love.", "answer": "What is 'Too Hot to Handle'?" },
+        { "value": 400, "question": "This long-running MTV dating show places a single 'picker' among a house of potential suitors.", "answer": "What is 'Next'? (accept other MTV dating shows)" },
+        { "value": 500, "question": "This dating show format, involving contestants who are strangers getting legally married the day they meet, became a hit for Lifetime and Netflix.", "answer": "What is 'Married at First Sight'?" }
+      ]
+    },
+    {
+      "name": "Valentine's Day & Romance Traditions",
+      "questions": [
+        { "value": 100, "question": "Valentine's Day is celebrated annually on this date.", "answer": "What is February 14th?" },
+        { "value": 200, "question": "This flower is the most traditional gift associated with romantic love and Valentine's Day specifically.", "answer": "What is a rose?" },
+        { "value": 300, "question": "This ancient Roman festival, celebrated in mid-February, is considered by some historians to be a precursor to modern Valentine's Day.", "answer": "What is Lupercalia?" },
+        { "value": 400, "question": "This sweet treat, often given as a gift on Valentine's Day, comes in heart-shaped boxes.", "answer": "What is chocolate?" },
+        { "value": 500, "question": "This Roman god of love and desire, often depicted with a bow and arrow, is the mythological namesake for the day's romantic symbolism.", "answer": "Who is Cupid?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Classic Love Stories",
+    "question": "This Shakespeare tragedy follows two young lovers from feuding families in Verona, whose story has become the archetype for star-crossed romance.",
+    "answer": "What is 'Romeo and Juliet'?"
+  }
+}

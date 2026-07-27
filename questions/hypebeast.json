@@ -1,0 +1,71 @@
+{
+  "packName": "HypeBeast",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Streetwear Culture",
+      "questions": [
+        { "value": 100, "question": "This term describes someone deeply invested in trendy, hype-driven streetwear and sneaker culture, often used both descriptively and as a light insult.", "answer": "What is a 'hypebeast'?" },
+        { "value": 200, "question": "This term describes limited-edition product releases designed to sell out quickly and generate resale demand.", "answer": "What is a 'drop'?" },
+        { "value": 300, "question": "This practice, buying limited items solely to resell at a higher price, is central to hype culture's economy.", "answer": "What is reselling?" },
+        { "value": 400, "question": "This term describes people who camp out or wait in long physical lines for a hyped product release.", "answer": "What is 'lining up' (or camping)?" },
+        { "value": 500, "question": "This term describes an item's cultural desirability and buzz, independent of its actual retail price.", "answer": "What is 'hype'?" }
+      ]
+    },
+    {
+      "name": "Streetwear Brands",
+      "questions": [
+        { "value": 100, "question": "This Japanese streetwear brand, known for its ape logo and camouflage patterns, was founded by Nigo in the 1990s.", "answer": "What is A Bathing Ape (BAPE)?" },
+        { "value": 200, "question": "This New York streetwear brand, famous for weekly limited drops and long lines, was founded by James Jebbia in 1994.", "answer": "What is Supreme?" },
+        { "value": 300, "question": "This brand, founded by the late Virgil Abloh, became one of the most influential luxury streetwear labels of the 2010s.", "answer": "What is Off-White?" },
+        { "value": 400, "question": "This Los Angeles-based streetwear brand, associated with skate culture, is known for its bold graphic box logo tees.", "answer": "What is Stüssy?" },
+        { "value": 500, "question": "This brand, founded by Kanye West in collaboration with Adidas, blends high fashion sensibilities with streetwear and sneaker culture.", "answer": "What is Yeezy?" }
+      ]
+    },
+    {
+      "name": "Legendary Collaborations",
+      "questions": [
+        { "value": 100, "question": "This 2017 collaboration between a luxury French fashion house and a streetwear skate brand shocked the fashion world by legitimizing streetwear at the highest level.", "answer": "What is Louis Vuitton x Supreme?" },
+        { "value": 200, "question": "This ongoing sneaker collaboration between Kanye West and a German sportswear brand produced some of the most hyped sneakers of the 2010s.", "answer": "What is Yeezy x Adidas?" },
+        { "value": 300, "question": "This musician's ongoing sneaker partnership with Nike has produced some of the most hyped and expensive resale sneakers in history.", "answer": "Who is Travis Scott?" },
+        { "value": 400, "question": "This brand collaboration format, where two labels merge branding and design on limited products, is a cornerstone of hype culture.", "answer": "What is a collab (collaboration)?" },
+        { "value": 500, "question": "This Japanese designer's collaborative work with Nike, particularly the Air Force 1 and Blazer lines, helped define early 2000s sneaker culture.", "answer": "Who is Hiroshi Fujiwara?" }
+      ]
+    },
+    {
+      "name": "Hype Media & Marketplaces",
+      "questions": [
+        { "value": 100, "question": "This Hong Kong-founded media platform, sharing its name with the trivia pack topic, covers streetwear, sneakers, and pop culture news.", "answer": "What is Hypebeast?" },
+        { "value": 200, "question": "This online marketplace, specializing in authenticated resale of sneakers and streetwear, became a major player in the secondary market.", "answer": "What is StockX?" },
+        { "value": 300, "question": "This app and marketplace, popular for buying and selling sneakers and streetwear, was founded in 2011 and rebranded from 'Sole Collector's' community roots... this platform is called this.", "answer": "What is GOAT?" },
+        { "value": 400, "question": "This social media platform has become central to hype culture, with brands using it to tease and announce upcoming drops.", "answer": "What is Instagram?" },
+        { "value": 500, "question": "This term describes automated software used by resellers to purchase large quantities of limited sneakers/streetwear the moment they drop online.", "answer": "What are 'bots' (or 'cook groups')?" }
+      ]
+    },
+    {
+      "name": "Celebrity Hype Figures",
+      "questions": [
+        { "value": 100, "question": "This rapper and Astroworld festival founder is closely associated with some of Nike's most hyped sneaker releases.", "answer": "Who is Travis Scott?" },
+        { "value": 200, "question": "This rapper, entrepreneur, and Yeezy founder redefined the relationship between hip-hop and high fashion streetwear.", "answer": "Who is Kanye West?" },
+        { "value": 300, "question": "This musician and actor, known for eclectic style and his brand Golf Wang, has become a streetwear cultural figure in his own right.", "answer": "Who is Tyler, the Creator?" },
+        { "value": 400, "question": "This basketball superstar's namesake sneaker line remains one of the most consistently hyped and collected in sneaker culture.", "answer": "Who is Michael Jordan?" },
+        { "value": 500, "question": "This late designer and DJ, founder of Off-White and former Louis Vuitton menswear director, is widely credited with bridging streetwear and luxury fashion.", "answer": "Who is Virgil Abloh?" }
+      ]
+    },
+    {
+      "name": "The Business of Hype",
+      "questions": [
+        { "value": 100, "question": "This economic principle, where limited supply meets high demand, drives up resale prices in hype culture.", "answer": "What is scarcity (supply and demand)?" },
+        { "value": 200, "question": "This term describes a brand's deliberate strategy of releasing far fewer units than demand, to maintain exclusivity and hype.", "answer": "What is artificial scarcity (limited-release strategy)?" },
+        { "value": 300, "question": "This term describes secondary-market prices that exceed a product's original retail price, common with hyped sneaker and streetwear drops.", "answer": "What is 'resale value' (markup)?" },
+        { "value": 400, "question": "This 2017 acquisition saw luxury conglomerate LVMH invest in streetwear culture by collaborating directly with Supreme rather than acquiring it outright.", "answer": "What is the LVMH-Supreme collaboration (a partnership, not a full acquisition)?" },
+        { "value": 500, "question": "In 2020, this private equity firm acquired a majority stake in Supreme, valuing the streetwear brand at over $2 billion.", "answer": "What is The Carlyle Group? (later acquired fully by VF Corporation in 2020)" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Streetwear Origins",
+    "question": "This West Coast surf and skate culture of the 1980s and 90s is widely credited as the foundational scene from which modern streetwear culture emerged.",
+    "answer": "What is skate/surf culture (California skate culture)?"
+  }
+}

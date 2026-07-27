@@ -1,0 +1,71 @@
+{
+  "packName": "Sneakers",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Jordan Brand",
+      "questions": [
+        { "value": 100, "question": "This basketball legend's signature Nike sneaker line, first released in 1985, remains one of the most iconic in history.", "answer": "Who is Michael Jordan (Air Jordan)?" },
+        { "value": 200, "question": "This original Air Jordan model, released in 1985, was famously banned by the NBA for violating uniform color rules.", "answer": "What is the Air Jordan 1?" },
+        { "value": 300, "question": "This Air Jordan model, worn during Jordan's iconic 'Flu Game' in the 1997 NBA Finals, is one of the most celebrated in the line.", "answer": "What is the Air Jordan 12?" },
+        { "value": 400, "question": "This designer, who worked closely with Michael Jordan for decades, designed nearly every numbered Air Jordan model.", "answer": "Who is Tinker Hatfield?" },
+        { "value": 500, "question": "Jordan Brand became its own standalone subsidiary of Nike in this year.", "answer": "What is 1997?" }
+      ]
+    },
+    {
+      "name": "Sneaker Brands",
+      "questions": [
+        { "value": 100, "question": "This German sportswear brand, known for its three-stripe logo, is Nike's biggest global competitor.", "answer": "What is Adidas?" },
+        { "value": 200, "question": "This American brand, known for its classic Chuck Taylor All-Stars, has been a footwear staple since the early 20th century.", "answer": "What is Converse?" },
+        { "value": 300, "question": "This brand, known for its checkerboard slip-ons and skate culture roots, was founded in 1966.", "answer": "What is Vans?" },
+        { "value": 400, "question": "This Boston-based running shoe brand has become an unexpected streetwear and 'dad shoe' trend favorite in recent years.", "answer": "What is New Balance?" },
+        { "value": 500, "question": "This brand, founded by a former Adidas designer, is known for its bold, colorway-heavy 990 and 574 running silhouettes.", "answer": "What is New Balance? (accept as it fits both clues)" }
+      ]
+    },
+    {
+      "name": "Iconic Silhouettes",
+      "questions": [
+        { "value": 100, "question": "This Nike basketball shoe, first released in 1982 and still produced today, remains one of the best-selling sneakers of all time.", "answer": "What is the Air Force 1?" },
+        { "value": 200, "question": "This Nike running shoe, first released in 1987 with visible Air cushioning in the sole, revolutionized sneaker design.", "answer": "What is the Air Max 1?" },
+        { "value": 300, "question": "This Adidas silhouette, worn by Run-D.M.C. and celebrated in their song of the same name, became a hip-hop fashion icon.", "answer": "What are Adidas Superstars (or 'My Adidas')?" },
+        { "value": 400, "question": "This Adidas shoe, made famous by soccer culture and later streetwear, is named after a Spanish bullfighting move.", "answer": "What is the Samba?" },
+        { "value": 500, "question": "This Nike running shoe, associated with 1970s track culture and later revived as a streetwear staple, is named after a Greek goddess.", "answer": "What is the Nike Cortez?" }
+      ]
+    },
+    {
+      "name": "Sneaker Culture & Slang",
+      "questions": [
+        { "value": 100, "question": "This term describes a sneaker's specific color scheme or pattern.", "answer": "What is a colorway?" },
+        { "value": 200, "question": "This term describes a brand-new, unworn pair of sneakers, still in original packaging.", "answer": "What does 'deadstock' mean?" },
+        { "value": 300, "question": "This term describes buying and reselling sneakers, often at marked-up prices, for profit.", "answer": "What is 'flipping' (reselling)?" },
+        { "value": 400, "question": "This term describes a person who collects sneakers as a hobby or passion, often owning dozens or hundreds of pairs.", "answer": "Who is a 'sneakerhead'?" },
+        { "value": 500, "question": "This term describes the practice of matching your sneakers precisely with the rest of your outfit.", "answer": "What is 'sneaker matching' (coordinating fits)?" }
+      ]
+    },
+    {
+      "name": "Rappers & Sneakers",
+      "questions": [
+        { "value": 100, "question": "This 1986 Run-D.M.C. song, paying tribute to their favorite sneaker brand, helped cement hip-hop's connection to sneaker culture.", "answer": "What is 'My Adidas'?" },
+        { "value": 200, "question": "This rapper's namesake sneaker collaborations with Nike, particularly the Air Trainer and Cactus Jack lines, are among the most hyped of the 2010s-2020s.", "answer": "Who is Travis Scott?" },
+        { "value": 300, "question": "This rapper's Adidas Yeezy Boost 350 became one of the most influential and imitated sneaker silhouettes of the 2010s.", "answer": "Who is Kanye West?" },
+        { "value": 400, "question": "This rapper's line of Reebok sneakers, released in the 1990s, made him one of the first hip-hop artists with a major signature shoe deal.", "answer": "Who is Ice Cube? (or accept early Sean Combs/other signature-shoe pioneers)" },
+        { "value": 500, "question": "This artist and Wu-Tang Clan affiliate is well known within sneaker culture for hosting collector-focused events and content.", "answer": "Who is Method Man? (accept broadly known Wu-Tang sneaker enthusiasts)" }
+      ]
+    },
+    {
+      "name": "Sneaker Business",
+      "questions": [
+        { "value": 100, "question": "This online marketplace, specializing in authenticated resale, functions like a stock exchange for sneakers.", "answer": "What is StockX?" },
+        { "value": 200, "question": "This term describes a sneaker's aftermarket price when it exceeds the original retail cost.", "answer": "What is resale value?" },
+        { "value": 300, "question": "This term describes the process StockX and GOAT use to verify a sneaker is genuine before resale.", "answer": "What is authentication?" },
+        { "value": 400, "question": "This Nike sneaker resale record was set by a pair of Nike Air Jordan 1s worn by Michael Jordan himself, selling for over $600,000 at auction.", "answer": "What is a game-worn Jordan 1 auction sale?" },
+        { "value": 500, "question": "This term describes sneakers reproduced illegally without brand authorization, a major issue in the resale market.", "answer": "What are counterfeits (fakes/replicas)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Sneaker History",
+    "question": "This company, founded in 1964 as Blue Ribbon Sports before rebranding in 1971, would go on to become the world's largest sneaker and athletic apparel company.",
+    "answer": "What is Nike?"
+  }
+}

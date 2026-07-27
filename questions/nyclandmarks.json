@@ -1,0 +1,71 @@
+{
+  "packName": "NYC Landmarks",
+  "theme": "classic",
+  "categories": [
+    {
+      "name": "Iconic Skyscrapers",
+      "questions": [
+        { "value": 100, "question": "This Art Deco skyscraper, completed in 1931, was the world's tallest building for nearly 40 years.", "answer": "What is the Empire State Building?" },
+        { "value": 200, "question": "This Financial District skyscraper, completed in 2014, stands on the site of the original World Trade Center towers.", "answer": "What is One World Trade Center?" },
+        { "value": 300, "question": "This Art Deco building, famous for its stainless steel eagle gargoyles, was briefly the world's tallest building in 1930.", "answer": "What is the Chrysler Building?" },
+        { "value": 400, "question": "This iconic Rockefeller Center building, home to NBC studios and '30 Rock,' is officially named this.", "answer": "What is 30 Rockefeller Plaza (the Comcast Building)?" },
+        { "value": 500, "question": "This ultra-thin, ultra-tall residential skyscraper on 57th Street is nicknamed 'Billionaires' Row's' most iconic tower.", "answer": "What is 432 Park Avenue?" }
+      ]
+    },
+    {
+      "name": "Parks & Public Spaces",
+      "questions": [
+        { "value": 100, "question": "This massive Manhattan park, spanning 843 acres, was designed by Frederick Law Olmsted and Calvert Vaux.", "answer": "What is Central Park?" },
+        { "value": 200, "question": "This elevated park, built on a former freight rail line on Manhattan's West Side, opened in phases starting in 2009.", "answer": "What is the High Line?" },
+        { "value": 300, "question": "This iconic Central Park bridge, a favorite filming location, is officially named this.", "answer": "What is Bow Bridge?" },
+        { "value": 400, "question": "This plaza, home to a famous red staircase, sits at the crossroads of Broadway and Seventh Avenue in Midtown.", "answer": "What is Times Square?" },
+        { "value": 500, "question": "This Brooklyn park, offering iconic Manhattan skyline views, sits along the East River waterfront.", "answer": "What is Brooklyn Bridge Park?" }
+      ]
+    },
+    {
+      "name": "Bridges & Infrastructure",
+      "questions": [
+        { "value": 100, "question": "This iconic suspension bridge, completed in 1883, connects Manhattan and Brooklyn across the East River.", "answer": "What is the Brooklyn Bridge?" },
+        { "value": 200, "question": "This bridge, connecting Staten Island and Brooklyn, was the world's longest suspension bridge when completed in 1964.", "answer": "What is the Verrazzano-Narrows Bridge?" },
+        { "value": 300, "question": "This bridge, connecting Manhattan to New Jersey, is the world's busiest motor vehicle bridge.", "answer": "What is the George Washington Bridge?" },
+        { "value": 400, "question": "This iconic Art Deco subway/pedestrian bridge connects Manhattan and Queens, offering skyline views featured in countless films.", "answer": "What is the Queensboro Bridge (Ed Koch Queensboro Bridge)?" },
+        { "value": 500, "question": "This transit hub, one of the world's largest train stations, is famous for its celestial ceiling mural in the Main Concourse.", "answer": "What is Grand Central Terminal?" }
+      ]
+    },
+    {
+      "name": "Museums & Culture",
+      "questions": [
+        { "value": 100, "question": "This massive Upper East Side museum, one of the largest in the world, is commonly known by this abbreviation.", "answer": "What is the Met (Metropolitan Museum of Art)?" },
+        { "value": 200, "question": "This modern art museum, known for works by Van Gogh and Warhol, is located in Midtown Manhattan.", "answer": "What is MoMA (Museum of Modern Art)?" },
+        { "value": 300, "question": "This Frank Lloyd Wright-designed museum, known for its spiral ramp interior, houses modern and contemporary art on the Upper East Side.", "answer": "What is the Guggenheim Museum?" },
+        { "value": 400, "question": "This Central Park West museum, famous for its dinosaur fossils and space exhibits, was featured in the 'Night at the Museum' films.", "answer": "What is the American Museum of Natural History?" },
+        { "value": 500, "question": "This performing arts complex on the Upper West Side is home to the Metropolitan Opera and New York Philharmonic.", "answer": "What is Lincoln Center?" }
+      ]
+    },
+    {
+      "name": "Statues & Monuments",
+      "questions": [
+        { "value": 100, "question": "This iconic copper statue, a gift from France in 1886, stands on Liberty Island in New York Harbor.", "answer": "What is the Statue of Liberty?" },
+        { "value": 200, "question": "This immigration processing center, operating from 1892 to 1954, sits near the Statue of Liberty in New York Harbor.", "answer": "What is Ellis Island?" },
+        { "value": 300, "question": "This memorial, marking the footprints of the original Twin Towers, includes two large reflecting pools.", "answer": "What is the National September 11 Memorial?" },
+        { "value": 400, "question": "This bronze statue, depicting a boxer in a fighting stance, stands at the base of the Financial District, symbolizing resilience.", "answer": "What is the Charging Bull?" },
+        { "value": 500, "question": "This bronze statue, installed facing the Charging Bull in 2017, depicts a young girl standing defiantly.", "answer": "What is Fearless Girl?" }
+      ]
+    },
+    {
+      "name": "Only in New York",
+      "questions": [
+        { "value": 100, "question": "This iconic ball, dropped each New Year's Eve, descends above this famous Manhattan intersection.", "answer": "What is Times Square?" },
+        { "value": 200, "question": "This iconic annual parade, featuring giant balloons, marches through Manhattan every Thanksgiving morning.", "answer": "What is the Macy's Thanksgiving Day Parade?" },
+        { "value": 300, "question": "This iconic hot dog stand chain, a Coney Island original since 1916, is famous for its annual July 4th eating contest.", "answer": "What is Nathan's Famous?" },
+        { "value": 400, "question": "This historic Coney Island amusement park attraction, a wooden roller coaster built in 1927, remains a National Historic Landmark.", "answer": "What is the Cyclone?" },
+        { "value": 500, "question": "This iconic New York City subway system first opened to the public in this year.", "answer": "What is 1904?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "New York Firsts",
+    "question": "This Lower Manhattan building, completed in 1913, was the tallest building in the world for nearly 17 years before the 1930 Art Deco race began.",
+    "answer": "What is the Woolworth Building?"
+  }
+}

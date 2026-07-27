@@ -1,0 +1,71 @@
+{
+  "packName": "True Crime",
+  "theme": "dark",
+  "categories": [
+    {
+      "name": "Infamous Serial Killers",
+      "questions": [
+        { "value": 100, "question": "This serial killer, active in 1970s Washington and Utah, later confessed to over 30 murders before his 1989 execution.", "answer": "Who is Ted Bundy?" },
+        { "value": 200, "question": "This Milwaukee-based killer, active in the 1980s and 90s, was known as the 'Milwaukee Cannibal.'", "answer": "Who is Jeffrey Dahmer?" },
+        { "value": 300, "question": "This unidentified killer terrorized the San Francisco Bay Area in the late 1960s and taunted police with cipher letters.", "answer": "Who is the Zodiac Killer?" },
+        { "value": 400, "question": "This killer, active in Wichita, Kansas, referred to himself by an acronym describing his method: bind, torture, kill.", "answer": "Who is the BTK Killer (Dennis Rader)?" },
+        { "value": 500, "question": "This British medical doctor was convicted of murdering over 200 patients, making him one of the most prolific serial killers in history.", "answer": "Who is Harold Shipman?" }
+      ]
+    },
+    {
+      "name": "True Crime Documentaries",
+      "questions": [
+        { "value": 100, "question": "This 2015 Netflix documentary series reexamined the murder case against Steven Avery.", "answer": "What is 'Making a Murderer'?" },
+        { "value": 200, "question": "This podcast, launched in 2014, popularized the modern true crime podcast genre by investigating the murder of Hae Min Lee.", "answer": "What is 'Serial'?" },
+        { "value": 300, "question": "This 2003 documentary examined the case of Aileen Wuornos, a Florida sex worker convicted of murdering several men.", "answer": "What is 'Aileen: Life and Death of a Serial Killer'?" },
+        { "value": 400, "question": "This 2020 Netflix docuseries examined the mysterious 2013 death of Elisa Lam at the Cecil Hotel in Los Angeles.", "answer": "What is 'Crime Scene: The Vanishing at the Cecil Hotel'?" },
+        { "value": 500, "question": "This 2019 Netflix documentary and accompanying dramatized film both focused on Ted Bundy, featuring interviews recorded on death row.", "answer": "What is 'Conversations with a Killer: The Ted Bundy Tapes'?" }
+      ]
+    },
+    {
+      "name": "Unsolved Mysteries",
+      "questions": [
+        { "value": 100, "question": "This wealthy family's young daughter, JonBenét Ramsey, was found murdered in their Colorado home in 1996, a case that remains unsolved.", "answer": "Who is JonBenét Ramsey?" },
+        { "value": 200, "question": "This English nanny case, involving the disappearance of a young British girl in Portugal in 2007, remains one of the most publicized unsolved cases.", "answer": "Who is Madeleine McCann?" },
+        { "value": 300, "question": "This 1947 unsolved Los Angeles murder case, involving a young woman found mutilated, became known by this nickname referencing her dark hair and clothing.", "answer": "Who is the Black Dahlia (Elizabeth Short)?" },
+        { "value": 400, "question": "This serial murder case, involving unidentified victims found along a Texas highway, gave the case its common nickname.", "answer": "What is the 'Killing Fields' (Texas)?" },
+        { "value": 500, "question": "This unidentified killer, active in California in the 1970s and 80s, was identified decades later through genetic genealogy as Joseph James DeAngelo.", "answer": "Who is the Golden State Killer?" }
+      ]
+    },
+    {
+      "name": "Cults & Con Artists",
+      "questions": [
+        { "value": 100, "question": "This cult leader orchestrated the 1969 Tate-LaBianca murders through his followers, without directly committing the killings himself.", "answer": "Who is Charles Manson?" },
+        { "value": 200, "question": "This cult leader led over 900 followers to their deaths in a mass murder-suicide in Guyana in 1978.", "answer": "Who is Jim Jones?" },
+        { "value": 300, "question": "This Theranos founder was convicted of fraud after her blood-testing startup was revealed to be built on falsified technology claims.", "answer": "Who is Elizabeth Holmes?" },
+        { "value": 400, "question": "This con artist, the subject of a Netflix documentary and Hulu series, convinced New York's elite she was a wealthy German heiress.", "answer": "Who is Anna Sorokin (Anna Delvey)?" },
+        { "value": 500, "question": "This Waco, Texas cult leader led the Branch Davidians during a deadly 1993 standoff with federal agents.", "answer": "Who is David Koresh?" }
+      ]
+    },
+    {
+      "name": "Courtroom Dramas",
+      "questions": [
+        { "value": 100, "question": "This 1995 televised trial, ending in acquittal, centered on former football star O.J. Simpson.", "answer": "What is the O.J. Simpson murder trial?" },
+        { "value": 200, "question": "This Italian exchange student was controversially convicted, then acquitted, of murdering her roommate in Perugia, Italy.", "answer": "Who is Amanda Knox?" },
+        { "value": 300, "question": "This 2021 trial, resulting in a defamation verdict, involved actors Johnny Depp and Amber Heard.", "answer": "What is the Depp v. Heard trial?" },
+        { "value": 400, "question": "This former NFL tight end was convicted of murder in 2015 and later died by suicide in prison in 2017.", "answer": "Who is Aaron Hernandez?" },
+        { "value": 500, "question": "This rapper and producer was convicted in 2025 on charges related to prostitution-adjacent offenses following a high-profile federal trial.", "answer": "Who is Sean 'Diddy' Combs?" }
+      ]
+    },
+    {
+      "name": "True Crime in Pop Culture",
+      "questions": [
+        { "value": 100, "question": "This term describes true crime content creators who cover cases on platforms like YouTube, often while doing makeup — a popular content genre.", "answer": "What is 'mukbang'/'GRWM true crime' (get-ready-with-me true crime)?" },
+        { "value": 200, "question": "This true crime-focused subreddit and larger online community became a hub for amateur sleuths investigating unsolved cases.", "answer": "What is r/UnresolvedMysteries (or generally 'websleuths')?" },
+        { "value": 300, "question": "This 2022 Netflix series dramatized the crimes of Jeffrey Dahmer and sparked significant public debate over victim exploitation.", "answer": "What is 'Dahmer – Monster: The Jeffrey Dahmer Story'?" },
+        { "value": 400, "question": "This genre of podcast, often hosted by comedic duos discussing real murder cases, gained massive popularity in the 2010s.", "answer": "What is a true crime comedy podcast (e.g. 'My Favorite Murder')?" },
+        { "value": 500, "question": "This term describes public fascination with and obsessive following of ongoing criminal investigations, especially via social media.", "answer": "What is 'true crime culture' (or armchair detective culture)?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Cold Cases Solved",
+    "question": "In 2018, investigators used this innovative genetic technique, cross-referencing DNA with public genealogy databases, to finally identify the Golden State Killer.",
+    "answer": "What is investigative genetic genealogy?"
+  }
+}

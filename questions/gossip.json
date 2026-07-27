@@ -1,0 +1,71 @@
+{
+  "packName": "Gossip",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Gossip Media History",
+      "questions": [
+        { "value": 100, "question": "This magazine, founded in 1974 and focused on celebrity news, remains one of the longest-running gossip publications in the U.S.", "answer": "What is People magazine?" },
+        { "value": 200, "question": "This tabloid-style celebrity news website, launched in 2005 by Harvey Levin, became known for breaking major celebrity scandals first.", "answer": "What is TMZ?" },
+        { "value": 300, "question": "This gossip blogger, known for her acerbic commentary in the 2000s, rose to fame under a pseudonym referencing a certain city.", "answer": "Who is Perez Hilton?" },
+        { "value": 400, "question": "This tabloid, famous for supermarket checkout lines and sensational headlines, has covered celebrity gossip since 1926.", "answer": "What is the National Enquirer?" },
+        { "value": 500, "question": "This 1920s-40s Hollywood gossip columnist, along with rival Louella Parsons, held enormous power over stars' public images.", "answer": "Who is Hedda Hopper?" }
+      ]
+    },
+    {
+      "name": "Celebrity Feuds",
+      "questions": [
+        { "value": 100, "question": "This long-running feud between two pop divas, dating back to the 2000s, has resurfaced periodically in headlines for years.", "answer": "Who are Mariah Carey and Jennifer Lopez? (accept other famous pop diva rivalries)" },
+        { "value": 200, "question": "This 2016 phone call leak, involving a Kardashian-Jenner family member and a pop star, reignited a feud over an alleged song lyric.", "answer": "Who is Kim Kardashian and Taylor Swift (regarding Kanye West's 'Famous')?" },
+        { "value": 300, "question": "This 2009 televised interruption, when a rapper stormed the stage during a young singer's award acceptance, became one of pop culture's most talked-about gossip moments.", "answer": "Who is Kanye West (interrupting Taylor Swift at the VMAs)?" },
+        { "value": 400, "question": "This tense on-stage slap, involving a comedian and an actor at the 2022 Academy Awards, became one of the biggest gossip stories of the decade.", "answer": "Who is Will Smith (slapping Chris Rock)?" },
+        { "value": 500, "question": "This long-standing feud between two hip-hop moguls in the 2020s spilled into diss tracks, lawsuits, and constant tabloid coverage.", "answer": "Who are Drake and Kendrick Lamar?" }
+      ]
+    },
+    {
+      "name": "Reality TV Drama",
+      "questions": [
+        { "value": 100, "question": "This reality TV family, launched to fame in 2007, has remained a constant fixture of celebrity gossip coverage for nearly two decades.", "answer": "Who are the Kardashian-Jenner family?" },
+        { "value": 200, "question": "This Bravo reality franchise, following wealthy women across different U.S. cities, is a constant source of gossip blog content.", "answer": "What is 'The Real Housewives'?" },
+        { "value": 300, "question": "This VH1 reality franchise, focused on musicians and their partners, is known for generating tabloid-worthy relationship drama.", "answer": "What is 'Love & Hip Hop'?" },
+        { "value": 400, "question": "This term describes reality TV moments deliberately staged or exaggerated to generate gossip and media buzz.", "answer": "What is a 'manufactured storyline'?" },
+        { "value": 500, "question": "This term describes the reunion special format common across reality franchises, often the site of the season's biggest gossip-worthy confrontations.", "answer": "What is a reunion episode?" }
+      ]
+    },
+    {
+      "name": "Gossip Slang",
+      "questions": [
+        { "value": 100, "question": "This slang term describes unverified, often juicy information being shared about someone, typically in a casual or dramatic tone.", "answer": "What is 'tea' (spilling the tea)?" },
+        { "value": 200, "question": "This term describes a public figure's carefully managed public image, which gossip often threatens to expose or contradict.", "answer": "What is a 'persona' (public image)?" },
+        { "value": 300, "question": "This term describes leaked private information, often screenshots or messages, shared publicly to embarrass someone.", "answer": "What are 'receipts'?" },
+        { "value": 400, "question": "This term describes rumors about a celebrity couple secretly dating, often fueled by paparazzi photos or social media clues.", "answer": "What is a 'showmance' or dating rumor?" },
+        { "value": 500, "question": "This term describes a celebrity being 'called out' publicly, often via social media, for controversial behavior.", "answer": "What is being 'canceled' (cancel culture)?" }
+      ]
+    },
+    {
+      "name": "Social Media & Gossip",
+      "questions": [
+        { "value": 100, "question": "This anonymous celebrity gossip Instagram account, known for blind items, gained massive popularity in the 2020s.", "answer": "Who is Deuxmoi?" },
+        { "value": 200, "question": "This term describes a gossip story where a celebrity's identity is deliberately hidden, encouraging readers to guess who it's about.", "answer": "What is a 'blind item'?" },
+        { "value": 300, "question": "This social platform, known for short-form video, has become a major driver of viral celebrity gossip and 'tea' content in the 2020s.", "answer": "What is TikTok?" },
+        { "value": 400, "question": "This term describes fans investigating a celebrity's personal life or relationships using publicly available social media clues.", "answer": "What is 'stan detective work' (fan sleuthing)?" },
+        { "value": 500, "question": "This former celebrity gossip site, launched in the 2000s and known for snarky commentary, was one of the first major blogs of its kind before shutting down in 2014.", "answer": "What is Gawker?" }
+      ]
+    },
+    {
+      "name": "Iconic Gossip Moments",
+      "questions": [
+        { "value": 100, "question": "This 1990s courtroom drama, involving a football legend accused of murder, became one of the most-followed celebrity scandals in TV history.", "answer": "Who is O.J. Simpson?" },
+        { "value": 200, "question": "This pop star's public 2007 breakdown, including a widely photographed head-shaving incident, became a major tabloid moment.", "answer": "Who is Britney Spears?" },
+        { "value": 300, "question": "This 2003 Los Angeles police stop of a pop star sparked years of tabloid fascination with the star's personal life and led to a documented conservatorship years later.", "answer": "Who is Britney Spears?" },
+        { "value": 400, "question": "This 2016 controversy, involving a leaked phone call about a song lyric, led to a pop star being labeled with a snake emoji by fans of her rival.", "answer": "Who is Taylor Swift?" },
+        { "value": 500, "question": "This documentary and public reckoning in 2021, examining the media's treatment of a 2000s pop star, sparked broader conversations about celebrity gossip culture's harms.", "answer": "What is 'Framing Britney Spears'?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Gossip Culture",
+    "question": "This term describes the informal network of paparazzi, gossip blogs, and tabloids that collectively track and report on celebrities' daily lives.",
+    "answer": "What is the 'gossip industry' (or 'tabloid press')?"
+  }
+}

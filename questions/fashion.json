@@ -1,0 +1,71 @@
+{
+  "packName": "Fashion",
+  "theme": "neon",
+  "categories": [
+    {
+      "name": "Fashion Houses",
+      "questions": [
+        { "value": 100, "question": "This French fashion house, founded by a designer known for the 'little black dress,' remains one of the world's most iconic brands.", "answer": "What is Chanel?" },
+        { "value": 200, "question": "This Italian luxury brand, known for its interlocking 'GG' logo, was founded in Florence in 1921.", "answer": "What is Gucci?" },
+        { "value": 300, "question": "This French house, known for its brown-and-tan monogram canvas, is one of the most counterfeited brands in the world.", "answer": "What is Louis Vuitton?" },
+        { "value": 400, "question": "This Italian brand, associated with bold prints and a Medusa head logo, was founded by a designer who was tragically murdered in 1997.", "answer": "What is Versace?" },
+        { "value": 500, "question": "This American designer, known for his eponymous label and streetwear influence, became artistic director of Louis Vuitton menswear before his 2021 death.", "answer": "Who is Virgil Abloh?" }
+      ]
+    },
+    {
+      "name": "Iconic Designers",
+      "questions": [
+        { "value": 100, "question": "This British designer, known for provocative punk-inspired fashion, founded her eponymous label in the 1970s.", "answer": "Who is Vivienne Westwood?" },
+        { "value": 200, "question": "This American designer, known for minimalist American sportswear, built an empire under his own initials-based logo.", "answer": "Who is Ralph Lauren?" },
+        { "value": 300, "question": "This designer, known as the 'King of Couture,' led Christian Dior and later founded his own eponymous house before his 2010 death.", "answer": "Who is Alexander McQueen?" },
+        { "value": 400, "question": "This Japanese designer, founder of Comme des Garçons, is known for avant-garde, deconstructed silhouettes.", "answer": "Who is Rei Kawakubo?" },
+        { "value": 500, "question": "This designer, who led Chanel for over three decades until his 2019 death, was known for his white hair and black sunglasses.", "answer": "Who is Karl Lagerfeld?" }
+      ]
+    },
+    {
+      "name": "Fashion Weeks & Events",
+      "questions": [
+        { "value": 100, "question": "This annual charity gala, held at the Metropolitan Museum of Art, is one of the biggest nights in fashion.", "answer": "What is the Met Gala?" },
+        { "value": 200, "question": "This city, alongside Paris, Milan, and London, rounds out the 'Big Four' global fashion weeks.", "answer": "What is New York?" },
+        { "value": 300, "question": "This term describes the practice of a fashion house unveiling its new seasonal collection to press and buyers.", "answer": "What is a runway show?" },
+        { "value": 400, "question": "This longtime editor-in-chief of Vogue is one of the most powerful figures in the global fashion industry.", "answer": "Who is Anna Wintour?" },
+        { "value": 500, "question": "This Parisian fashion week, dedicated exclusively to the most exclusive, hand-made garments, is called this.", "answer": "What is Haute Couture Week?" }
+      ]
+    },
+    {
+      "name": "Hip-Hop & Fashion",
+      "questions": [
+        { "value": 100, "question": "This designer, a rapper and entrepreneur, launched the Yeezy sneaker and clothing line with Adidas.", "answer": "Who is Kanye West?" },
+        { "value": 200, "question": "This late designer, mentioned earlier, became the first Black artistic director at Louis Vuitton and also founded the streetwear label Off-White.", "answer": "Who is Virgil Abloh?" },
+        { "value": 300, "question": "This rapper and entrepreneur launched the clothing brand Rocawear in the late 1990s.", "answer": "Who is Jay-Z?" },
+        { "value": 400, "question": "This brand, co-founded by Sean Combs, became one of the most successful hip-hop-affiliated fashion labels of the early 2000s.", "answer": "What is Sean John?" },
+        { "value": 500, "question": "This luxury Italian house appointed rapper/designer Pharrell Williams as menswear creative director in 2023.", "answer": "What is Louis Vuitton?" }
+      ]
+    },
+    {
+      "name": "Fashion Terms & Trends",
+      "questions": [
+        { "value": 100, "question": "This term describes clothing made to fit one specific customer's exact body measurements.", "answer": "What is bespoke/made-to-measure?" },
+        { "value": 200, "question": "This French term describes exclusive, hand-made fashion created by top design houses for individual clients.", "answer": "What is haute couture?" },
+        { "value": 300, "question": "This term describes mass-produced clothing made in standard sizes, as opposed to custom-made garments.", "answer": "What is ready-to-wear (prêt-à-porter)?" },
+        { "value": 400, "question": "This term describes fast, cheaply produced clothing designed to quickly replicate current runway trends at low cost.", "answer": "What is fast fashion?" },
+        { "value": 500, "question": "This term describes clothing and accessories made to be more durable and consciously produced, opposing fast fashion's environmental impact.", "answer": "What is sustainable fashion?" }
+      ]
+    },
+    {
+      "name": "Fashion Icons",
+      "questions": [
+        { "value": 100, "question": "This former First Lady is often credited with popularizing the pillbox hat and a signature minimalist style in the 1960s.", "answer": "Who is Jacqueline Kennedy Onassis?" },
+        { "value": 200, "question": "This model, known as one of the original 'supermodels' of the 1990s, became one of fashion's most recognizable faces.", "answer": "Who is Naomi Campbell (accept Cindy Crawford, Linda Evangelista, or Christy Turlington)?" },
+        { "value": 300, "question": "This musician's ever-changing, boundary-pushing style throughout the 2010s made her a fixture at fashion weeks worldwide.", "answer": "Who is Rihanna?" },
+        { "value": 400, "question": "This actress and style icon is famously associated with Audrey Hepburn's little black dress in 'Breakfast at Tiffany's,' designed by Givenchy.", "answer": "Who is Audrey Hepburn?" },
+        { "value": 500, "question": "This late Princess of Wales was one of the most photographed fashion icons of the 20th century.", "answer": "Who is Princess Diana?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Fashion Business",
+    "question": "This French luxury conglomerate, home to brands like Louis Vuitton, Dior, and Givenchy, is the world's largest luxury goods company by revenue.",
+    "answer": "What is LVMH (Moët Hennessy Louis Vuitton)?"
+  }
+}

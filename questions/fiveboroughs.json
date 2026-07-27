@@ -1,0 +1,71 @@
+{
+  "packName": "Five Boroughs",
+  "theme": "classic",
+  "categories": [
+    {
+      "name": "Borough Basics",
+      "questions": [
+        { "value": 100, "question": "New York City is made up of this many boroughs.", "answer": "What is five?" },
+        { "value": 200, "question": "This borough is also New York State's most populous county and is coextensive with New York County.", "answer": "What is Manhattan?" },
+        { "value": 300, "question": "This borough, the largest by land area, is coextensive with Queens County.", "answer": "What is Queens?" },
+        { "value": 400, "question": "This borough, the most populous of the five, is coextensive with Kings County.", "answer": "What is Brooklyn?" },
+        { "value": 500, "question": "This event, occurring in 1898, merged the five separate boroughs into a single consolidated city.", "answer": "What is the Consolidation of Greater New York (1898)?" }
+      ]
+    },
+    {
+      "name": "The Bronx",
+      "questions": [
+        { "value": 100, "question": "This borough is the only one of the five located primarily on the U.S. mainland rather than an island.", "answer": "What is the Bronx?" },
+        { "value": 200, "question": "This iconic baseball stadium, home to the New York Yankees, is located in the Bronx.", "answer": "What is Yankee Stadium?" },
+        { "value": 300, "question": "This world-famous zoo, one of the largest in the U.S., is located in the Bronx.", "answer": "What is the Bronx Zoo?" },
+        { "value": 400, "question": "This genre of music is widely credited as having originated in the Bronx in the early 1970s.", "answer": "What is hip-hop?" },
+        { "value": 500, "question": "This Bronx neighborhood, the site of DJ Kool Herc's legendary 1973 party, is considered hip-hop's birthplace.", "answer": "What is 1520 Sedgwick Avenue (West Bronx)?" }
+      ]
+    },
+    {
+      "name": "Staten Island",
+      "questions": [
+        { "value": 100, "question": "This borough is the least populous of the five and is coextensive with Richmond County.", "answer": "What is Staten Island?" },
+        { "value": 200, "question": "This free public ferry connects Staten Island to Manhattan, offering iconic views of the Statue of Liberty along the way.", "answer": "What is the Staten Island Ferry?" },
+        { "value": 300, "question": "This bridge, connecting Staten Island to Brooklyn, was the world's longest suspension bridge upon its 1964 completion.", "answer": "What is the Verrazzano-Narrows Bridge?" },
+        { "value": 400, "question": "This Wu-Tang Clan hip-hop group, though its members grew up across boroughs, is closely associated with Staten Island, which they nicknamed 'Shaolin.'", "answer": "Who is Wu-Tang Clan?" },
+        { "value": 500, "question": "Staten Island was the last of the five boroughs to be connected to the rest of NYC by a fixed highway link, via this bridge completed in 1964.", "answer": "What is the Verrazzano-Narrows Bridge?" }
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "questions": [
+        { "value": 100, "question": "This borough is the geographically smallest of the five but historically the most economically significant.", "answer": "What is Manhattan?" },
+        { "value": 200, "question": "This grid layout, established by an 1811 plan, organizes most of Manhattan's streets and avenues.", "answer": "What is the Commissioners' Plan of 1811 (the Manhattan street grid)?" },
+        { "value": 300, "question": "This narrow street in Lower Manhattan is synonymous with the American financial industry.", "answer": "What is Wall Street?" },
+        { "value": 400, "question": "This large park, occupying a significant portion of central Manhattan, was one of the first landscaped public parks in the U.S.", "answer": "What is Central Park?" },
+        { "value": 500, "question": "This Native American tribe originally inhabited Manhattan before Dutch colonization, and the island's name derives from their language.", "answer": "Who are the Lenape?" }
+      ]
+    },
+    {
+      "name": "Brooklyn & Queens",
+      "questions": [
+        { "value": 100, "question": "This borough was an independent city until it merged into Greater New York in 1898, and remains fiercely proud of its distinct identity.", "answer": "What is Brooklyn?" },
+        { "value": 200, "question": "This baseball team, now based in Los Angeles, originally played in Brooklyn before relocating in 1957.", "answer": "Who are the Dodgers?" },
+        { "value": 300, "question": "This borough is home to two of New York City's three major airports.", "answer": "What is Queens (JFK and LaGuardia)?" },
+        { "value": 400, "question": "This Queens neighborhood's public housing development is one of the most influential in hip-hop history, home to Nas and Mobb Deep.", "answer": "What is Queensbridge?" },
+        { "value": 500, "question": "This Brooklyn neighborhood, historically a hub of Dutch settlement, later became closely associated with Caribbean immigrant culture.", "answer": "What is Flatbush?" }
+      ]
+    },
+    {
+      "name": "Borough Rivalries & Pride",
+      "questions": [
+        { "value": 100, "question": "This term describes the friendly (and sometimes not-so-friendly) competitive spirit between New York's five boroughs.", "answer": "What is 'borough pride' (or 'borough rivalry')?" },
+        { "value": 200, "question": "This borough is often jokingly referred to as 'the forgotten borough' due to its comparative lack of major tourist attention.", "answer": "What is Staten Island?" },
+        { "value": 300, "question": "This annual marathon famously runs through all five boroughs of New York City.", "answer": "What is the New York City Marathon?" },
+        { "value": 400, "question": "This borough, Manhattan, is often referred to simply as 'the city' by residents of the other four boroughs.", "answer": "What is Manhattan?" },
+        { "value": 500, "question": "This mayor, elected in the 1990s, famously championed cleaning up crime across the boroughs during his tenure.", "answer": "Who is Rudy Giuliani?" }
+      ]
+    }
+  ],
+  "finalJeopardy": {
+    "category": "Consolidation of 1898",
+    "question": "Before the 1898 consolidation, this borough (aside from Manhattan) was the only other one that had already existed as a fully independent, incorporated city in its own right.",
+    "answer": "What is Brooklyn?"
+  }
+}
