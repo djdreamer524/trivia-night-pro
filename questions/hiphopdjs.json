@@ -55,11 +55,11 @@
     {
       "name": "DJs Turned Icons",
       "questions": [
-        { "value": 100, "question": "This DJ and producer, originally known for Miami bass and later global EDM-influenced hip-hop, built one of the most successful DJ-mogul careers ever.", "answer": "Who is DJ Khaled?" },
-        { "value": 200, "question": "This DJ, closely associated with hip-hop royalty through his marriage, has built a career as both a celebrity DJ and entrepreneur.", "answer": "Who is DJ Khaled? (accept Swizz Beatz, married to Alicia Keys)" },
-        { "value": 300, "question": "This West Coast DJ and producer, Dr. Dre's protégé, later became famous for headphone and audio equipment branding beyond music.", "answer": "Who is Dr. Dre? (Beats by Dre)" },
+        { "value": 100, "question": "This DJ, originally known for Miami bass and later global EDM-influenced hip-hop, built one of the most successful DJ-mogul careers ever.", "answer": "Who is DJ Khaled?" },
+        { "value": 200, "question": "This DJ, is a foundational hip-hop icon, celebrated for his legendary radio mix shows on 98.7 Kiss FM.", "answer": "Who is Kool DJ Red Alert" },
+        { "value": 300, "question": "This West Coast DJ and producer later became famous for headphones and audio equipment branding beyond music.", "answer": "Who is Dr. Dre? (Beats by Dre)" },
         { "value": 400, "question": "This late DJ, tragically killed in 2002, was a member of Run-DMC and one of the most influential turntablists in hip-hop history.", "answer": "Who is Jam Master Jay?" },
-        { "value": 500, "question": "This artist, originally rising as a DJ and producer before becoming a chart-topping rapper himself, is known for hits like 'All I Do Is Win.'", "answer": "Who is DJ Khaled?" }
+        { "value": 500, "question": "This DJ, was pioneering a new sound in Chicago’s underground clubs. Often called “The Godfather of House Music.'", "answer": "Who is Frankie Knuckles" }
       ]
     }
   ],
